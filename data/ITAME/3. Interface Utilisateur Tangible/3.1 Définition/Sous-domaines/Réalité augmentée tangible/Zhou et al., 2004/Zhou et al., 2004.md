@@ -1,0 +1,5 @@
+# Systèmes interactifs de divertissements utilisant des cubes tangibles [@zhou2004interactive]
+
+Un "magic story book" permet de visualiser en réalité augmentée des modèles virtuelles associés à chacune des pages du livre. Ces pages sont, le plus souvent, marquées par un code-barre qui sert de repère (point d'origine, rotation, etc.) à l'environnement virtuelle qui sera visualisé en réalité augmentée. L'auteur nous fait remarquer, que la dimension limitée des pages d'un livre contraint la manipulation des modèles virtuelles à une manipulation planaire. En réponse à cette problématique, l'auteur décrit un "magic story cube" qui remplace les pages du livre par des cubes tangibles qui introduisent du son 3D, une manipulation 3D et surtout un sens du toucher 3D qui inhibent l'attractivité et la compréhension de la narration.
+
+## Références

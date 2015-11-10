@@ -1,0 +1,6 @@
+# Slot Machine [@perlman1976using]
+
+L'interface tangible de Perlman utilise des cartes physiques pour représenter les constructions du langage qui sont utilisées pour programmer la "Lego Turtle".
+La "Lego Turtle" aide les enfants à comprendre comment se construisent les formes géométriques dans l'espace mais écrire des programmes était difficile pour les jeunes enfants et impossible pour les enfants qui ne pouvaient pas écrire. Perlman pensait que ces difficultés n'étaient pas seulement un problème syntaxique du langage utilisé mais aussi un problème d'interface utilisateur. Avec le "Slot Machine" chacune des constructions du language de programmation (action, nombre, variable, ou condition) est représentée par une carte plastifiée. Pour spécifier un programme, des séquences de cartes sont insérées dans une des trois différentes cassiers de couleur de la machine. Sur le coté gauche du cassiers il y a un bouton "Do It" qui ordonne à la tortue d’exécuter le programme de la gauche vers la droite. L'accumulation de cartes de type différente crée des commandes complexes telle que "Move Forward Twice". Placer une carte de couleur spéciale dans un cassier crée un appel de procédure vers le cassier de cette même couleur qui retourne ensuite vers les cartes restantes du cassier.
+
+## Références

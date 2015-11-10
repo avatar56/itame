@@ -1,0 +1,3 @@
+# Consommateurs individuels vs. Autres utilisateurs, groupes, ou échelles
+
+La majorité des travaux en IHM pour le developpement durable abordent les utilisateurs en tant que consommateur individuel, soit directement (e.g., comprendre, éduquer ou changer leurs comportements) ou indirectement (e.g., en altérant les pratiques de conception afin de fournir aux consommateurs plus d'options durables à l'achat ou pour la réutilisation)

@@ -1,0 +1,55 @@
+    #vid-container {
+      width:100%;
+      height:100%;
+      width: 820px; 
+      height: 461.25px; 
+      float: none; 
+      clear: both; 
+      margin: 2px auto;
+   }
+  .tree{
+    width:100wh;
+    height:50em;
+  }
+    .node {
+        cursor: pointer;
+    }
+
+    .node circle {
+      fill: #fff;
+      stroke: #000099;;
+      stroke-width: 5px;
+
+    }
+
+    .node text {
+      /*font-size: 30px;
+      color: #000099;*/
+      text-shadow:
+      #FFF 1px 1px,
+      #FFF -1px 1px,
+      #FFF -1px -1px,
+      #FFF 1px -1px;
+    }
+
+    .link {
+      fill: none;
+      stroke: #000099;
+      stroke-width: 5px;
+    }
+
+  .hyper {
+      color: red;
+      text-decoration: underline;
+  }
+
+  .hyper:hover {
+      color:yellow;
+      text-decoration: none;
+  }   
+  .selected {
+    font-weight:bold;
+  }
+  .not-selected {
+    font-weight:normal;
+  }
