@@ -1,91 +1,56 @@
-<h2 id="introduction">Introduction</h2>
-<p>Depuis maintenant quelques décennies, la société moderne a évolué dynamiquement vers une société de consommation où chaque niveau de la société (e.g., individu, groupe, communauté) est amené à consommer des ressources durablement (e.g., produits technologiques, services publics) ou momentanément (e.g., produits alimentaires, gaz, eau, énergie). L’acte de consommation, de part sa nature, entraîne la destruction ou la transformation de la ressource consommé. Cette nature destructrice est problématique pour les ressource épuisables telle que les énergies fossiles où les stocks sont limités (e.g., pétrole, charbon, gaz naturel). Ce problème s’est avéré avec l’arrivée des premières crises énergétiques des années 70 lorsque la société a identifié que son mode de consommation, en l’occurrence énergétique, n’était pas durable et qu’il représentait un danger pour la société elle-même (i.e. réchauffement climatique, pollution, destruction de la biodiversité).</p>
-<p>En réponse à ces problématiques, la société a investi dans la recherche de nouvelles ressources énergétiques qui cette fois-ci seront inépuisables et sans danger, les énergies renouvelables (e.g., solaire, hydraulique, éolienne, géothermique). Malgré la prise de conscience par le grand public de la gravité des questions écologiques, l’énergie fossile restent encore, aujourd’hui et de loin, la ressource énergétique la plus consommer au monde (cf. Figure 1).</p>
-<div id="pieChart" style="width:100wh;height:70vh">
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="generator" content="scholpandoc">
+  <meta name="viewport" content="width=device-width">
+  
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.7.1/modernizr.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
+  <link rel="stylesheet" href="css/scholmd-heuristically-latest.min.css">
+</head>
+<body>
+<div class="scholmd-container">
+<div class="scholmd-main">
+<div class="scholmd-content">
+<div class="references">
+<h1>ITAME</h1>
 </div>
-
-<script>
-
-$("#pieChart").one('mouseover',function() {
-var pie = new d3pie("pieChart", {
-    "footer": {
-        "color": "#999999",
-        "fontSize": 10,
-        "font": "open sans",
-        "location": "bottom-left"
+</div>
+</div>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    tex2jax: {
+      processClass: "math"
     },
-    "size": {
-        "canvasWidth": 700,
-        "pieInnerRadius": "60%",
-        "pieOuterRadius": "72%"
-    },
-    "data": {
-        "sortOrder": "value-desc",
-        "content": [
-            {
-                "label": "Energie fossile",
-                "value": 0.865,
-                "color": "#000000"
-            },
-            {
-                "label": "Energie renouvelable",
-                "value": 0.099,
-                "color": "#00ff1e"
-            },
-            {
-                "label": "Energie nucléaire",
-                "value": 0.044,
-                "color": "#0049ff"
-            }
-        ]
-    },
-    "labels": {
-        "outer": {
-            "pieDistance": 32
+    TeX: {
+        TagSide: "left",
+        TagIndent: "1.2em",
+        equationNumbers: {
+            autoNumber: "AMS"
         },
-        "inner": {
-            "hideWhenLessThanPercentage": 3
-        },
-        "mainLabel": {
-            "fontSize": 18
-        },
-        "percentage": {
-            "color": "#ffffff",
-            "decimalPlaces": 1
-        },
-        "value": {
-            "color": "#adadad",
-            "fontSize": 11
-        },
-        "lines": {
-            "enabled": true
-        },
-        "truncation": {
-            "enabled": true
+        Macros: {
+            ensuremath: ["#1",1],
+            textsf: ["\\mathsf{\\text{#1}}",1],
+            texttt: ["\\mathtt{\\text{#1}}",1]
         }
     },
-    "effects": {
-        "pullOutSegmentOnClick": {
-            "effect": "linear",
-            "speed": 400,
-            "size": 8
-        }
-    },
-    "misc": {
-        "gradient": {
-            "enabled": true,
-            "percentage": 100
-        }
+    "HTML-CSS": { 
+        scale: 100,
+        availableFonts: ["TeX"], 
+        preferredFont: "TeX",
+        webFont: "TeX",
+        imageFont: "TeX",
+        EqnChunk: 1000
     }
 });
-}) 
 </script>
-<h4 style="text-align:center">
-Figure 1 - Production énergétique mondiale en 2014<span class="scholmd-citation" data-cites="british2014">[1]</span>
-</h4>
-<p>Cette lenteur dans la transition vers les énergies renouvelables est la conséquence d’une continuité dans l’exploitation des énergies fossiles dont l’économie restent, encore aujourd’hui, considérables et par un passage à l’acte de la population vers les énergies renouvelables difficile.</p>
-<p>TO DO : STOCKAGE DE l’ENERGIE ?</p>
-<div class="references">
-<h2>Références</h2>
-<p>1. BP (2014) 2014 in review. Available: <a href="http://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/2014-in-review.html" class="uri">http://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/2014-in-review.html</a>. Consulté le 11 octobre 2015.</p>
 </div>
+</body>
+</html>

@@ -438,7 +438,7 @@
 	}
 
 	.\34 u, .\34 u\24 {
-		width: 27.4%;
+		width: 26.5%;
 		clear: none;
 		margin-left: 0;
 	}
@@ -581,6 +581,7 @@
 	h1 {
 		font-size: 2.5em;
 		text-align: center;
+		margin-top: 0.6em;
 	}
 	h2 {
 		font-size: 2em;
@@ -1204,7 +1205,7 @@
   		background: radial-gradient(center, circle cover, rgba(247,251,252, 0.7) 0%, rgba(173,217,228,0.7) 100%);
   		background-color:  rgba(247,251,252, 0.7);
 		margin: 3em 3em 3em 3em;
-		padding: 1.5em 1.5em 1.5em 1.5em;
+		padding: 0em 1.5em 1.5em 1.5em;
 		box-shadow: 1px 1px 20px black;
 	}
 	.wrapper  h1 {
@@ -1829,7 +1830,7 @@
 			}
 			h1 {
 				font-size: 2em;
-				text-align: center;
+				/*text-align: center;*/
 			}
 
 			h2 {

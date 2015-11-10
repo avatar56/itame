@@ -19,12 +19,12 @@
 <div class="scholmd-container">
 <div class="scholmd-main">
 <div class="scholmd-content">
-<h1 id="introduction">Introduction</h1>
+<h1 id="un-système-de-consommation-énergétique-difficilement-maîtrisable.">Un système de consommation énergétique difficilement maîtrisable.</h1>
 <h2 id="identifié-comme-précaire-notre-système-de-consommation-énergétique-doit-évoluer.">Identifié comme précaire, notre système de consommation énergétique doit évoluer.</h2>
-<p>Depuis maintenant quelques décennies, la société moderne a dynamiquement évolué vers une société de consommation où chaque niveau de la société (niveau individuelle, niveau micro-sociale, niveau meso-sociale, niveau macro-sociale) est amené à consommer des ressources durablement (e.g., produits technologiques, services publics) ou spontanément (e.g., produits alimentaires, gaz, eau, énergie).</p>
-<p>L’acte de consommation, de part sa nature, entraîne la destruction ou la transformation de la ressource consommée.</p>
-<p>Cette nature destructrice est problématique pour les ressources épuisables telle que les énergies fossiles où les stocks sont limités (e.g., pétrole, charbon, gaz naturel). Ce problème s’est avérée avec l’arrivé des premières crises énergétiques des années 70, lorsque la société a identifié que son mode de consommation, en l’occurrence, énergétique n’était pas durable et qu’il représentait, de plus, un danger pour la société elle-même (i.e. réchauffement climatique, pollutions, destruction de la biodiversité). La société doit donc repenser son fonctionnement pour faire disparaître le développement précaire au profit du <strong>développement durable</strong>.</p>
-<h2 id="une-transition-lente-de-lénergie-fossile-vers-lénergie-renouvelable.">Une transition lente de l’énergie fossile vers l’énergie renouvelable.</h2>
+<p>Depuis maintenant quelques décennies, la société moderne a dynamiquement évolué vers une société de consommation où chaque niveau de la société (niveau individuelle, niveau micro-sociale, niveau meso-sociale, niveau macro-sociale) est amené à consommer des ressources durablement (e.g., produits technologiques, services publics) et spontanément (e.g., produits alimentaires, gaz, eau, énergie).</p>
+<p>L’<strong>acte de consommation</strong>, de part sa nature, entraîne la destruction ou la transformation de la ressource consommée.</p>
+<p>Cette nature destructrice est problématique pour les ressources épuisables telle que les énergies fossiles où les stocks sont limités (e.g., pétrole, charbon, gaz naturel). Ce problème s’est avéré avec l’arrivée des premières crises énergétiques des années 70, lorsque la société a identifié que son mode de consommation, en l’occurrence, énergétique n’était pas durable et qu’il représentait, de plus, un danger pour la société elle-même (i.e. réchauffement climatique, pollution, destruction de la biodiversité). La société doit donc repenser son fonctionnement pour faire disparaître le développement précaire au profit du <strong>développement durable</strong>.</p>
+<h2 id="une-transition-lente-des-énergies-fossiles-vers-les-énergies-renouvelables.">Une transition lente des énergies fossiles vers les énergies renouvelables.</h2>
 <p>En réponse au danger et à la précarité que représente notre mode de consommation énergétique, la société a investi dans la recherche de nouvelles ressources énergétiques qui cette fois-ci seraient inépuisables et sans danger, les <strong>énergies renouvelables</strong> (e.g., solaire, hydraulique, éolienne, géothermique). Malgré la prise de conscience par le grand public de la gravité des questions écologiques, l’énergie fossile restent encore, aujourd’hui et de loin, la ressource énergétique la plus consommer au monde (cf. Figure 1).</p>
 <div id="pieChart">
 </div>
@@ -39,7 +39,8 @@ var pie = new d3pie("pieChart", {
         "location": "bottom-left"
     },
     "size": {
-        "canvasWidth": 700,
+        "canvasWidth": 1200,
+        "canvasHeight": 500,
         "pieInnerRadius": "60%",
         "pieOuterRadius": "72%"
     },
@@ -108,7 +109,7 @@ Figure 1 - Production énergétique mondiale en 2014 <span class="scholmd-citati
 </h4>
 <p>Cette lenteur dans la transition vers les énergies renouvelables, est la conséquence d’une continuité dans l’exploitation des énergies fossiles dont l’économie restent, encore aujourd’hui, considérables et par un passage à l’acte de la population vers les énergies renouvelables difficile. Mais malgré ces blocages, les énergies renouvelables se développent et feront définitivement partie du paysage énergétique comme l’affiche l’Union Européenne qui souhaite faire passer à 20 % la part des énergies renouvelables dans le mix énergétique européen.</p>
 <h2 id="une-consommation-énergétique-qui-évolue.">Une consommation énergétique qui évolue.</h2>
-<p>En parallèle au développement des énergies renouvelables, les usages de l’électricité connaissent de profondes évolutions. Certains usages déjà existants ont pris une ampleur considérable (climatisation, chauffage électrique). D’autres, comme le véhicule électrique et la pompe à chaleur, se développent et augmenteront la consommation d’électricité déjà en forte hausse. Tout ces changements contraignent le pilotage des réseaux électriques car :</p>
+<p>En parallèle au développement des énergies renouvelables, les usages de l’électricité connaissent de profondes évolutions. Certains usages déjà existants ont pris une ampleur considérable (e.g., climatisation, chauffage électrique). D’autres, comme le véhicule électrique et la pompe à chaleur, se développent et augmenteront la consommation d’électricité déjà en forte hausse. Tout ces changements contraignent le pilotage des réseaux électriques car :</p>
 <ul>
 <li>la consommation d’électricité connaît de fortes variations horosaisonnières. La consommation d’énergie est plus importante en hiver qu’en été. Elle fait l’objet de pointes et de creux journaliers ;</li>
 <li>les moyens de production d’électricité sont de plus en plus variables, du fait de l’intermittence de leurs sources renouvelables ;</li>
@@ -121,67 +122,80 @@ Figure 1 - Production énergétique mondiale en 2014 <span class="scholmd-citati
 <p>La gestion des réseaux électriques, jusqu’à présent centralisée et unidirectionnelle allant de la production à la consommation, sera demain répartie et bidirectionnelle. Cela constitue un changement sans précédent dans la façon de concevoir et de piloter le réseau et nécessite de l’adapter.</p>
 <p>La solution qui consisterait à ne faire que du renforcement de réseaux est sous-optimale et difficilement réalisable du à la démographie croissante en ville, à la difficile acceptabilité sociale des nouvelles infrastructures et aux coûts importants des investissements à consentir.</p>
 <p>Cette adaptation du système électrique doit donc passer par l’intégration des nouvelles technologies de l’information et de la communication aux réseaux qu’on appelle également <strong>réseaux intelligents</strong>.</p>
-<h1 id="une-modernisation-lente-et-difficile-du-système-électrique.">Une modernisation lente et difficile du système électrique.</h1>
-<p>Un réseau intelligent implique de connaître les horaires et activités de consommation des acteurs du réseau ce qui nécessite l’installation de compteurs intelligents chez le particulier comme chez le professionnel qui seront capable de transmettre ces informations au réseau. La circulation, au sein du réseau, de ces données privées et personnelles, inquiète les usagers quand à la protection de leur vie privée ce qui rend la mise en œuvre des réseaux intelligents lente et difficile au sein du système électrique.</p>
-<h1 id="des-comportements-de-consommation-énergétique-qui-reste-toujours-à-changer.">Des comportements de consommation énergétique qui reste toujours à changer.</h1>
-<p>Avec le développement fulgurant des technologies de communication et de l’information, nous assistons, depuis maintenant une décennie, à un cycle de production obsolète qui se caractérise par une série d’apparitions et de disparitions de produits de haute technologies (e.g., IPhone 1, IPhone 2, IPhone 3). Ce cycle de production obsolète réduit, à très grande vitesse, les stocks disponibles des matériaux rares et précieux (e.g., cuivre) qui composent ces produits de haute technologies. Il est donc nécessaire d’adopter une nouvelle politique de conception pour les produits de haute technologie afin de réduire directement (e.g., en concevant des produits qui peuvent être remplacer modulairement et non complètement) et indirectement (e.g., en concevant des produits de qualité durable, difficilement remplaçable) le coût en matériaux précieux de ces produits <span class="scholmd-citation" data-cites="blevis2006advancing">[2]</span>. Au sein de la communauté Interface Homme-Machine, on distingue deux axes de recherche pour cette problématique : la durabilité dans la conception (e.g. Mitiger les coûts en matériaux des software/hardware), et la durabilité par la conception (e.g., Influencer un style de vie durable ou des prise de décision) <span class="scholmd-citation" data-cites="mankoff2007environmental">[3]</span>.</p>
-<h1 id="lénergie-une-entité-invisible-et-immatériel.">L’énergie, une entité invisible et immatériel.</h1>
+<h2 id="une-modernisation-lente-et-difficile-du-système-électrique.">Une modernisation lente et difficile du système électrique.</h2>
+<p>Un réseau intelligent implique de connaître les horaires et activités de consommation des acteurs du réseau ce qui nécessite l’installation de compteurs intelligents chez le particulier comme chez le professionnel qui seront capable de transmettre ces informations au réseau. La circulation, au sein du réseau, de ces données privées et personnelles, inquiète les usagers quand à la protection de leur vie privée ce qui rend la mise en œuvre des réseaux intelligents lente et difficile au sein du système électrique. <!--
+## Des comportements de consommation énergétique qui reste toujours à changer.
+
+Avec le développement fulgurant des technologies de communication et de l'information, nous assistons, depuis maintenant une décennie, à un cycle de production obsolète qui se caractérise par une série d'apparitions et de disparitions de produits de haute technologies (e.g., IPhone 1, IPhone 2, IPhone 3). Ce cycle de production obsolète réduit, à très grande vitesse, les stocks disponibles des matériaux rares et précieux (e.g., cuivre) qui composent ces produits de haute technologies. Il est donc nécessaire d'adopter une nouvelle politique de conception pour les produits de haute technologie afin de réduire directement (e.g., en concevant des produits qui peuvent être remplacer modulairement et non complètement) et indirectement (e.g., en concevant des produits de qualité durable, difficilement remplaçable) le coût en matériaux précieux de ces produits [@blevis2006advancing]. Au sein de la communauté Interface Homme-Machine, on distingue deux axes de recherche pour cette problématique : la durabilité dans la conception (e.g. Mitiger les coûts en matériaux des software/hardware), et la durabilité par la conception (e.g., Influencer un style de vie durable ou des prise de décision) [@mankoff2007environmental].--></p>
+<h2 id="lénergie-une-entité-invisible-et-immatériel.">L’énergie, une entité invisible et immatériel.</h2>
 <p>C’est un fait, les consommateurs sont rarement attentifs à leur consommation énergétique ce qui est communément la cause d’une utilisation excessive d’énergie électrique, mais pourquoi cette inattention ?</p>
 <p>La perception qu’ont les individus de l’énergie est principalement biaisé par l’immatérialité et l’invisibilité caractéristiques de l’énergie (tout comme avec l’air d’ailleurs). Ils ne perçoivent pas l’énergie en tant que ressource comme ils le feraient avec l’eau d’une bouteille mais comme une entité infiniment disponible n’importe où, à n’importe quel moment.</p>
-<p>La façon dont l’énergie est traditionnellement présenté au consommateur ne favorise très certainement pas la perception de l’énergie. Une simple interrupteur sur un mur est une pauvre métaphore de représentation pour ce qu’est réellement l’énergie (i.e. deux états possibles, consommation d’énergie, pas de consommation d’énergie, aucun poids de mesure entre c’est deux états).</p>
-<h1 id="les-technologies-de-communication-et-dinformation-au-service-des-problématiques-énergétiques.">Les technologies de communication et d’information au service des problématiques énergétiques.</h1>
-<p>Le découplage des impacts est une condition primordial au développement durable</p>
-<h1 id="sensibiliser-les-consommateurs-à-leur-consommation-dénergie">Sensibiliser les consommateurs à leur consommation d’énergie</h1>
-<p>Afin de changer cette inattention de la population envers la consommation énergétique, de nombreux travaux</p>
-<h1 id="perso">Perso</h1>
-<p>et donc de comprendre que l’énergie est une ressource tout comme .</p>
-<p>ne facilite pas la compréhension de l Les usagers perçoivent l’électricité comme une partie d’un interrupteur qui constamment présent.</p>
-<p>Moduler la demande énergétique et donc moduler la consommation énergétique, est en effet ce que beaucoup de travaux ont<br />Depuis maintenant une décennie, beaucoup de travaux on été réalisés afin d’informer la population</p>
-<p>DONNER EXEMPLES DE COMPORTEMENT, ETC.</p>
-<h1 id="sensibiliser-la-population-et-puis">Sensibiliser la population… et puis ?</h1>
-<p>, sensibiliser à la problématique de consommation énergétique, voir persuader la population montrer les pics de consommations. consommation inutiles.</p>
-<p>Les gens achètent des produits à faible consommation énergétique comme acte de bonne foi mais ne se sentent pas réellement concernés. Par exemple, une personne va acheter une ampoule basse consommation et la laisser allumer constamment.</p>
-<p>et de l’autre la prise de conscience des problématiques de consommation énergétiques et l’acceptabilité des smart grid. Il est de notre responsabilité Meme si</p>
-<p>Un smargrid donne à des opérateurs des informations indirectes et directes sur la vie privée (horaires et activité des habitants). Néanmoins sa capacité annoncée à améliorer le rendement énergétique et à générer des économies sur les factures individuelles, semblent faciliter son acceptation par le public et ses utilisateurs. Cette acceptation est d’autant plus importante qu’une partie des bénéfices du smart grid en dépend, mais elle reste à démontrer. En France, l’ADEME, sous l’impulsion du Ministère du développement durable, a donc lancé des appels à manifestations d’intérêts courant 2009 visant à démontrer l’efficacité énergétique apportée par le concept smart grid tout en favorisant l’intégration des énergies renouvelables distribuées.</p>
-<p>principalement car il ne sait pas , il ne favorise pas Ces réseaux intelligents sont au coeur du développement durable, ce sont eux qui ajusterons en temps réel la production et la distribution de l’électricité en fonction des besoins de consommation de la population. Un smargrid donne à des opérateurs des informations indirectes et directes sur la vie privée (horaires et activité des habitants). Néanmoins sa capacité annoncée à améliorer le rendement énergétique et à générer des économies sur les factures individuelles, semblent faciliter son acceptation par le public et ses utilisateurs.</p>
-<p>Sensibiliser la population à la problématique de stockage énergétique les réseaux intelligents sont au coeur du développement durable. Ce sont eux qui vont transformer notre système énergétique en ils réunissent les</p>
-<table>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Caractéristiques réseaux électriques actuels</th>
-<th style="text-align: left;">Caractéristiques SmartGrid</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Analogique</td>
-<td style="text-align: left;">Numérique</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Unidirectionnel</td>
-<td style="text-align: left;">Bidirectionnel</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Production centralisée</td>
-<td style="text-align: left;">Production décentralisée</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Communicant sur une partie des réseaux</td>
-<td style="text-align: left;">Communicant sur l’ensemble des réseaux</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">équilibre offre/production</td>
-<td style="text-align: left;">équilibre demande/consommation</td>
-</tr>
-</tbody>
-</table>
-<p>énergies renouvelables et la consommation à la demande pour également dynamisé par le développement durable se mettent en place progressivement. ou réseaux énergétiques intelligent se construisent Le fort développement des technologies numériques, leurs omniprésence dans notre vie quotidienne. Malgré l</p>
-<p>Cette transition du précaire vers le durable reste lente et complexe. Cette lenteur et cette complexité dans la transition s’expliquent par un lot de problématiques que nous avons hérité de notre société de consommation classique qui freinent le passage au durable. L’une d’entre elle est la problématique énergétique. –&gt;</p>
+<p>La façon dont l’énergie est traditionnellement présenté au consommateur ne favorise très certainement pas la perception de l’énergie. Une simple interrupteur sur un mur est une pauvre métaphore de représentation pour ce qu’est réellement l’énergie (i.e. deux états possibles, consommation d’énergie, pas de consommation d’énergie, aucun poids de mesure entre c’est deux états). <!--
+# Les technologies de communication et d'information au service des problématiques énergétiques.
+
+Le découplage des impacts est une condition primordial au développement durable
+
+# Sensibiliser les consommateurs à leur consommation d'énergie
+
+Afin de changer cette inattention de la population envers la consommation énergétique, de nombreux travaux
+
+# Perso
+
+
+ et donc de comprendre que l'énergie est une ressource tout comme .
+
+ ne facilite pas la compréhension de l Les usagers perçoivent l'électricité comme une partie d'un interrupteur qui constamment présent.
+
+Moduler la demande énergétique et donc moduler la consommation énergétique, est en effet ce que beaucoup de travaux ont  
+Depuis maintenant une décennie, beaucoup de travaux on été réalisés afin d'informer la population
+
+DONNER EXEMPLES DE COMPORTEMENT, ETC.
+
+# Sensibiliser la population... et puis ?
+
+
+
+, sensibiliser à la problématique de consommation énergétique, voir persuader la population
+montrer les pics de consommations.
+consommation inutiles.
+
+Les gens achètent des produits à faible consommation énergétique comme acte de bonne foi mais ne se sentent pas réellement concernés. Par exemple, une personne va acheter une ampoule basse consommation et la laisser allumer constamment. 
+
+
+et de l'autre la prise de conscience des problématiques de consommation énergétiques et l'acceptabilité des smart grid.
+ Il est de notre responsabilité Meme si
+
+
+Un smargrid donne à des opérateurs des informations indirectes et directes sur la vie privée (horaires et activité des habitants). Néanmoins sa capacité annoncée à améliorer le rendement énergétique et à générer des économies sur les factures individuelles, semblent faciliter son acceptation par le public et ses utilisateurs. Cette acceptation est d'autant plus importante qu'une partie des bénéfices du smart grid en dépend, mais elle reste à démontrer. En France, l'ADEME, sous l'impulsion du Ministère du développement durable, a donc lancé des appels à manifestations d'intérêts courant 2009 visant à démontrer l'efficacité énergétique apportée par le concept smart grid tout en favorisant l'intégration des énergies renouvelables distribuées.
+
+
+ principalement car il ne sait pas , il ne favorise pas 
+ Ces réseaux intelligents sont au coeur du développement durable, ce sont eux qui ajusterons en temps réel la production et la distribution de l'électricité en fonction des besoins de consommation de la population. Un smargrid donne à des opérateurs des informations indirectes et directes sur la vie privée (horaires et activité des habitants). Néanmoins sa capacité annoncée à améliorer le rendement énergétique et à générer des économies sur les factures individuelles, semblent faciliter son acceptation par le public et ses utilisateurs. 
+
+
+Sensibiliser la population à la problématique de stockage énergétique
+les réseaux intelligents sont au coeur du développement durable. Ce sont eux qui vont transformer notre système énergétique en ils réunissent les 
+
+
+Caractéristiques réseaux électriques actuels | Caractéristiques SmartGrid
+---------------------------------------------|---------------------------------------
+Analogique                                   | Numérique
+Unidirectionnel                              | Bidirectionnel
+Production centralisée                       | Production décentralisée
+Communicant sur une partie des réseaux       | Communicant sur l'ensemble des réseaux
+équilibre offre/production                   | équilibre demande/consommation
+
+
+
+énergies renouvelables et la consommation à la demande pour 
+également dynamisé par le développement durable se mettent en place progressivement. ou réseaux énergétiques intelligent se construisent
+Le fort développement des technologies numériques, leurs omniprésence dans notre vie quotidienne.
+Malgré l
+
+Cette transition du précaire vers le durable reste lente et complexe. Cette lenteur et cette complexité dans la transition s'expliquent par un lot de problématiques que nous avons hérité de notre société de consommation classique qui freinent le passage au durable. L'une d'entre elle est la problématique énergétique. --></p>
 <div class="references">
 <h1>Références</h1>
 <p>1. BP (2014) 2014 in review. Available: <a href="http://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/2014-in-review.html" class="uri">http://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/2014-in-review.html</a>. Consulté le 11 octobre 2015.</p>
-<p>2. Blevis E (2006) Advancing sustainable interaction design: two perspectives on material effects. Design philosophy papers 4: 209‑230.</p>
-<p>3. Mankoff JC, Blevis E, Borning A, Friedman B, Fussell SR, et al. (2007) Environmental sustainability and interaction. In: CHI’07 extended abstracts on Human factors in computing systems. ACM. p. 2121‑2124.</p>
 </div>
 </div>
 </div>
