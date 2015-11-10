@@ -1,0 +1,6 @@
+# Smart Sink [@bonanni2005smart]
+
+Une interface automatisée pour évier qui a des conséquences positives sur la sécurité, l'hygiène et l'écologie. Le danger de se bruler soi-meme avec de l'eau chaude est evité en transformant l'évier en une interface utilisateur graphique qui fourni une image compréhension de la temperature de l'eau (e.g., couleur ambiante bleu pour l'eau froide, couleur ambiante chaude pour l'eau chaude). Une retour sonore de l'évier peut motiver les utilisateurs à économiser l'eau. Utilisé en combinaison avec un lecteur RFID, l'évier est un moyen efficace de vérifier si les usagers se lavent bien les mains avant de rentrer dans un environnement qui nécessite une certaine hygiène (e.g., salle d'opération). Finalement, l'actuaction automatique de la hauteur de l'évier basée sur l'utilisateur peut prévenir d'éventuelles blessures et brulures.
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/ynGXOmSarbU" frameborder="0" allowfullscreen></iframe>
+<h4 style="text-align:center">Smart Sink</h4>

@@ -1,0 +1,6 @@
+# Planification et résolution de problème 
+
+Trois aspects des Interfaces Utilisateurs Tangibles ont été démontrés comme efficace à l'aide à la résolution de problème : Les actions épistémiques (i.e. manipulations non-pragmatique d'artefacts qui visent à une meilleure compréhension du contexte d'une tâche), les contraintes physiques et les représentations tangibles d'un problème.
+Les Interfaces Utilisateurs Tangibles disposent d'un large panel d'action épistémiques de la rotation d'objets physiques dans l'espace jusqu'au réagencement de ces derniers sur une surface. Les contraintes physiques peuvent faire intervenir des affordances pour communiquer une syntaxe d'interaction et limiter l'espace de solution. Donc, les contraintes physiques peuvent diminuer le besoin d'apprendre des règles explicites et abaisser le seuil de difficulté d'utilisation d'un système informatique pour une tâche spécifique {@ullmer2005token}. Finalement, la représentation tangible est très attrayante dans les applications du domaine géométrique et spatiale telles que l'architecture ou l'agencement physique et la manipulation d'objets ont une relation directe à la représentation du problème.
+
+## Références
