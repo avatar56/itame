@@ -1,4 +1,13 @@
 # Persuasion
+behaviourisme
+
+## Stimulus appétitif
+
+Un stimulus appétitif est une stimulation plaisante, agréable, désirable qui tend à la satisfaction. 
+
+## Stimulus aversif
+
+Un stimulus aversif est une stimulation déplaisante, désagréable, qui provoque des sensations et des réponses de mal-être, de douleur ou de peur. 
 
 ## Renforcement
 
@@ -6,16 +15,15 @@ Un renforcement est une conséquence qui va augmenter la fréquence du comportem
 
 ### Renforcement positif
 
-Si un enfant range bien sa chambre, et que ses parents le félicitent, lui donnent de l'attention ou lui font une faveur, il y a renforcement positif. L'approbation parentale va augmenter la probabilité que l'enfant reproduise le comportement, ici ranger sa chambre. Suite au comportement les parents ont ajouté quelque chose, l'approbation, donc c'est positif. Là encore, aucun jugement de valeur dans le terme positif, juste qu'il y a ajout dans la conséquence.
+Ajout d'un stimulus appétitif pour augmenter la fréquence d'apparition du comportement précédent.
 
-AJOUT d'attention, etc.
+Par exemple, le maître demande à son chien de s’asseoir, le chien s'assoit, le maître lui donne une caresse (i.e. stimulus appétitif). Cela encourage le chien à s’asseoir lorsque on lui demande pour recevoir plus de caresse.
 
 ### Renforcement négatif
 
-Les mêmes parents crient, hurlent, voire tapent sur l'enfant pour qu'il range sa chambre. Il s'agit d'un renforcement négatif car dès que l'enfant aura rangé sa chambre le stimulus, en l'occurence les cris, hurlements et coups, vont disparaître. Le comportement : ranger sa chambre, permet à l'enfant d'arrêter et retirer le stimulus : les hurlements parentaux, leurs coups, etc... et pour éviter le comportement des parents, l'enfant va probablement ranger davantage sa chambre à l'avenir.
+Retrait d'un stimulus aversif pour augmenter la fréquence d'apparition du comportement précédent.
 
-AJOUT de peur, de stress, etc.
-
+Par exemple,  le maître cri à son chien de s’asseoir (i.e. stimulus aversif), le chien s'assoit, les cris du maître cessent (i.e. retrait du stimulus aversif). Cela rend le chien plus enclin à s’asseoir lorsque on lui demande pour éviter les cris du maître.
 
 ## Punition
 
@@ -23,12 +31,12 @@ Une punition est une conséquence qui va diminuer la fréquence du comportement 
 
 ### Punition positive
 
-Lorsque l'enfant prend de la nourriture avec ses doigts dans son assiette, et qu'un adulte lui tape sur la main, il y a punition positive. Punition car la tape va diminuer la probabilité que le comportement se reproduise à l'avenir, positive car la conséquence a rajouté quelque chose : la tape sur les doigts.
+Ajout d'une stimulus aversif pour diminuer la fréquence d'apparition du comportement précédent.
 
-AJOUT de geste, d'action.
+Par exemple, le chien s’enfuit pendant un certain temps. Le chien revient vers son maître et reçois une tape de sa part  (i.e. ajout d'un stimulus aversif). Le chien sera moins enclin à s’enfuir pour éviter de recevoir des tapes de la part de son maître.
 
 ### Punition négative
 
-Lorsque l'enfant tape sur un autre enfant, un adulte l'isole pendant quelques minutes, ne s'occupe pas de lui et l'empêche de jouer avec les autres enfants. Il s'agit d'une punition, car la conséquence, ici l'isolement imposé par les parents, va diminuer vraisemblablement la fréquence future du comportement problématique chez l'enfant: les coups qu'il donne aux autres enfants. La punition est négative car l'adulte retire : son attention, le jeu avec les autres enfants.
+Retrait d'une stimulus appétitif pour diminuer la fréquence d'apparition du comportement précédent.
 
-PRIVATION d'attention, d'objet, etc.
+Par exemple, le chien détruit des objets du maître dans la journée lorsque ce dernier est absent. Lorsque le maître rentre le soir-même, il prive le chien de son repas du soir (i.e. retrait d'un stimulus appétitif). Le chien sera moins enclin à reproduire ce comportement pour éviter d’être privé de son repas du soir journalier.

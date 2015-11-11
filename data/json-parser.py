@@ -17,7 +17,23 @@ subdirListList = []
 fileListList = []
 for dirName, subdirList, fileList in os.walk(rootDir):
     systemFileDictonnary[dirName] = subdirList
-
+    
+def generatePreambuleJSON() :
+    scholdoc_command = []
+    scholdoc_command.append('scholdoc ')
+    scholdoc_command.append(websettingPath)
+    scholdoc_command.append(' ')
+    scholdoc_command.append('\"')
+    scholdoc_command.append('preambule.md')
+    scholdoc_command.append('\"')
+    scholdoc_command.append(' --citeproc --bibliography resources/biblio.bib --csl resources/plos.csl --to=html')
+    scholdoc_command.append(' --output=')
+    scholdoc_command.append('\"')
+    scholdoc_command.append('preambule.html')
+    scholdoc_command.append('\"')
+    check_output(''.join(scholdoc_command), shell=False).encode('iso-8859-1')
+    print 'default OK !'
+    
 def generateDefaultJSON() :
     scholdoc_command = []
     scholdoc_command.append('scholdoc ')
@@ -67,6 +83,7 @@ def generateJSON(parent, root) :
     print '%s OK !' %root
     return root_data;
 
+generatePreambuleJSON();
 generateDefaultJSON();
 data = generateJSON('null',rootDir)
 

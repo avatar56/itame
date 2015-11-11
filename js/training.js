@@ -1,10 +1,10 @@
 d3.json("data/data.json",function(treeData){
-var margin = {top: 0, right: 120, bottom: 0, left:100},
+var margin = {top: 0, right: 155, bottom: 100, left:25},
     width = document.getElementById("div-tree").offsetWidth - margin.right - margin.left,
     height = document.getElementById("div-tree").offsetHeight- margin.top - margin.bottom;
     
 var i = 0,
-    duration = 500,
+    duration = 800,
     /*delay_link_exit = 100,
     delay_link_enter = 25,*/
     delay_link_exit = 0,
@@ -57,7 +57,7 @@ function update(source) {
 
   nodeEnter.append("circle")
       .attr("r", 10)
-      .style("fill", function(d) { return d._children ? "#ccff99" : "#fff"; });
+      .style("fill", function(d) { return d._children ? "#0033CC" : "#0033CC"; });
 
   nodeEnter.append("text")
       /**.attr("x", function(d) { return d.children || d._children ? -30 : 30; })**/
@@ -95,16 +95,41 @@ function update(source) {
       .duration(duration)
       .attr("transform", function(d) {return "translate(" + d.y+ "," + d.x+ ")"; });
 	  
-
-  nodeUpdate.select("circle")
+  if(source.children){
+    nodeUpdate.select("circle")
+        .transition()
+        .duration(duration)
+        .attr("r", 20)
+        .style("fill", function(d) { return d._children ? "#0033CC" : "#ADD9E4"; })
+        .each("end",_.once(goToContentWithDelay));
+  }
+  else if(!source._children) {
+    nodeUpdate.select("circle")
+        .attr("r", 20)
+        .style("fill", function(d) { return d._children ? "#0033CC" : "#ADD9E4"; });
+        goToContent();
+  }
+  else {
+   nodeUpdate.select("circle")
+      .transition()
+      .duration(duration)
       .attr("r", 20)
-      .style("fill", function(d) { return d._children ? "#0033CC" : "#ADD9E4"; });
+      .style("fill", function(d) { return d._children ? "#0033CC" : "#ADD9E4"; }); 
+  }/*
+   nodeUpdate.select("circle")
+      .transition()
+      .duration(duration)
+      .attr("r", 20)
+      .style("fill", function(d) { return d._children ? "#0033CC" : "#ADD9E4"; }); */
 
   nodeUpdate.select("text")
+      .transition()
+      .duration(duration)
       .style("fill-opacity", 1);
 
   // Transition exiting nodes to the parent's new position.
-  var nodeExit = node.exit().transition()
+  var nodeExit = node.exit()
+      .transition()
       .duration(duration)
       .attr("transform", function(d) { return "translate(" + source.y + "," + source.x + ")"; })
       .remove();
@@ -112,7 +137,10 @@ function update(source) {
   nodeExit.select("circle")
       .attr("r", 1e-6);
 
+
   nodeExit.select("text")
+      .transition()
+      .duration(duration)
       .style("fill-opacity", 1e-6);
 
   // Update the links…
@@ -129,12 +157,12 @@ function update(source) {
 
   // Transition links to their new position.
   link.transition()
-      .duration(duration-delay_link_enter)
+      .duration(duration)
       .attr("d", diagonal);
 
   // Transition exiting nodes to the parent's new position.
   link.exit().transition()
-      .duration(duration-delay_link_exit)
+      .duration(duration)
       .attr("d", function(d) {
         var o = {x: source.x, y: source.y};
         return diagonal({source: o, target: o});
@@ -158,6 +186,16 @@ function removeChildren(d){
   }
 }
 // Toggle children on click.
+function goToContentWithDelay(){
+      $('html, body').delay(duration/2).animate({
+        scrollTop: $("#div-content").offset().top
+    }, duration);
+}
+function goToContent(){
+      $('html, body').animate({
+        scrollTop: $("#div-content").offset().top
+    }, duration);
+}
 function click(d) {
   var html_file = 'data/default.html';
 
