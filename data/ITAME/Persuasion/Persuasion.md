@@ -1,6 +1,11 @@
 # Persuasion
 behaviourisme
 
+## Stimulus discriminatif
+
+Un stimulus discriminatif permet à l'organisme de savoir si tel comportement va être renforcé. 
+
+
 ## Stimulus appétitif
 
 Un stimulus appétitif est une stimulation plaisante, agréable, désirable qui tend à la satisfaction. 
