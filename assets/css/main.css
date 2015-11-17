@@ -845,7 +845,7 @@
 /* List */
 	ul {
 	text-indent:0em;
-	margin-top: 1em;
+	padding-left: 1em;
 	}
 /*
 	ul.default {

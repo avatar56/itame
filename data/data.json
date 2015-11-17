@@ -584,6 +584,107 @@
             "name": "Persuasion", 
             "parent": "ITAME", 
             "html": "ITAME/Persuasion/Persuasion.html"
+        }, 
+        {
+            "name": "Persuasion technologie et Energie, G. Cano et al., 2015", 
+            "parent": "ITAME", 
+            "html": "ITAME/Persuasion technologie et Energie, G. Cano et al., 2015/Persuasion technologie et Energie, G. Cano et al., 2015.html", 
+            "_children": [
+                {
+                    "name": "Classification", 
+                    "parent": "Persuasion technologie et Energie, G. Cano et al., 2015", 
+                    "html": "ITAME/Persuasion technologie et Energie, G. Cano et al., 2015/Classification/Classification.html", 
+                    "_children": [
+                        {
+                            "name": "1. Domaine", 
+                            "parent": "Classification", 
+                            "html": "ITAME/Persuasion technologie et Energie, G. Cano et al., 2015/Classification/1. Domaine/1. Domaine.html"
+                        }, 
+                        {
+                            "name": "2. Fonction de persuasion", 
+                            "parent": "Classification", 
+                            "html": "ITAME/Persuasion technologie et Energie, G. Cano et al., 2015/Classification/2. Fonction de persuasion/2. Fonction de persuasion.html"
+                        }, 
+                        {
+                            "name": "3. Repr\u00e9sentation", 
+                            "parent": "Classification", 
+                            "html": "ITAME/Persuasion technologie et Energie, G. Cano et al., 2015/Classification/3. Repr\u00e9sentation/3. Repr\u00e9sentation.html"
+                        }, 
+                        {
+                            "name": "4. Interaction", 
+                            "parent": "Classification", 
+                            "html": "ITAME/Persuasion technologie et Energie, G. Cano et al., 2015/Classification/4. Interaction/4. Interaction.html"
+                        }, 
+                        {
+                            "name": "5. Echelle", 
+                            "parent": "Classification", 
+                            "html": "ITAME/Persuasion technologie et Energie, G. Cano et al., 2015/Classification/5. Echelle/5. Echelle.html"
+                        }, 
+                        {
+                            "name": "6. Support", 
+                            "parent": "Classification", 
+                            "html": "ITAME/Persuasion technologie et Energie, G. Cano et al., 2015/Classification/6. Support/6. Support.html"
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Exemples", 
+                    "parent": "Persuasion technologie et Energie, G. Cano et al., 2015", 
+                    "html": "ITAME/Persuasion technologie et Energie, G. Cano et al., 2015/Exemples/Exemples.html", 
+                    "_children": [
+                        {
+                            "name": "Abstract Ambient, J. Rodgers et al., 2011", 
+                            "parent": "Exemples", 
+                            "html": "ITAME/Persuasion technologie et Energie, G. Cano et al., 2015/Exemples/Abstract Ambient, J. Rodgers et al., 2011/Abstract Ambient, J. Rodgers et al., 2011.html"
+                        }, 
+                        {
+                            "name": "Customisable Dashboard, R. Medland et al., 2010", 
+                            "parent": "Exemples", 
+                            "html": "ITAME/Persuasion technologie et Energie, G. Cano et al., 2015/Exemples/Customisable Dashboard, R. Medland et al., 2010/Customisable Dashboard, R. Medland et al., 2010.html"
+                        }, 
+                        {
+                            "name": "EnergyLife, L. Gamberini et al., 2012", 
+                            "parent": "Exemples", 
+                            "html": "ITAME/Persuasion technologie et Energie, G. Cano et al., 2015/Exemples/EnergyLife, L. Gamberini et al., 2012/EnergyLife, L. Gamberini et al., 2012.html"
+                        }, 
+                        {
+                            "name": "FigureEnergy, E. Costanza et al., 2012", 
+                            "parent": "Exemples", 
+                            "html": "ITAME/Persuasion technologie et Energie, G. Cano et al., 2015/Exemples/FigureEnergy, E. Costanza et al., 2012/FigureEnergy, E. Costanza et al., 2012.html"
+                        }, 
+                        {
+                            "name": "Handy Feedback, M.Weiss et al., 2009", 
+                            "parent": "Exemples", 
+                            "html": "ITAME/Persuasion technologie et Energie, G. Cano et al., 2015/Exemples/Handy Feedback, M.Weiss et al., 2009/Handy Feedback, M.Weiss et al., 2009.html"
+                        }, 
+                        {
+                            "name": "Limit Eco-feedback, L. Pereira et al., 2013", 
+                            "parent": "Exemples", 
+                            "html": "ITAME/Persuasion technologie et Energie, G. Cano et al., 2015/Exemples/Limit Eco-feedback, L. Pereira et al., 2013/Limit Eco-feedback, L. Pereira et al., 2013.html"
+                        }, 
+                        {
+                            "name": "Neighbourhood Wattch, C. Elsmore et al., 2010", 
+                            "parent": "Exemples", 
+                            "html": "ITAME/Persuasion technologie et Energie, G. Cano et al., 2015/Exemples/Neighbourhood Wattch, C. Elsmore et al., 2010/Neighbourhood Wattch, C. Elsmore et al., 2010.html"
+                        }, 
+                        {
+                            "name": "Personnalized Eco-feedback, P. Petkov et al., 2012", 
+                            "parent": "Exemples", 
+                            "html": "ITAME/Persuasion technologie et Energie, G. Cano et al., 2015/Exemples/Personnalized Eco-feedback, P. Petkov et al., 2012/Personnalized Eco-feedback, P. Petkov et al., 2012.html"
+                        }, 
+                        {
+                            "name": "PowerAdvisor, J. Kjeldskov et al., 2012", 
+                            "parent": "Exemples", 
+                            "html": "ITAME/Persuasion technologie et Energie, G. Cano et al., 2015/Exemples/PowerAdvisor, J. Kjeldskov et al., 2012/PowerAdvisor, J. Kjeldskov et al., 2012.html"
+                        }, 
+                        {
+                            "name": "PowerViz, J. Paay et al., 2014", 
+                            "parent": "Exemples", 
+                            "html": "ITAME/Persuasion technologie et Energie, G. Cano et al., 2015/Exemples/PowerViz, J. Paay et al., 2014/PowerViz, J. Paay et al., 2014.html"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

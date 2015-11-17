@@ -32,7 +32,7 @@ def generatePreambuleJSON() :
     scholdoc_command.append('preambule.html')
     scholdoc_command.append('\"')
     check_output(''.join(scholdoc_command), shell=False).encode('iso-8859-1')
-    print 'default OK !'
+    print 'préambule OK !'
     
 def generateDefaultJSON() :
     scholdoc_command = []
