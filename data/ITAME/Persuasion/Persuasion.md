@@ -45,3 +45,9 @@ Par exemple, le chien s’enfuit pendant un certain temps. Le chien revient vers
 Retrait d'une stimulus appétitif pour diminuer la fréquence d'apparition du comportement précédent.
 
 Par exemple, le chien détruit des objets du maître dans la journée lorsque ce dernier est absent. Lorsque le maître rentre le soir-même, il prive le chien de son repas du soir (i.e. retrait d'un stimulus appétitif). Le chien sera moins enclin à reproduire ce comportement pour éviter d’être privé de son repas du soir journalier.
+
+behaviourism-model.png
+![](images/behaviourism-model.png)
+<h4 style="text-align:center">
+Modèle du comportementalisme
+</h4>
