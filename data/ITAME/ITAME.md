@@ -1,5 +1,5 @@
 # ITAME
-
+<!--
 ## Problématique
 
 Il existe de nombreuses problématiques énergétiques qui nous concernent Aujourd'hui, d'autres pour Demain et certaines pour Après-demain.
@@ -12,4 +12,4 @@ Une fois le grand public sensibilisé à ces problématiques, le passage à l'ac
 
 Notre société est une institution dirigée par sa propre idéologie constitué d'individus, de groupes et d'organisations.
 
-* A quel(s) niveau(x) de cette société faut-il agir pour créer une dynamique de persuasion globalisée ?
+* A quel(s) niveau(x) de cette société faut-il agir pour créer une dynamique de persuasion globalisée ?-->

@@ -2,7 +2,7 @@
 import sys  
 reload(sys)  
 sys.setdefaultencoding('iso-8859-1')
-import os
+import glob,os
 from collections import OrderedDict
 import json
 import string
@@ -56,11 +56,17 @@ def generateJSON(parent, root) :
     root_data["name"] = root.split('\\')[-1]
     root_data["parent"] = parent.split('\\')[-1]
     root_data["html"] = string.replace(root+'\\'+root_data["name"]+".html", '\\', '/') 
-    children_data = []
+    children_data = [] 
     for child in systemFileDictonnary[root]:
         children_data.append(generateJSON(root,root+'\\'+child));
     if len(children_data)>0:
         root_data["_children"] = children_data
+       
+#    file_access =""
+#    os.chdir(root)
+#    for file in glob.glob("*.md"):
+#        file_access = file;
+    
     scholdoc_command = []
     scholdoc_command.append('scholdoc ')
     scholdoc_command.append(websettingPath)
@@ -69,16 +75,14 @@ def generateJSON(parent, root) :
     scholdoc_command.append(root)
     scholdoc_command.append('\\')
     scholdoc_command.append(root_data["name"])
-    scholdoc_command.append('.md')
-    scholdoc_command.append('\"')
+    scholdoc_command.append('.md\"')
     scholdoc_command.append(' --citeproc --bibliography resources/biblio.bib --csl resources/plos.csl --to=html')
     scholdoc_command.append(' --output=')
     scholdoc_command.append('\"')
     scholdoc_command.append(root)
     scholdoc_command.append('\\')
     scholdoc_command.append(root_data["name"])
-    scholdoc_command.append('.html')
-    scholdoc_command.append('\"')
+    scholdoc_command.append('.html\"')
     check_output(''.join(scholdoc_command), shell=False).encode('iso-8859-1')
     print '%s OK !' %root
     return root_data;
