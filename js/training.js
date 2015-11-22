@@ -95,7 +95,7 @@ function update(source) {
       .duration(duration)
       .attr("transform", function(d) {return "translate(" + d.y+ "," + d.x+ ")"; });
 	  
-  if(source.children){
+ /* if(source.children){
     nodeUpdate.select("circle")
         .transition()
         .duration(duration)
@@ -115,12 +115,13 @@ function update(source) {
       .duration(duration)
       .attr("r", 20)
       .style("fill", function(d) { return d._children ? "#0033CC" : "#ADD9E4"; }); 
-  }/*
+  }*/
+  
    nodeUpdate.select("circle")
       .transition()
       .duration(duration)
       .attr("r", 20)
-      .style("fill", function(d) { return d._children ? "#0033CC" : "#ADD9E4"; }); */
+      .style("fill", function(d) { return d._children ? "#0033CC" : "#ADD9E4"; });
 
   nodeUpdate.select("text")
       .transition()
