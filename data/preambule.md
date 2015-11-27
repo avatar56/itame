@@ -1,4 +1,4 @@
-﻿# Préambule
+﻿# Contexte
 Le **développement durable** est sans aucun doute le défi du 21<SUP>ème</SUP> siècle. Les enjeux majeurs du développement durable et le grand nombre de secteurs concernés par cette problématique en sont la preuve. Parmi les secteurs les plus impliqués dans la Recherche et le Développement de solutions pour le développement durable on peut noter le tourisme (e.g., écotourisme, commerce équitable), le transport (e.g., transport durable), l'industrie (e.g., l'éco-industrie), l'énergie (e.g., énergies renouvelables), l'agriculture (e.g., agriculture biologique et durable), la gestion des déchets (e.g., tri des déchets, recyclage) ou encore l'éducation (e.g., éducation au développement durable).
 <!--
 Certains secteurs telle que l'énergie et la gestion des déchets, plus sensibles aux développement durable, ont le besoin urgent d'obtenir des solutions.
