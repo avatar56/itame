@@ -12,7 +12,7 @@ Les caractéristiques d'une source influence efficacité d'une requête persuasi
 
 * Une source présentant un **mimétisme**-similarités dans le comportement-relatif au récepteur, augmente la complaisance. Il a été montré qu' une robot mimant l'écriture d'un message dans un chat influençait positivement l'opinion des individus sur le robot.
 
-* Les individu sont enclins à retourner une faveur. 
+* Une source présentant une **redevance**, peut augmente la complaisance pour une requête persuasive. Les individu sont enclins à retourner une faveur. 
 
 * La **Répétition** d'une même source dans le temps, augmente la complaisance. L'effet additif décroit au fur et à mesure que le nombre de répétition augmente mais une simple répétition initial d'une requête peut grandement améliorer la complaisance.
 
