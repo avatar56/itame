@@ -56,15 +56,12 @@
 		box-shadow: none;
 	}
 	img.logo {
-		width : 80%;
-		max-width:80%;
-		height : 80%;
-		max-height:80%;
-	    margin: 0px auto;
-		/*
-		margin-top: 0em;*/
+		width:80%;
+		margin: 0px auto;
+		height:auto;
 		display:block;
-		box-shadow: none;
+		box-shadow: none;	
+		vertical-align: center;
 	}
 	iframe {
 		margin: 0px auto;
@@ -570,7 +567,7 @@
 		background-position: center center;
 		background-attachment: fixed;
 		/*color : black;*/
-		color: #065986;
+		color: #333;
 		font-weight: 300;
   		font-family: "Helvetica",sans-serif;
   		/*text-shadow: 0 0 1px #483949;*/
@@ -591,7 +588,8 @@
 	h1, h2, h3, h4, h5, h6 {
 		/*color: #483949;*/
 		/*font-weight: bold;*/
-		color:#065986;
+		/*color:#065986;*/
+		color:#333;
 		font-family: 'Heavitas',sans-serif;
 
 	 	/*text-shadow: 0 0 1px black;*/
@@ -608,14 +606,16 @@
 		font-weight: 600;
 	}
 	h1 {
-		font-size: 1.2em;
+		font-size: 1.4em;
 		text-align: center;
+		font-weight: bold;
 		margin-top: 0.5em;
 		line-height: 1.4em;
+		font-family: "Helvetica",sans-serif;
 		margin: 1% 0 0 0;
 	}
 	h2 {
-		font-size: 1.4em;
+		font-size: 1.3em;
 		margin: 1% 0 0 0;
 		font-family: "Helvetica",sans-serif;
 		font-weight: bold;
@@ -623,7 +623,7 @@
 	}
 
 	h3 {
-		font-size: 1.3em;
+		font-size: 1.2em;
 		margin: 0.5% 0 0 0;
 		font-family: "Helvetica",sans-serif;
 		font-weight: bold;
@@ -631,17 +631,17 @@
 
 
 	h4 {
-		font-size: 1em;
+		font-size: 1.1em;
 		line-height: 1.1em;
-		margin: 0.5em 0 0.1em 0;
+		margin: 0.5% 0 0;
 		font-family: "Helvetica",sans-serif;
 		font-weight: 300;
 	}
 
 	strong, b {
-		font-weight: 400;
-		/*font-size: 1.1em;*/
-		color: black;
+		font-weight: bold;
+		/*font-size: 1.1em;
+		color: black;*/
 	}
 
 	em, i {
@@ -807,7 +807,7 @@
 
 	.node text {
 	  font-size: 1.5em;
-	  fill: #065986;
+	  fill: #333;
 	  text-shadow:
 	  #FFF 1px 1px,
 	  #FFF -1px 1px,
@@ -1132,7 +1132,7 @@
 		border: none;
 		}
 				table.logo td{
-				vertical-align:none;
+				vertical-align:baseline;
 				background-color:transparent;
 				text-align:center;
 				padding: 1em 1em 1em 1em;
@@ -1226,14 +1226,14 @@
 
 		}
 
-		table.head td h1{
+		/*table.head td h1{
 			font-size: 2.7em;
 			line-height: 1em;
    			color:#483949;
 			margin-top:0;
 			text-align:left;
 			font-family: "Heavitas", serif;
-		}
+		}*/
 		/*table.nav td:first-child {
 			text-align:left;
 			background: transparent;
@@ -1284,18 +1284,18 @@
 			vertical-align:middle;
 			background: transparent;
 	  		background-color: transparent;
-	  		width: 50%;
+	  		width: 33%;
 		}
 		table.nav td:first-child {
 			padding-left: 0;
 		}
-		table.nav td h2{
-			font-size: 1.2em;
+		table.nav td h1{
+			/*font-size: 1.2em;
 			line-height: 1.4em;
 			font-family: "Heavitas",sans-serif;
 			font-weight: 300;
 			margin:0;
-			color : #065986;
+			color : #333;*/
 			opacity: 0.7;
 		}
 		table.nav td:hover{	
@@ -1309,7 +1309,7 @@
   		background: radial-gradient(center, circle cover, rgba(247,251,252, 1) 0%, rgba(173,217,228,1) 100%);
   		background-color:  rgba(247,251,252, 1);		    		
 		}
-		table.nav td:hover h2{	
+		table.nav td:hover h1{	
 			opacity: 1;
 		}
 
@@ -1325,7 +1325,7 @@
 	  		background: radial-gradient(center, circle cover, rgba(247,251,252, 1) 0%, rgba(173,217,228,1) 100%);
 	  		background-color:  rgba(247,251,252, 1);		    		
 		}
-		table.nav td.active h2{	
+		table.nav td.active h1{	
 			opacity: 1;
 		} 	
 
@@ -2139,7 +2139,7 @@
 		/* Basic */
 
 			body, input, textarea, select {
-				font-size: 1.3em;
+				font-size: small;
 				line-height: 1.1em;
 			}
 

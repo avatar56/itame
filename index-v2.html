@@ -35,15 +35,15 @@
 								<table class="nav">
 									<tr>
 										<td class="active" id="td-accueil">
-											<h1>Accueil</h1>
+											<h2>Accueil</h2>
 										</td>
 									    <script>
 									     $("#td-accueil").click(function(){
 									       window.location = "index.html";
 									     });
-									    </script>							    
+									    </script>
 										<td id="td-contacts">
-											<h1>À propos</h1>
+											<h2>Contacts</h2>
 										</td>
 										<script>
 									     $("#td-contacts").click(function(){
@@ -82,17 +82,90 @@
 			<!-- NETWORK -->
 				<div id="wrapper-1" class="wrapper style1">
 						<div class="row 200%">
-							<section id="div-introduction"  class="12u 12u(mobile)">
-								<h1>Description</h1>
+							<section id="div-introduction"  class="12 u 12u(mobile)" style="margin-right:2%">
+								<h1 id="préambule">Description</h1>
 								<table class="content">
 								<tr>
-								<br>
-								<p>ITAME est un projet de Recherche en Interaction Homme-Machine (IHM) qui s’intéresse aux Interfaces Utilisateur Tangibles (TUI) et à la gestion de la consommation, de la production et du stockage de l'énergie.</p>
-								<p>ITAME souhaite explorer les capacités des TUIs à sensibiliser les usagers aux problématiques de gestion de l'énergie sur des lieux d'interaction sociale (<i>e.g.</i> un foyer, une entreprise, un lieu public). La persuasion est également un sujet privilégié du projet ITAME qui souhaite étudier les capacités des TUIs à susciter le changement de comportement et à assister la création de comportements durables.</p>
-
+								<td>
+								<p> ITAME est un projet de Recherche en Interactions Homme-Machine (IHM) qui s’intéresse aux Interfaces Utilisateur Tangibles (TUI) et plus particulièrement à leurs capacités à assister les usagers lors de tâches de gestion de l'énergie sur des lieux d'interaction sociale (<i>e.g.</i> un foyer, une entreprise, un lieu public).</p>
 								</td>									
 								</tr>
-								</table>								
+								</table>
+								<h1> Institutions </h1>
+								 <table class="logo">
+								  <tr>
+								    <td id= "tr-estia">
+								    <img class="logo" src="images/logo-estia1.png"  alt="estia">
+								    	<h2> ESTIA </h2>
+										<h4>École Supérieure des Technologies Industrielles Avancées</h4>
+								    </td>
+								    <script>
+								     $("#tr-estia").click(function(){
+								       window.location = "http://www.estia.fr/";
+								     });
+								    </script>
+								    <td id="tr-labri">
+								    	<img class="logo" src="images/logo-labri.png" alt="labri">
+								    	<h2> LaBRI </h2>
+										<h4>Laboratoire Bordelais de Recherche en Informatique</h4>		
+								    </td>
+								    <script>
+								     $("#tr-labri").click(function(){
+								       window.location = "https://www.labri.fr/";
+								     });
+								    </script>								    
+								    <td id="tr-univ-bordeaux">
+								    	<img class="logo" src="images/logo-univ-bordeaux.png" alt="univ-bordeaux">
+								    	<h2> Université de Bordeaux</h2>
+										<h4>Université de Bordeaux</h4>
+								    </td>
+								    <script>
+								     $("#tr-univ-bordeaux").click(function(){
+								       window.location = "https://www.u-bordeaux.fr/";
+								     });
+								    </script>
+								    <td id="tr-aquitaine">
+								    	<img class="logo" src="images/logo-aquitaine.png" alt="aquitaine">
+										<h2>CRAq</h2>
+										<h4>Conseil Régional d'Aquitaine</h4>
+								    </td>		
+								    <script>
+								     $("#tr-aquitaine").click(function(){
+								       window.location = "http://www.aquitaine.fr/";
+								     });
+								    </script>								    					    
+								  </tr>								  							  
+								</table> 
+								<h1> Contacts </h1>
+								 <table class="logo">
+								  <tr >
+								    <td id= "tr-maxime"><p>							
+								    	<h2>Maxime Daniel</h2>
+								    	<h4>Doctorant de la Thèse ITAME</h4>
+
+								    </p></td>
+								    <td id= "tr-guillaume"><p>								
+								    	<h2> Guillaume Rivière</h2>
+								    	<h4>Co-Directeur de la Thèse ITAME<br>
+										Enseignant-Chercheur à l'École d'ingénieurs ESTIA</h4>
+								    </p></td>
+								  <script>
+								     $("#tr-guillaume").click(function(){
+								       window.location = "http://www.guillaumeriviere.name/";
+								     });
+								  </script>
+								    <td id= "tr-nadine"><p>								
+								    	<h2> Nadine Couture</h2>
+								    	<h4>Co-Directrice de la Thèse ITAME<br>
+								    	Professeur à l'École d'ingénieurs ESTIA</h4>
+								    </p></td>
+								  <script>
+								     $("#tr-nadine").click(function(){
+								       window.location = "http://profils.estia.fr/n.couture/";
+								     });
+								  </script>
+								</tr>		  
+								</table> 
 							</section>								
 							
 							<!--<section id="div-introduction"  class="5u 5u(mobile)" style="margin-right:0%">
@@ -135,35 +208,35 @@
 								</table> 
 							</section>-->
 						</div>
-				</div>			
+				</div>
 				<div id="wrapper-2" class="wrapper style1">
 						<div class="row 200%">
 							<section id="div-preambule"  class="12u 12u(mobile)">
-								<h1>Objectifs</h1>
+								<h1 id="préambule">Sujets d’intérêts</h1>
 								<table class="interest">
 								<tr>
 									<td class="content">
 										<img class="content" src="images/smartgrid.jpg">
 									</td>
 									<td>
-										<h2>Les Interfaces Tangibles pour représenter et interagir avec les réseaux électriques intelligents</h2>
-										<!--<p>Les réseaux électriques classiques sont Aujourd'hui progressivement remplacés par des réseaux électriques intelligents. Cette transition entre ces deux générations de réseaux électriques est également la transition entre deux paradigmes de gestion de l'énergie. L'arrivée de ce nouveau paradigme amené par les réseaux électriques intelligents redéfini la façon même dont la consommation, la production et le stockage de l'énergie sont aujourd'hui gérés.<p>
+										<h2>Comprendre les réseaux électriques intelligents, les réseaux électriques de Demain</h2>
+										<p>Les réseaux électriques classiques sont Aujourd'hui progressivement remplacés par des réseaux électriques intelligents. Cette transition entre ces deux générations de réseaux électriques est également la transition entre deux paradigmes de gestion de l'énergie. L'arrivée de ce nouveau paradigme amené par les réseaux électriques intelligents redéfini la façon même dont la consommation, la production et le stockage de l'énergie sont aujourd'hui gérés.<p>
 										<ul>
 										<br>
 										<li>Comment les TUIs peuvent aider les usagers à comprendre cette nouvelle gestion de l'énergie amenée par les réseaux électriques intelligents ?</li><br>
 										<li>Comment les TUIs peuvent assister les usagers dans des tâches de gestion de l'énergie au sein d'un réseau électrique intelligent ?</li>
-									    </ul>-->							
+									    </ul>							
 									</td>									
 								</tr>
 								</table>							
 								<table class="interest">
 								<tr id="interest-sensibiliser">
 									<td>
-										<h2>Les Interfaces Tangibles pour sensibiliser à la gestion de l'énergie</h2>
-										<!--<p>Avec l'arrivée des réseaux électriques intelligents, il est nécessaire, à la fois, de continuer à sensibiliser les usagers aux problématiques énergétiques d'aujourd'hui mais également aux problématiques énergétiques de demain afin d'assurer une transition pérenne en ces deux générations de réseaux électriques.</p>
+										<h2>Sensibiliser les usagers Aujourd'hui aux problématiques énergétiques de Demain</h2>
+										<p>Avec l'arrivée des réseaux électriques intelligents, il est nécessaire, à la fois, de continuer à sensibiliser les usagers aux problématiques énergétiques d'aujourd'hui mais également aux problématiques énergétiques de demain afin d'assurer une transition pérenne en ces deux générations de réseaux électriques.</p>
 										<ul><br>
 										<li>Comment les TUIs peuvent contribuer à sensibiliser les usagers aux problématiques énergétiques présentes et futures ?</li>
-										</ul>-->
+										</ul>
 									</td>
 									<td class="content">
 										<img class="content" src="images/tesla.jpg">
@@ -188,9 +261,9 @@
 										<img class="content" src="images/smartcity.jpg">
 									</td>								
 									<td>
-										<h2>Les Interfaces Tangibles pour intervenir sur des espaces à interaction sociale</h2>
-										<!--<p> Les lieux d'interaction sociale sont des espaces priviligiés de rencontre et d'échange entre individu. 
-										</p>-->
+										<h2>Intervenir sur des lieux d'interaction sociale</h2>
+										<p> Les lieux d'interaction sociale sont des espaces priviligiés de rencontre et d'échange entre individu. 
+										</p>
 									</td>									
 								</tr>
 								<!--<script>
@@ -207,26 +280,33 @@
 								</script>-->
 								</table>								
 								<table class="interest">
-								<tr>
+								<tr>									
 									<td>
-										<h2>Les Interfaces Tangibles pour persuader au changement de comportement et assister la création de comportement durable</h2>
+										<h2>Persuader les usagers à adopter des comportements durables pour Aujourd'hui et pour Demain</h2>
 									</td>
 									<td class="content">
-										<img class="content" src="images/persuasion.jpg">
-									</td>
+										<img class="content" src="images/tesla.jpg">
+									</td>									
 								</tr>
 								</table>																
 							</section>
 						</div>
-				</div>		
+				</div>				
+	
 								<!--ITAME est l'acronyme d'Interface Tangible comme Aide à la Maitrise de l'énergie.
 								<p>Le <strong>développement durable</strong> est sans aucun doute le défi du 21<SUP>ème</SUP> siècle. Les enjeux majeurs du développement durable et le grand nombre de secteurs concernés par cette problématique en sont la preuve. Parmi les secteurs les plus impliqués dans la Recherche et le Développement de solutions pour le développement durable on peut noter le tourisme (e.g., écotourisme, commerce équitable), le transport (e.g., transport durable), l’industrie (e.g., l’éco-industrie), l’énergie (e.g., énergies renouvelables), l’agriculture (e.g., agriculture biologique et durable), la gestion des déchets (e.g., tri des déchets, recyclage) ou encore l’éducation (e.g., éducation au développement durable). 
 								</p>
 								<p>TRANSITION A FAIRE</p>
 								<p>Malgré le fait qu’une partie de la population soit sensibilisée aux problématiques de développement durable et agi en son intérêt, cette partie reste minoritaire et la population reste globalement peu informée et donc peu sensibilisée aux problématiques présentes (e.g., recyclage, eco-tourisme) et futures (e.g., réseau électrique intelligent) du développement durable. Afin de remédier à ce problème un secteur en particulier se présente comme une solution potentielle. Nous parlons ici du domaine des <strong>Technologies de l’information et de la communication (ICT)</strong> qui connaît un essor considérable depuis quelques années. En effet, les ICTs sont aujourd’hui omniprésentes dans notre vie quotidienne (e.g., smartphone) et offre potentiellement la capacité d’informer les usagers n’importe où et à n’importe quelle moment. Au vue de ce potentiel, un nouvel axe de Recherche est apparue dont l’objectif est d’étudier l’utilisation des ICTs pour <strong>informer</strong> et <strong>sensibiliser</strong> les usagers aux problématiques de développement durable, et pour <strong>persuader</strong> ces derniers à changer de comportement lorsque cela est nécessaire.</p>
 								<p><strong>ITAME</strong> est un projet CRAq qui se place dans la ligné des Recherches sur les <strong>Interfaces Homme-Machine (IHM, une catégorie d’ICT) pour le développement durable</strong>. Il s’intéresse plus particulièrement à un genre d’IHM, les <strong>Interfaces Utilisateur Tangibles (TUI) </strong> et à une problématique du développement durable, <strong>la maîtrise de l’énergie</strong>.</p>
-								<p><strong>ITAME</strong> étudie la capacité des TUIs à engager, sensibiliser et persuader les usagers à la maîtrise de l’énergie à l'échelle <strong>micro-sociale</strong> (e.g., famille), <strong>meso-sociale</strong> (e.g., entreprise) et/ou <strong>macro-sociale</strong> ( e.g., France).-->								
-				<!--<div id="wrapper-3" class="wrapper style1">
+								<p><strong>ITAME</strong> étudie la capacité des TUIs à engager, sensibiliser et persuader les usagers à la maîtrise de l’énergie à l'échelle <strong>micro-sociale</strong> (e.g., famille), <strong>meso-sociale</strong> (e.g., entreprise) et/ou <strong>macro-sociale</strong> ( e.g., France).-->			
+
+				<div id="wrapper-2" class="wrapper style1">
+						<div class="row 200%">
+							<section id="div-introduction"  class="12u 12u(mobile)" style="margin-right:2%">
+								
+						</div>					
+				<div id="wrapper-3" class="wrapper style1">
 						<div class="row 200%">
 							<section  id="div-tree" class="12u 12u(mobile) important(mobile)" id="content">
 							<h1>Exploration</h1>								
@@ -243,7 +323,7 @@
 							<section id="div-content"  class="12u 12u(mobile)">
 							</section>
 						</div>
-				</div>-->
+				</div>
 				
 <!--				<div id="footer">
 					<div class="container">
