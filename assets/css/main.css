@@ -20,7 +20,21 @@
 		font: inherit;
 		/*vertical-align: baseline;*/
 	}
-
+	div.background {
+		position: fixed;
+		left: 0;
+		top: 0;
+		z-index: -1;
+		height: auto;
+		min-height: 100% !important;
+		width : 100%;
+		/*background-image: url("../../images/smartgrid.jpg");*/
+		background-size: cover;
+		background-position: center center;
+		background-attachment: fixed;
+		display:block;
+		overflow:auto;
+	}
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
@@ -562,12 +576,11 @@
   background: -ms-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
   background: radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
   background-color: #f7fbfc;*/		
+		/*color : black;*/
 		background-image: url("../../images/smartgrid.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
-		/*color : black;*/
-		color: #333;
 		font-weight: 300;
   		font-family: "Helvetica",sans-serif;
   		/*text-shadow: 0 0 1px #483949;*/
@@ -1379,7 +1392,7 @@
 	  	background-color: transparent;
 		}
 		table.interest tr:hover{
-		box-shadow: 1px 1px 15px #555;		  
+		box-shadow: 1px 1px 5px #555;		  
 		background: rgba(173,217,228,1);
   		background: -moz-radial-gradient(center, circle cover, rgba(247,251,252, 1) 0%, rgba(173,217,228,1) 100%);
   		background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(247,251,252, 1)), color-stop(100%, rgba(173,217,228,1)));
@@ -2139,8 +2152,8 @@
 		/* Basic */
 
 			body, input, textarea, select {
-				font-size: small;
-				line-height: 1.1em;
+				font-size: normal;
+				line-height: normal;
 			}
 
 		/* Carousel */
