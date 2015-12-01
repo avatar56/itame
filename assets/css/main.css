@@ -577,14 +577,21 @@
   background: radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
   background-color: #f7fbfc;*/		
 		/*color : black;*/
-		background-image: url("../../images/smartgrid.jpg");
+		/*background-image: url("../../images/smartgrid.jpg");*/
+		background: rgba(228,228,228,0.7);
+  		background: -moz-radial-gradient(center, circle cover, rgba(247,251,252, 0.7) 0%, rgba(173,217,228,0.7) 100%);
+  		background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(247,251,252, 0.7)), color-stop(100%, rgba(173,217,228,0.7)));
+  		background: -webkit-radial-gradient(center, circle cover, rgba(247,251,252, 0.7) 0%, rgba(173,217,228,0.7) 100%);
+  		background: -o-radial-gradient(center, circle cover, rgba(247,251,252, 0.7) 0%, rgba(173,217,228,0.7) 100%);
+  		background: -ms-radial-gradient(center, circle cover, rgba(247,251,252, 0.7) 0%, rgba(173,217,228,0.7) 100%);
+  		background: radial-gradient(center, circle cover, rgba(247,251,252, 0.7) 0%, rgba(173,217,228,0.7) 100%);
+  		background-color:  rgba(247,251,252, 0.7);
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
 		font-weight: 300;
   		font-family: "Helvetica",sans-serif;
   		/*text-shadow: 0 0 1px #483949;*/
-  		background-color: white;
 	}
 
 		body.is-loading *, body.is-loading *:after, body.is-loading *:before {
@@ -1322,6 +1329,9 @@
   		background: radial-gradient(center, circle cover, rgba(247,251,252, 1) 0%, rgba(173,217,228,1) 100%);
   		background-color:  rgba(247,251,252, 1);		    		
 		}
+		table.nav td h1{
+			margin-top: 0;
+		}
 		table.nav td:hover h1{	
 			opacity: 1;
 		}
@@ -1368,7 +1378,7 @@
 		vertical-align:top;
 		background: transparent;
 	  	background-color: transparent;
-	  	/*width: 50%;*/
+	  	width: 50%;
 		}
 
 		table.interest {
