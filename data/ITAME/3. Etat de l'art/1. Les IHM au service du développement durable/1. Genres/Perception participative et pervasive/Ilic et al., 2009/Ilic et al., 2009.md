@@ -1,1 +1,0 @@
-# Utiliser des capteurs pour réduire l'empreinte carbone des aliments périsables [@ilic2009using]

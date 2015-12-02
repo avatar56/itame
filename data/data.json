@@ -67,77 +67,24 @@
                                 {
                                     "name": "Etude Utilisateur Formative", 
                                     "parent": "1. Genres", 
-                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/1. Genres/Etude Utilisateur Formative/Etude Utilisateur Formative.html", 
-                                    "_children": [
-                                        {
-                                            "name": "Huang et al., 2009", 
-                                            "parent": "Etude Utilisateur Formative", 
-                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/1. Genres/Etude Utilisateur Formative/Huang et al., 2009/Huang et al., 2009.html"
-                                        }
-                                    ]
+                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/1. Genres/Etude Utilisateur Formative/Etude Utilisateur Formative.html"
                                 }, 
                                 {
                                     "name": "Perception participative et pervasive", 
                                     "parent": "1. Genres", 
-                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/1. Genres/Perception participative et pervasive/Perception participative et pervasive.html", 
-                                    "_children": [
-                                        {
-                                            "name": "Ilic et al., 2009", 
-                                            "parent": "Perception participative et pervasive", 
-                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/1. Genres/Perception participative et pervasive/Ilic et al., 2009/Ilic et al., 2009.html"
-                                        }, 
-                                        {
-                                            "name": "Wark et al., 2009", 
-                                            "parent": "Perception participative et pervasive", 
-                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/1. Genres/Perception participative et pervasive/Wark et al., 2009/Wark et al., 2009.html"
-                                        }
-                                    ]
+                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/1. Genres/Perception participative et pervasive/Perception participative et pervasive.html"
                                 }, 
                                 {
                                     "name": "Sensibilisation ambiante", 
                                     "parent": "1. Genres", 
-                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/1. Genres/Sensibilisation ambiante/Sensibilisation ambiante.html", 
-                                    "_children": [
-                                        {
-                                            "name": "Nuage Vert, Evans et al., 2009", 
-                                            "parent": "Sensibilisation ambiante", 
-                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/1. Genres/Sensibilisation ambiante/Nuage Vert, Evans et al., 2009/Nuage Vert, Evans et al., 2009.html"
-                                        }, 
-                                        {
-                                            "name": "PowerAwareCord, Gustafsson et al., 2005", 
-                                            "parent": "Sensibilisation ambiante", 
-                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/1. Genres/Sensibilisation ambiante/PowerAwareCord, Gustafsson et al., 2005/PowerAwareCord, Gustafsson et al., 2005.html"
-                                        }, 
-                                        {
-                                            "name": "Smart Sink, Bonanni et al., 2005", 
-                                            "parent": "Sensibilisation ambiante", 
-                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/1. Genres/Sensibilisation ambiante/Smart Sink, Bonanni et al., 2005/Smart Sink, Bonanni et al., 2005.html"
-                                        }, 
-                                        {
-                                            "name": "Wattson, Kyoto et al., 2005", 
-                                            "parent": "Sensibilisation ambiante", 
-                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/1. Genres/Sensibilisation ambiante/Wattson, Kyoto et al., 2005/Wattson, Kyoto et al., 2005.html"
-                                        }
-                                    ]
+                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/1. Genres/Sensibilisation ambiante/Sensibilisation ambiante.html"
                                 }
                             ]
                         }, 
                         {
                             "name": "2. Axes de diff\u00e9rence", 
                             "parent": "1. Les IHM au service du d\u00e9veloppement durable", 
-                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/2. Axes de diff\u00e9rence/2. Axes de diff\u00e9rence.html", 
-                            "_children": [
-                                {
-                                    "name": "1. Individuels vs. Autres \u00e9chelles", 
-                                    "parent": "2. Axes de diff\u00e9rence", 
-                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/2. Axes de diff\u00e9rence/1. Individuels vs. Autres \u00e9chelles/1. Individuels vs. Autres \u00e9chelles.html"
-                                }, 
-                                {
-                                    "name": "2. Sujet de recherche vs. Domaine d'application", 
-                                    "parent": "2. Axes de diff\u00e9rence", 
-                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/2. Axes de diff\u00e9rence/2. Sujet de recherche vs. Domaine d'application/2. Sujet de recherche vs. Domaine d'application.html"
-                                }
-                            ]
+                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/2. Axes de diff\u00e9rence/2. Axes de diff\u00e9rence.html"
                         }, 
                         {
                             "name": "Technologie persuasive", 
@@ -366,9 +313,19 @@
                                     "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/Passive persuasion/Passive persuasion.html"
                                 }, 
                                 {
+                                    "name": "Psychologie cognitive", 
+                                    "parent": "Technologie persuasive", 
+                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/Psychologie cognitive/Psychologie cognitive.html"
+                                }, 
+                                {
                                     "name": "Psychologie comportementale", 
                                     "parent": "Technologie persuasive", 
                                     "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/Psychologie comportementale/Psychologie comportementale.html"
+                                }, 
+                                {
+                                    "name": "Psychologie sociale", 
+                                    "parent": "Technologie persuasive", 
+                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/Psychologie sociale/Psychologie sociale.html"
                                 }, 
                                 {
                                     "name": "Strong persuasion", 
@@ -469,151 +426,37 @@
                                         {
                                             "name": "Apprentissage", 
                                             "parent": "2. Applications", 
-                                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Apprentissage/Apprentissage.html", 
-                                            "_children": [
-                                                {
-                                                    "name": "Frei et al., 2000", 
-                                                    "parent": "Apprentissage", 
-                                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Apprentissage/Frei et al., 2000/Frei et al., 2000.html"
-                                                }, 
-                                                {
-                                                    "name": "Raffle et al., 2004", 
-                                                    "parent": "Apprentissage", 
-                                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Apprentissage/Raffle et al., 2004/Raffle et al., 2004.html"
-                                                }, 
-                                                {
-                                                    "name": "Underkoffler et al., 1998", 
-                                                    "parent": "Apprentissage", 
-                                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Apprentissage/Underkoffler et al., 1998/Underkoffler et al., 1998.html"
-                                                }, 
-                                                {
-                                                    "name": "Zufferey et al., 2009", 
-                                                    "parent": "Apprentissage", 
-                                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Apprentissage/Zufferey et al., 2009/Zufferey et al., 2009.html"
-                                                }
-                                            ]
+                                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Apprentissage/Apprentissage.html"
                                         }, 
                                         {
                                             "name": "Communication sociale", 
                                             "parent": "2. Applications", 
-                                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Communication sociale/Communication sociale.html", 
-                                            "_children": [
-                                                {
-                                                    "name": "Chang et al., 2001", 
-                                                    "parent": "Communication sociale", 
-                                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Communication sociale/Chang et al., 2001/Chang et al., 2001.html"
-                                                }, 
-                                                {
-                                                    "name": "Ernevi et al., 2005", 
-                                                    "parent": "Communication sociale", 
-                                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Communication sociale/Ernevi et al., 2005/Ernevi et al., 2005.html"
-                                                }, 
-                                                {
-                                                    "name": "Werner et al., 2008", 
-                                                    "parent": "Communication sociale", 
-                                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Communication sociale/Werner et al., 2008/Werner et al., 2008.html"
-                                                }
-                                            ]
+                                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Communication sociale/Communication sociale.html"
                                         }, 
                                         {
                                             "name": "Divertissement et \u00e9ducation", 
                                             "parent": "2. Applications", 
-                                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Divertissement et \u00e9ducation/Divertissement et \u00e9ducation.html", 
-                                            "_children": [
-                                                {
-                                                    "name": "Ryokai et al., 2004", 
-                                                    "parent": "Divertissement et \u00e9ducation", 
-                                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Divertissement et \u00e9ducation/Ryokai et al., 2004/Ryokai et al., 2004.html"
-                                                }, 
-                                                {
-                                                    "name": "Zigelbaum et al., 2007", 
-                                                    "parent": "Divertissement et \u00e9ducation", 
-                                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Divertissement et \u00e9ducation/Zigelbaum et al., 2007/Zigelbaum et al., 2007.html"
-                                                }
-                                            ]
+                                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Divertissement et \u00e9ducation/Divertissement et \u00e9ducation.html"
                                         }, 
                                         {
                                             "name": "Musique et performance", 
                                             "parent": "2. Applications", 
-                                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Musique et performance/Musique et performance.html", 
-                                            "_children": [
-                                                {
-                                                    "name": "Newton et al., 2003", 
-                                                    "parent": "Musique et performance", 
-                                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Musique et performance/Newton et al., 2003/Newton et al., 2003.html"
-                                                }, 
-                                                {
-                                                    "name": "Patten et al., 2002", 
-                                                    "parent": "Musique et performance", 
-                                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Musique et performance/Patten et al., 2002/Patten et al., 2002.html"
-                                                }, 
-                                                {
-                                                    "name": "Schiettecatte et al., 2008", 
-                                                    "parent": "Musique et performance", 
-                                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Musique et performance/Schiettecatte et al., 2008/Schiettecatte et al., 2008.html"
-                                                }
-                                            ]
+                                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Musique et performance/Musique et performance.html"
                                         }, 
                                         {
                                             "name": "Planification et r\u00e9solution de probl\u00e8me", 
                                             "parent": "2. Applications", 
-                                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Planification et r\u00e9solution de probl\u00e8me/Planification et r\u00e9solution de probl\u00e8me.html", 
-                                            "_children": [
-                                                {
-                                                    "name": "Ishii, 2008", 
-                                                    "parent": "Planification et r\u00e9solution de probl\u00e8me", 
-                                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Planification et r\u00e9solution de probl\u00e8me/Ishii, 2008/Ishii, 2008.html"
-                                                }, 
-                                                {
-                                                    "name": "Jacob et al., 2002", 
-                                                    "parent": "Planification et r\u00e9solution de probl\u00e8me", 
-                                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Planification et r\u00e9solution de probl\u00e8me/Jacob et al., 2002/Jacob et al., 2002.html"
-                                                }, 
-                                                {
-                                                    "name": "Patten, 2007", 
-                                                    "parent": "Planification et r\u00e9solution de probl\u00e8me", 
-                                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Planification et r\u00e9solution de probl\u00e8me/Patten, 2007/Patten, 2007.html"
-                                                }, 
-                                                {
-                                                    "name": "Underkoffler et al., 1999", 
-                                                    "parent": "Planification et r\u00e9solution de probl\u00e8me", 
-                                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Planification et r\u00e9solution de probl\u00e8me/Underkoffler et al., 1999/Underkoffler et al., 1999.html"
-                                                }
-                                            ]
+                                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Planification et r\u00e9solution de probl\u00e8me/Planification et r\u00e9solution de probl\u00e8me.html"
                                         }, 
                                         {
                                             "name": "Programmation tangible", 
                                             "parent": "2. Applications", 
-                                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Programmation tangible/Programmation tangible.html", 
-                                            "_children": [
-                                                {
-                                                    "name": "Horn et al., 2008", 
-                                                    "parent": "Programmation tangible", 
-                                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Programmation tangible/Horn et al., 2008/Horn et al., 2008.html"
-                                                }, 
-                                                {
-                                                    "name": "Suzuki et al., 1995", 
-                                                    "parent": "Programmation tangible", 
-                                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Programmation tangible/Suzuki et al., 1995/Suzuki et al., 1995.html"
-                                                }
-                                            ]
+                                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Programmation tangible/Programmation tangible.html"
                                         }, 
                                         {
                                             "name": "Visualisation d'informations", 
                                             "parent": "2. Applications", 
-                                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Visualisation d'informations/Visualisation d'informations.html", 
-                                            "_children": [
-                                                {
-                                                    "name": "Couture et al., 2008", 
-                                                    "parent": "Visualisation d'informations", 
-                                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Visualisation d'informations/Couture et al., 2008/Couture et al., 2008.html"
-                                                }, 
-                                                {
-                                                    "name": "Hinckley et al., 1994", 
-                                                    "parent": "Visualisation d'informations", 
-                                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Visualisation d'informations/Hinckley et al., 1994/Hinckley et al., 1994.html"
-                                                }
-                                            ]
+                                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Visualisation d'informations/Visualisation d'informations.html"
                                         }
                                     ]
                                 }, 
@@ -630,24 +473,7 @@
                                 {
                                     "name": "5. Recherches actuelles", 
                                     "parent": "2. Les Interface Utilisateur Tangible", 
-                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/5. Recherches actuelles/5. Recherches actuelles.html", 
-                                    "_children": [
-                                        {
-                                            "name": "Informatique tangible", 
-                                            "parent": "5. Recherches actuelles", 
-                                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/5. Recherches actuelles/Informatique tangible/Informatique tangible.html"
-                                        }, 
-                                        {
-                                            "name": "Interaction bas\u00e9e r\u00e9alit\u00e9", 
-                                            "parent": "5. Recherches actuelles", 
-                                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/5. Recherches actuelles/Interaction bas\u00e9e r\u00e9alit\u00e9/Interaction bas\u00e9e r\u00e9alit\u00e9.html"
-                                        }, 
-                                        {
-                                            "name": "Interaction tangible", 
-                                            "parent": "5. Recherches actuelles", 
-                                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/5. Recherches actuelles/Interaction tangible/Interaction tangible.html"
-                                        }
-                                    ]
+                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/5. Recherches actuelles/5. Recherches actuelles.html"
                                 }, 
                                 {
                                     "name": "6. Recherches futures", 
@@ -668,6 +494,18 @@
                                     "name": "Perlman, 1976", 
                                     "parent": "2. Les Interface Utilisateur Tangible", 
                                     "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/Perlman, 1976/Perlman, 1976.html"
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "3. Le paradigme de l'intelligence ambiante", 
+                            "parent": "2. Vers une physicalisation des IHM", 
+                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/3. Le paradigme de l'intelligence ambiante/3. Le paradigme de l'intelligence ambiante.html", 
+                            "_children": [
+                                {
+                                    "name": "Ambient persuasion", 
+                                    "parent": "3. Le paradigme de l'intelligence ambiante", 
+                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/3. Le paradigme de l'intelligence ambiante/Ambient persuasion/Ambient persuasion.html"
                                 }
                             ]
                         }

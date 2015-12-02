@@ -38,7 +38,10 @@
 									<tr>
 										<td class="active" id="td-accueil">
 											<h1>Accueil</h1>
-										</td>						    
+										</td>	
+										<td id="td-exploration">
+											<h1>Accès membres</h1>
+										</td>															    
 										<td id="td-contacts">
 											<h1>À propos</h1>
 										</td>
@@ -47,14 +50,22 @@
 								<script>
 							     $("#td-accueil").click(function(){
 							      $("#td-contacts").removeClass("active");
+							      $("#td-exploration").removeClass("active");
 							      $(this).addClass("active");							     	
 							       $("#wrapper-1").load("accueil.html");
 							     });
 							     $("#td-contacts").click(function(){
 							      $("#td-accueil").removeClass("active");
+							      $("#td-exploration").removeClass("active");
 							      $(this).addClass("active");
 							      $("#wrapper-1").load("contact.html");
 							     });
+							     $("#td-exploration").click(function(){
+							      $("#td-accueil").removeClass("active");
+							      $("#td-contacts").removeClass("active");
+							      $(this).addClass("active");
+							      $("#wrapper-1").load("exploration.html");
+							     });							     
 							    </script>								
 									<!--<h2 style="font-size: 1.5em;margin:0;">Accueil</h2>-->
 								</td>
@@ -140,13 +151,17 @@
 					</div>-->
 				</div>
 </div>
-		  	<script src="js/stopExecutionOnTimeout.js"></script>
-			<script src="data/training-data.js"></script>
-			<script src="js/training.js"></script>
-			<script src="js/d3/d3pie.min.js"></script>
-			<script src="assets/js/skel.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
-			<script src="assets/js/main.js"></script>
-	</body>
+<script>
+$(function() {
+    $(window).bind('resize', function()
+    {
+    	var preferredWidth = 1100;
+		var displayWidth = $(window).width();
+		var percentage = Math.min(1,displayWidth / preferredWidth);
+		$("body").css("font-size", (percentage*100)+"%");
+		   	
+        }).trigger('resize');
+    });
+</script>
+</body>
 </html>
