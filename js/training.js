@@ -1,4 +1,4 @@
-d3.json("data/data.json",function(treeData){
+d3.json("data.json",function(treeData){
 var margin = {top: 0, right: 155, bottom: 100, left:25},
     width = document.getElementById("div-tree").offsetWidth - margin.right - margin.left,
     height = document.getElementById("div-tree").offsetHeight- margin.top - margin.bottom;
@@ -32,7 +32,7 @@ var svg = d3.select("#tree").append("svg")
 root = treeData;
 root.x0 = height / 2;
 root.y0 = 0;
-$("#div-content").load('data/default.html');
+$("#div-content").load('default.html');
 update(root);
 
 function update(source) {
@@ -198,15 +198,15 @@ function goToContent(){
     }, duration);
 }
 function click(d) {
-  var html_file = 'data/default.html';
+  var html_file = 'default.html';
 
   if (d.children) {
     if(d.depth){
-       html_file = encodeURI('data/'+d.parent.html);
+       html_file = encodeURI(d.parent.html);
     }
     removeChildren(d);
   } else {
-    html_file = encodeURI('data/'+d.html);
+    html_file = encodeURI(d.html);
     d.children = d._children;
     d._children = null;
   }

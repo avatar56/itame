@@ -1,4 +1,8 @@
 AuthName "Page d'administration protégée"
 AuthType Basic
-AuthUserFile "/home/itame/Public/travaux/.htpasswd"
+AuthUserFile "/home/itame/Public/data/.htpasswd"
 Require valid-user
+ErrorDocument 400 /erreurs/erreur-400.html
+ErrorDocument 401 /erreurs/erreur-401.html
+ErrorDocument 403 /erreurs/erreur-403.html
+ErrorDocument 404 /erreurs/erreur-404.html

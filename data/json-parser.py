@@ -21,12 +21,10 @@ for dirName, subdirList, fileList in os.walk(rootDir):
 def generatePreambuleJSON() :
     scholdoc_command = []
     scholdoc_command.append('scholdoc ')
-    scholdoc_command.append(websettingPath)
-    scholdoc_command.append(' ')
     scholdoc_command.append('\"')
     scholdoc_command.append('preambule.md')
     scholdoc_command.append('\"')
-    scholdoc_command.append(' --citeproc --bibliography resources/biblio.bib --csl resources/plos.csl --to=html')
+    scholdoc_command.append(' --citeproc --bibliography resources/biblio.bib --csl resources/plos.csl --to=html_bodyonly')
     scholdoc_command.append(' --output=')
     scholdoc_command.append('\"')
     scholdoc_command.append('preambule.html')
@@ -37,12 +35,11 @@ def generatePreambuleJSON() :
 def generateDefaultJSON() :
     scholdoc_command = []
     scholdoc_command.append('scholdoc ')
-    scholdoc_command.append(websettingPath)
     scholdoc_command.append(' ')
     scholdoc_command.append('\"')
     scholdoc_command.append('default.md')
     scholdoc_command.append('\"')
-    scholdoc_command.append(' --citeproc --bibliography resources/biblio.bib --csl resources/plos.csl --to=html')
+    scholdoc_command.append(' --citeproc --bibliography resources/biblio.bib --csl resources/plos.csl --to=html_bodyonly')
     scholdoc_command.append(' --output=')
     scholdoc_command.append('\"')
     scholdoc_command.append('default.html')
@@ -69,14 +66,12 @@ def generateJSON(parent, root) :
     
     scholdoc_command = []
     scholdoc_command.append('scholdoc ')
-    scholdoc_command.append(websettingPath)
-    scholdoc_command.append(' ')
     scholdoc_command.append('\"')
     scholdoc_command.append(root)
     scholdoc_command.append('\\')
     scholdoc_command.append(root_data["name"])
     scholdoc_command.append('.md\"')
-    scholdoc_command.append(' --citeproc --bibliography resources/biblio.bib --csl resources/plos.csl --to=html')
+    scholdoc_command.append(' --citeproc --bibliography resources/biblio.bib --csl resources/plos.csl --to=html_bodyonly')
     scholdoc_command.append(' --output=')
     scholdoc_command.append('\"')
     scholdoc_command.append(root)

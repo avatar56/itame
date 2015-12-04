@@ -1,0 +1,100 @@
+<!DOCTYPE HTML>
+<!--
+	Helios by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+	<meta name="description" content="Contactez-nous." />
+	<meta name="keywords" content="itame, tangible, énergie, lieu public, persuader, sensibiliser, interaction homme-machine, interface utilisateur tangible, ihm, tui, estia, labri, université de bordeaux, région aquitaine" />
+	<meta name="author" content="Maxime Daniel">
+	<meta name="robots" content="index, follow">
+	<meta name="revisit-after" content="1 month">
+	<meta charset="utf-8" />
+	<meta name="author" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1" />	
+	<title>ITAME - Accès Membre</title>
+<!-- tangible, energie, persuasion -->
+	<script src="../js/jquery.js"></script>
+	<script src="../js/jquery-ui.js"></script>
+
+	<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+	<link rel="stylesheet" href="../css/main.css" />
+
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body class="no-sidebar">
+		<div class="background" id="div-background">
+		</div>
+		<div id="page-wrapper">
+				<div id="header">
+				<table class="head">
+					<tr>
+						<td>
+						<img  class="header" src="../images/logo-itame.png" alt="logo">
+						</td>								
+						<td>
+						<table class="nav">
+							<tr>
+								<td id="td-accueil">
+									<h1>Accueil</h1>
+								</td>	
+								<td class="active" id="td-exploration">
+									<h1>Accès Membre</h1>
+								</td>															    
+								<td id="td-contacts">
+									<h1>À propos</h1>
+								</td>
+							</tr>
+						</table>
+						<script>
+					     $("#td-accueil").click(function(){							     	
+						       window.location.replace("../");
+					     });
+					     $("#td-contacts").click(function(){
+						       window.location.replace("../about-us");
+					     });
+					     $("#td-exploration").click(function(){
+						      window.location.replace("../data");
+					     });							     
+					    </script>								
+							<!--<h2 style="font-size: 1.5em;margin:0;">Accueil</h2>-->
+						</td>
+					</tr>
+				</table>
+				</div>
+				<div id="wrapper-1" class="wrapper style1">
+					<div class="row 200%">
+						<section  id="div-tree" class="12u 12u(mobile) important(mobile)" id="content">
+						<h1>Exploration</h1>								
+							<div class="tree">
+								 <span id="tree">
+									</span>
+							</div>
+							<div>
+							<div class="content" id="div-content">
+							</div>										
+						</section>
+					</div>				
+				</div>	
+</div>
+<script src="../js/d3/d3.min.js"></script>
+<script src="../js/stopExecutionOnTimeout.js"></script>
+<script src="training-data.js"></script>
+<script src="../js/training.js"></script>
+<script src="../js/d3/d3pie.min.js"></script>
+<script>
+$(function() {
+    $(window).bind('resize', function()
+    {
+    	var preferredWidth = 1100;
+		var displayWidth = $(window).width();
+		var percentage = Math.min(1,displayWidth / preferredWidth);
+		$("body").css("font-size", (percentage*100)+"%");
+		   	
+        }).trigger('resize');
+    });
+</script>
+</body>
+</html>

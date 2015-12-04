@@ -9,524 +9,534 @@
             "html": "ITAME/1. Introduction/1. Introduction.html", 
             "_children": [
                 {
-                    "name": "1.1 D\u00e9veloppement durable", 
+                    "name": "1. Sustainable development", 
                     "parent": "1. Introduction", 
-                    "html": "ITAME/1. Introduction/1.1 D\u00e9veloppement durable/1.1 D\u00e9veloppement durable.html"
+                    "html": "ITAME/1. Introduction/1. Sustainable development/1. Sustainable development.html"
                 }, 
                 {
-                    "name": "1.2 Energies renouvelables", 
+                    "name": "2. Smart grids", 
                     "parent": "1. Introduction", 
-                    "html": "ITAME/1. Introduction/1.2 Energies renouvelables/1.2 Energies renouvelables.html"
-                }, 
-                {
-                    "name": "1.3 R\u00e9seau intelligent", 
-                    "parent": "1. Introduction", 
-                    "html": "ITAME/1. Introduction/1.3 R\u00e9seau intelligent/1.3 R\u00e9seau intelligent.html", 
-                    "_children": [
-                        {
-                            "name": "1.3.1 Compteur intelligent", 
-                            "parent": "1.3 R\u00e9seau intelligent", 
-                            "html": "ITAME/1. Introduction/1.3 R\u00e9seau intelligent/1.3.1 Compteur intelligent/1.3.1 Compteur intelligent.html", 
-                            "_children": [
-                                {
-                                    "name": "Toledo, 2012", 
-                                    "parent": "1.3.1 Compteur intelligent", 
-                                    "html": "ITAME/1. Introduction/1.3 R\u00e9seau intelligent/1.3.1 Compteur intelligent/Toledo, 2012/Toledo, 2012.html"
-                                }
-                            ]
-                        }
-                    ]
+                    "html": "ITAME/1. Introduction/2. Smart grids/2. Smart grids.html"
                 }
             ]
         }, 
         {
-            "name": "2. Probl\u00e9matique", 
+            "name": "2. State of the art", 
             "parent": "ITAME", 
-            "html": "ITAME/2. Probl\u00e9matique/2. Probl\u00e9matique.html"
-        }, 
-        {
-            "name": "3. Etat de l'art", 
-            "parent": "ITAME", 
-            "html": "ITAME/3. Etat de l'art/3. Etat de l'art.html", 
+            "html": "ITAME/2. State of the art/2. State of the art.html", 
             "_children": [
                 {
-                    "name": "1. Les IHM au service du d\u00e9veloppement durable", 
-                    "parent": "3. Etat de l'art", 
-                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/1. Les IHM au service du d\u00e9veloppement durable.html", 
+                    "name": "1. Evolution of Human-Computer Interaction", 
+                    "parent": "2. State of the art", 
+                    "html": "ITAME/2. State of the art/1. Evolution of Human-Computer Interaction/1. Evolution of Human-Computer Interaction.html"
+                }, 
+                {
+                    "name": "2. Ambient intelligence paradigm", 
+                    "parent": "2. State of the art", 
+                    "html": "ITAME/2. State of the art/2. Ambient intelligence paradigm/2. Ambient intelligence paradigm.html", 
+                    "_children": [
+                        {
+                            "name": "Ambient persuasion", 
+                            "parent": "2. Ambient intelligence paradigm", 
+                            "html": "ITAME/2. State of the art/2. Ambient intelligence paradigm/Ambient persuasion/Ambient persuasion.html"
+                        }
+                    ]
+                }, 
+                {
+                    "name": "3. Sustainable  Human-Computer Interaction", 
+                    "parent": "2. State of the art", 
+                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/3. Sustainable  Human-Computer Interaction.html", 
                     "_children": [
                         {
                             "name": "1. Genres", 
-                            "parent": "1. Les IHM au service du d\u00e9veloppement durable", 
-                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/1. Genres/1. Genres.html", 
+                            "parent": "3. Sustainable  Human-Computer Interaction", 
+                            "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/1. Genres.html", 
                             "_children": [
                                 {
-                                    "name": "Conception d'interaction durable", 
+                                    "name": "Ambient awareness", 
                                     "parent": "1. Genres", 
-                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/1. Genres/Conception d'interaction durable/Conception d'interaction durable.html"
+                                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Ambient awareness/Ambient awareness.html"
                                 }, 
                                 {
-                                    "name": "Etude Utilisateur Formative", 
+                                    "name": "Formative user studies", 
                                     "parent": "1. Genres", 
-                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/1. Genres/Etude Utilisateur Formative/Etude Utilisateur Formative.html"
+                                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Formative user studies/Formative user studies.html"
                                 }, 
                                 {
-                                    "name": "Perception participative et pervasive", 
+                                    "name": "Persuasive technology", 
                                     "parent": "1. Genres", 
-                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/1. Genres/Perception participative et pervasive/Perception participative et pervasive.html"
-                                }, 
-                                {
-                                    "name": "Sensibilisation ambiante", 
-                                    "parent": "1. Genres", 
-                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/1. Genres/Sensibilisation ambiante/Sensibilisation ambiante.html"
-                                }
-                            ]
-                        }, 
-                        {
-                            "name": "2. Axes de diff\u00e9rence", 
-                            "parent": "1. Les IHM au service du d\u00e9veloppement durable", 
-                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/2. Axes de diff\u00e9rence/2. Axes de diff\u00e9rence.html"
-                        }, 
-                        {
-                            "name": "Technologie persuasive", 
-                            "parent": "1. Les IHM au service du d\u00e9veloppement durable", 
-                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/Technologie persuasive.html", 
-                            "_children": [
-                                {
-                                    "name": "1. Genres", 
-                                    "parent": "Technologie persuasive", 
-                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/1. Genres/1. Genres.html", 
+                                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/Persuasive technology.html", 
                                     "_children": [
                                         {
-                                            "name": "1. Syst\u00e8me Ludo-Persuasif", 
-                                            "parent": "1. Genres", 
-                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/1. Genres/1. Syst\u00e8me Ludo-Persuasif/1. Syst\u00e8me Ludo-Persuasif.html", 
+                                            "name": "1. Genres", 
+                                            "parent": "Persuasive technology", 
+                                            "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/1. Genres/1. Genres.html", 
                                             "_children": [
                                                 {
-                                                    "name": "5.1 Definition", 
-                                                    "parent": "1. Syst\u00e8me Ludo-Persuasif", 
-                                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/1. Genres/1. Syst\u00e8me Ludo-Persuasif/5.1 Definition/5.1 Definition.html", 
+                                                    "name": "1. Syst\u00e8me Ludo-Persuasif", 
+                                                    "parent": "1. Genres", 
+                                                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/1. Genres/1. Syst\u00e8me Ludo-Persuasif/1. Syst\u00e8me Ludo-Persuasif.html", 
                                                     "_children": [
                                                         {
-                                                            "name": "Ludification", 
-                                                            "parent": "5.1 Definition", 
-                                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/1. Genres/1. Syst\u00e8me Ludo-Persuasif/5.1 Definition/Ludification/Ludification.html"
-                                                        }
-                                                    ]
-                                                }, 
-                                                {
-                                                    "name": "Evaluation", 
-                                                    "parent": "1. Syst\u00e8me Ludo-Persuasif", 
-                                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/1. Genres/1. Syst\u00e8me Ludo-Persuasif/Evaluation/Evaluation.html", 
-                                                    "_children": [
-                                                        {
-                                                            "name": "PISTIL", 
-                                                            "parent": "Evaluation", 
-                                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/1. Genres/1. Syst\u00e8me Ludo-Persuasif/Evaluation/PISTIL/PISTIL.html", 
+                                                            "name": "5.1 Definition", 
+                                                            "parent": "1. Syst\u00e8me Ludo-Persuasif", 
+                                                            "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/1. Genres/1. Syst\u00e8me Ludo-Persuasif/5.1 Definition/5.1 Definition.html", 
                                                             "_children": [
                                                                 {
-                                                                    "name": "Support au dialogue", 
-                                                                    "parent": "PISTIL", 
-                                                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/1. Genres/1. Syst\u00e8me Ludo-Persuasif/Evaluation/PISTIL/Support au dialogue/Support au dialogue.html"
-                                                                }, 
-                                                                {
-                                                                    "name": "Support \u00e0 la cr\u00e9dibilit\u00e9", 
-                                                                    "parent": "PISTIL", 
-                                                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/1. Genres/1. Syst\u00e8me Ludo-Persuasif/Evaluation/PISTIL/Support \u00e0 la cr\u00e9dibilit\u00e9/Support \u00e0 la cr\u00e9dibilit\u00e9.html"
-                                                                }, 
-                                                                {
-                                                                    "name": "Support \u00e0 la socialit\u00e9", 
-                                                                    "parent": "PISTIL", 
-                                                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/1. Genres/1. Syst\u00e8me Ludo-Persuasif/Evaluation/PISTIL/Support \u00e0 la socialit\u00e9/Support \u00e0 la socialit\u00e9.html"
-                                                                }
-                                                            ]
-                                                        }
-                                                    ]
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }, 
-                                {
-                                    "name": "2. Applications", 
-                                    "parent": "Technologie persuasive", 
-                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/2. Applications/2. Applications.html", 
-                                    "_children": [
-                                        {
-                                            "name": "Persuasion technologie et Energie", 
-                                            "parent": "2. Applications", 
-                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/2. Applications/Persuasion technologie et Energie/Persuasion technologie et Energie.html", 
-                                            "_children": [
-                                                {
-                                                    "name": "Classification", 
-                                                    "parent": "Persuasion technologie et Energie", 
-                                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/2. Applications/Persuasion technologie et Energie/Classification/Classification.html", 
-                                                    "_children": [
-                                                        {
-                                                            "name": "1. Domaine", 
-                                                            "parent": "Classification", 
-                                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/2. Applications/Persuasion technologie et Energie/Classification/1. Domaine/1. Domaine.html"
-                                                        }, 
-                                                        {
-                                                            "name": "2. Fonction de persuasion", 
-                                                            "parent": "Classification", 
-                                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/2. Applications/Persuasion technologie et Energie/Classification/2. Fonction de persuasion/2. Fonction de persuasion.html"
-                                                        }, 
-                                                        {
-                                                            "name": "3. Repr\u00e9sentation", 
-                                                            "parent": "Classification", 
-                                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/2. Applications/Persuasion technologie et Energie/Classification/3. Repr\u00e9sentation/3. Repr\u00e9sentation.html"
-                                                        }, 
-                                                        {
-                                                            "name": "4. Interaction", 
-                                                            "parent": "Classification", 
-                                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/2. Applications/Persuasion technologie et Energie/Classification/4. Interaction/4. Interaction.html"
-                                                        }, 
-                                                        {
-                                                            "name": "5. Echelle", 
-                                                            "parent": "Classification", 
-                                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/2. Applications/Persuasion technologie et Energie/Classification/5. Echelle/5. Echelle.html"
-                                                        }, 
-                                                        {
-                                                            "name": "6. Support", 
-                                                            "parent": "Classification", 
-                                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/2. Applications/Persuasion technologie et Energie/Classification/6. Support/6. Support.html"
-                                                        }
-                                                    ]
-                                                }, 
-                                                {
-                                                    "name": "Exemples", 
-                                                    "parent": "Persuasion technologie et Energie", 
-                                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/2. Applications/Persuasion technologie et Energie/Exemples/Exemples.html", 
-                                                    "_children": [
-                                                        {
-                                                            "name": "Abstract Ambient", 
-                                                            "parent": "Exemples", 
-                                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/2. Applications/Persuasion technologie et Energie/Exemples/Abstract Ambient/Abstract Ambient.html"
-                                                        }, 
-                                                        {
-                                                            "name": "Customisable Dashboard", 
-                                                            "parent": "Exemples", 
-                                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/2. Applications/Persuasion technologie et Energie/Exemples/Customisable Dashboard/Customisable Dashboard.html"
-                                                        }, 
-                                                        {
-                                                            "name": "EnergyLife", 
-                                                            "parent": "Exemples", 
-                                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/2. Applications/Persuasion technologie et Energie/Exemples/EnergyLife/EnergyLife.html"
-                                                        }, 
-                                                        {
-                                                            "name": "FigureEnergy", 
-                                                            "parent": "Exemples", 
-                                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/2. Applications/Persuasion technologie et Energie/Exemples/FigureEnergy/FigureEnergy.html"
-                                                        }, 
-                                                        {
-                                                            "name": "Handy Feedback", 
-                                                            "parent": "Exemples", 
-                                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/2. Applications/Persuasion technologie et Energie/Exemples/Handy Feedback/Handy Feedback.html"
-                                                        }, 
-                                                        {
-                                                            "name": "Limit Eco-feedback", 
-                                                            "parent": "Exemples", 
-                                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/2. Applications/Persuasion technologie et Energie/Exemples/Limit Eco-feedback/Limit Eco-feedback.html"
-                                                        }, 
-                                                        {
-                                                            "name": "Neighbourhood Wattch", 
-                                                            "parent": "Exemples", 
-                                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/2. Applications/Persuasion technologie et Energie/Exemples/Neighbourhood Wattch/Neighbourhood Wattch.html"
-                                                        }, 
-                                                        {
-                                                            "name": "Personnalized Eco-feedback", 
-                                                            "parent": "Exemples", 
-                                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/2. Applications/Persuasion technologie et Energie/Exemples/Personnalized Eco-feedback/Personnalized Eco-feedback.html"
-                                                        }, 
-                                                        {
-                                                            "name": "PowerAdvisor", 
-                                                            "parent": "Exemples", 
-                                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/2. Applications/Persuasion technologie et Energie/Exemples/PowerAdvisor/PowerAdvisor.html"
-                                                        }, 
-                                                        {
-                                                            "name": "PowerViz", 
-                                                            "parent": "Exemples", 
-                                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/2. Applications/Persuasion technologie et Energie/Exemples/PowerViz/PowerViz.html"
-                                                        }
-                                                    ]
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }, 
-                                {
-                                    "name": "Definition", 
-                                    "parent": "Technologie persuasive", 
-                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/Definition/Definition.html", 
-                                    "_children": [
-                                        {
-                                            "name": "Persuasion", 
-                                            "parent": "Definition", 
-                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/Definition/Persuasion/Persuasion.html", 
-                                            "_children": [
-                                                {
-                                                    "name": "n'est pas manipulation", 
-                                                    "parent": "Persuasion", 
-                                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/Definition/Persuasion/n'est pas manipulation/n'est pas manipulation.html", 
-                                                    "_children": [
-                                                        {
-                                                            "name": "Definition", 
-                                                            "parent": "n'est pas manipulation", 
-                                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/Definition/Persuasion/n'est pas manipulation/Definition/Definition.html", 
-                                                            "_children": [
-                                                                {
-                                                                    "name": "Acte non-probl\u00e9matique", 
-                                                                    "parent": "Definition", 
-                                                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/Definition/Persuasion/n'est pas manipulation/Definition/Acte non-probl\u00e9matique/Acte non-probl\u00e9matique.html"
-                                                                }, 
-                                                                {
-                                                                    "name": "Acte probl\u00e9matique", 
-                                                                    "parent": "Definition", 
-                                                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/Definition/Persuasion/n'est pas manipulation/Definition/Acte probl\u00e9matique/Acte probl\u00e9matique.html"
+                                                                    "name": "Ludification", 
+                                                                    "parent": "5.1 Definition", 
+                                                                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/1. Genres/1. Syst\u00e8me Ludo-Persuasif/5.1 Definition/Ludification/Ludification.html"
                                                                 }
                                                             ]
                                                         }, 
                                                         {
-                                                            "name": "Modele", 
-                                                            "parent": "n'est pas manipulation", 
-                                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/Definition/Persuasion/n'est pas manipulation/Modele/Modele.html"
+                                                            "name": "Evaluation", 
+                                                            "parent": "1. Syst\u00e8me Ludo-Persuasif", 
+                                                            "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/1. Genres/1. Syst\u00e8me Ludo-Persuasif/Evaluation/Evaluation.html", 
+                                                            "_children": [
+                                                                {
+                                                                    "name": "PISTIL", 
+                                                                    "parent": "Evaluation", 
+                                                                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/1. Genres/1. Syst\u00e8me Ludo-Persuasif/Evaluation/PISTIL/PISTIL.html", 
+                                                                    "_children": [
+                                                                        {
+                                                                            "name": "Support au dialogue", 
+                                                                            "parent": "PISTIL", 
+                                                                            "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/1. Genres/1. Syst\u00e8me Ludo-Persuasif/Evaluation/PISTIL/Support au dialogue/Support au dialogue.html"
+                                                                        }, 
+                                                                        {
+                                                                            "name": "Support \u00e0 la cr\u00e9dibilit\u00e9", 
+                                                                            "parent": "PISTIL", 
+                                                                            "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/1. Genres/1. Syst\u00e8me Ludo-Persuasif/Evaluation/PISTIL/Support \u00e0 la cr\u00e9dibilit\u00e9/Support \u00e0 la cr\u00e9dibilit\u00e9.html"
+                                                                        }, 
+                                                                        {
+                                                                            "name": "Support \u00e0 la socialit\u00e9", 
+                                                                            "parent": "PISTIL", 
+                                                                            "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/1. Genres/1. Syst\u00e8me Ludo-Persuasif/Evaluation/PISTIL/Support \u00e0 la socialit\u00e9/Support \u00e0 la socialit\u00e9.html"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
                                                         }
                                                     ]
                                                 }
                                             ]
                                         }, 
                                         {
-                                            "name": "Technologie informatique", 
-                                            "parent": "Definition", 
-                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/Definition/Technologie informatique/Technologie informatique.html"
-                                        }
-                                    ]
-                                }, 
-                                {
-                                    "name": "Modele", 
-                                    "parent": "Technologie persuasive", 
-                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/Modele/Modele.html"
-                                }, 
-                                {
-                                    "name": "Passive persuasion", 
-                                    "parent": "Technologie persuasive", 
-                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/Passive persuasion/Passive persuasion.html"
-                                }, 
-                                {
-                                    "name": "Psychologie cognitive", 
-                                    "parent": "Technologie persuasive", 
-                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/Psychologie cognitive/Psychologie cognitive.html"
-                                }, 
-                                {
-                                    "name": "Psychologie comportementale", 
-                                    "parent": "Technologie persuasive", 
-                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/Psychologie comportementale/Psychologie comportementale.html"
-                                }, 
-                                {
-                                    "name": "Psychologie sociale", 
-                                    "parent": "Technologie persuasive", 
-                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/Psychologie sociale/Psychologie sociale.html"
-                                }, 
-                                {
-                                    "name": "Strong persuasion", 
-                                    "parent": "Technologie persuasive", 
-                                    "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/Strong persuasion/Strong persuasion.html", 
-                                    "_children": [
+                                            "name": "2. Applications", 
+                                            "parent": "Persuasive technology", 
+                                            "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/2. Applications/2. Applications.html", 
+                                            "_children": [
+                                                {
+                                                    "name": "Persuasion technologie et Energie", 
+                                                    "parent": "2. Applications", 
+                                                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/2. Applications/Persuasion technologie et Energie/Persuasion technologie et Energie.html", 
+                                                    "_children": [
+                                                        {
+                                                            "name": "Classification", 
+                                                            "parent": "Persuasion technologie et Energie", 
+                                                            "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/2. Applications/Persuasion technologie et Energie/Classification/Classification.html", 
+                                                            "_children": [
+                                                                {
+                                                                    "name": "1. Domaine", 
+                                                                    "parent": "Classification", 
+                                                                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/2. Applications/Persuasion technologie et Energie/Classification/1. Domaine/1. Domaine.html"
+                                                                }, 
+                                                                {
+                                                                    "name": "2. Fonction de persuasion", 
+                                                                    "parent": "Classification", 
+                                                                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/2. Applications/Persuasion technologie et Energie/Classification/2. Fonction de persuasion/2. Fonction de persuasion.html"
+                                                                }, 
+                                                                {
+                                                                    "name": "3. Repr\u00e9sentation", 
+                                                                    "parent": "Classification", 
+                                                                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/2. Applications/Persuasion technologie et Energie/Classification/3. Repr\u00e9sentation/3. Repr\u00e9sentation.html"
+                                                                }, 
+                                                                {
+                                                                    "name": "4. Interaction", 
+                                                                    "parent": "Classification", 
+                                                                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/2. Applications/Persuasion technologie et Energie/Classification/4. Interaction/4. Interaction.html"
+                                                                }, 
+                                                                {
+                                                                    "name": "5. Echelle", 
+                                                                    "parent": "Classification", 
+                                                                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/2. Applications/Persuasion technologie et Energie/Classification/5. Echelle/5. Echelle.html"
+                                                                }, 
+                                                                {
+                                                                    "name": "6. Support", 
+                                                                    "parent": "Classification", 
+                                                                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/2. Applications/Persuasion technologie et Energie/Classification/6. Support/6. Support.html"
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "Exemples", 
+                                                            "parent": "Persuasion technologie et Energie", 
+                                                            "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/2. Applications/Persuasion technologie et Energie/Exemples/Exemples.html", 
+                                                            "_children": [
+                                                                {
+                                                                    "name": "Abstract Ambient", 
+                                                                    "parent": "Exemples", 
+                                                                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/2. Applications/Persuasion technologie et Energie/Exemples/Abstract Ambient/Abstract Ambient.html"
+                                                                }, 
+                                                                {
+                                                                    "name": "Customisable Dashboard", 
+                                                                    "parent": "Exemples", 
+                                                                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/2. Applications/Persuasion technologie et Energie/Exemples/Customisable Dashboard/Customisable Dashboard.html"
+                                                                }, 
+                                                                {
+                                                                    "name": "EnergyLife", 
+                                                                    "parent": "Exemples", 
+                                                                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/2. Applications/Persuasion technologie et Energie/Exemples/EnergyLife/EnergyLife.html"
+                                                                }, 
+                                                                {
+                                                                    "name": "FigureEnergy", 
+                                                                    "parent": "Exemples", 
+                                                                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/2. Applications/Persuasion technologie et Energie/Exemples/FigureEnergy/FigureEnergy.html"
+                                                                }, 
+                                                                {
+                                                                    "name": "Handy Feedback", 
+                                                                    "parent": "Exemples", 
+                                                                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/2. Applications/Persuasion technologie et Energie/Exemples/Handy Feedback/Handy Feedback.html"
+                                                                }, 
+                                                                {
+                                                                    "name": "Limit Eco-feedback", 
+                                                                    "parent": "Exemples", 
+                                                                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/2. Applications/Persuasion technologie et Energie/Exemples/Limit Eco-feedback/Limit Eco-feedback.html"
+                                                                }, 
+                                                                {
+                                                                    "name": "Neighbourhood Wattch", 
+                                                                    "parent": "Exemples", 
+                                                                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/2. Applications/Persuasion technologie et Energie/Exemples/Neighbourhood Wattch/Neighbourhood Wattch.html"
+                                                                }, 
+                                                                {
+                                                                    "name": "Personnalized Eco-feedback", 
+                                                                    "parent": "Exemples", 
+                                                                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/2. Applications/Persuasion technologie et Energie/Exemples/Personnalized Eco-feedback/Personnalized Eco-feedback.html"
+                                                                }, 
+                                                                {
+                                                                    "name": "PowerAdvisor", 
+                                                                    "parent": "Exemples", 
+                                                                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/2. Applications/Persuasion technologie et Energie/Exemples/PowerAdvisor/PowerAdvisor.html"
+                                                                }, 
+                                                                {
+                                                                    "name": "PowerViz", 
+                                                                    "parent": "Exemples", 
+                                                                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/2. Applications/Persuasion technologie et Energie/Exemples/PowerViz/PowerViz.html"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
                                         {
-                                            "name": "PowerHouse, Bang et al., 2006", 
-                                            "parent": "Strong persuasion", 
-                                            "html": "ITAME/3. Etat de l'art/1. Les IHM au service du d\u00e9veloppement durable/Technologie persuasive/Strong persuasion/PowerHouse, Bang et al., 2006/PowerHouse, Bang et al., 2006.html"
+                                            "name": "Behavioral psychology", 
+                                            "parent": "Persuasive technology", 
+                                            "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/Behavioral psychology/Behavioral psychology.html"
+                                        }, 
+                                        {
+                                            "name": "Definition", 
+                                            "parent": "Persuasive technology", 
+                                            "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/Definition/Definition.html", 
+                                            "_children": [
+                                                {
+                                                    "name": "Persuasion", 
+                                                    "parent": "Definition", 
+                                                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/Definition/Persuasion/Persuasion.html", 
+                                                    "_children": [
+                                                        {
+                                                            "name": "n'est pas manipulation", 
+                                                            "parent": "Persuasion", 
+                                                            "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/Definition/Persuasion/n'est pas manipulation/n'est pas manipulation.html", 
+                                                            "_children": [
+                                                                {
+                                                                    "name": "Definition", 
+                                                                    "parent": "n'est pas manipulation", 
+                                                                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/Definition/Persuasion/n'est pas manipulation/Definition/Definition.html", 
+                                                                    "_children": [
+                                                                        {
+                                                                            "name": "Acte non-probl\u00e9matique", 
+                                                                            "parent": "Definition", 
+                                                                            "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/Definition/Persuasion/n'est pas manipulation/Definition/Acte non-probl\u00e9matique/Acte non-probl\u00e9matique.html"
+                                                                        }, 
+                                                                        {
+                                                                            "name": "Acte probl\u00e9matique", 
+                                                                            "parent": "Definition", 
+                                                                            "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/Definition/Persuasion/n'est pas manipulation/Definition/Acte probl\u00e9matique/Acte probl\u00e9matique.html"
+                                                                        }
+                                                                    ]
+                                                                }, 
+                                                                {
+                                                                    "name": "Modele", 
+                                                                    "parent": "n'est pas manipulation", 
+                                                                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/Definition/Persuasion/n'est pas manipulation/Modele/Modele.html"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "Technologie informatique", 
+                                                    "parent": "Definition", 
+                                                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/Definition/Technologie informatique/Technologie informatique.html"
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "Modele", 
+                                            "parent": "Persuasive technology", 
+                                            "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/Modele/Modele.html"
+                                        }, 
+                                        {
+                                            "name": "Passive persuasion", 
+                                            "parent": "Persuasive technology", 
+                                            "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/Passive persuasion/Passive persuasion.html"
+                                        }, 
+                                        {
+                                            "name": "Strong persuasion", 
+                                            "parent": "Persuasive technology", 
+                                            "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/Strong persuasion/Strong persuasion.html", 
+                                            "_children": [
+                                                {
+                                                    "name": "PowerHouse, Bang et al., 2006", 
+                                                    "parent": "Strong persuasion", 
+                                                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/Strong persuasion/PowerHouse, Bang et al., 2006/PowerHouse, Bang et al., 2006.html"
+                                                }
+                                            ]
                                         }
                                     ]
+                                }, 
+                                {
+                                    "name": "Pervasive et Participatory Sensing", 
+                                    "parent": "1. Genres", 
+                                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Pervasive et Participatory Sensing/Pervasive et Participatory Sensing.html"
+                                }, 
+                                {
+                                    "name": "Sustainable interaction design", 
+                                    "parent": "1. Genres", 
+                                    "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Sustainable interaction design/Sustainable interaction design.html"
                                 }
                             ]
+                        }, 
+                        {
+                            "name": "2. Axe of difference", 
+                            "parent": "3. Sustainable  Human-Computer Interaction", 
+                            "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/2. Axe of difference/2. Axe of difference.html"
                         }
                     ]
                 }, 
                 {
-                    "name": "2. Vers une physicalisation des IHM", 
-                    "parent": "3. Etat de l'art", 
-                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Vers une physicalisation des IHM.html", 
+                    "name": "4. Tangible User Interface", 
+                    "parent": "2. State of the art", 
+                    "html": "ITAME/2. State of the art/4. Tangible User Interface/4. Tangible User Interface.html", 
                     "_children": [
                         {
-                            "name": "1. Essai sur l'IHM et son \u00e9volution, J. Coutaz, 2013", 
-                            "parent": "2. Vers une physicalisation des IHM", 
-                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/1. Essai sur l'IHM et son \u00e9volution, J. Coutaz, 2013/1. Essai sur l'IHM et son \u00e9volution, J. Coutaz, 2013.html"
-                        }, 
-                        {
-                            "name": "2. Les Interface Utilisateur Tangible", 
-                            "parent": "2. Vers une physicalisation des IHM", 
-                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Les Interface Utilisateur Tangible.html", 
+                            "name": "1. Genres", 
+                            "parent": "4. Tangible User Interface", 
+                            "html": "ITAME/2. State of the art/4. Tangible User Interface/1. Genres/1. Genres.html", 
                             "_children": [
                                 {
-                                    "name": "1. Genres", 
-                                    "parent": "2. Les Interface Utilisateur Tangible", 
-                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/1. Genres/1. Genres.html", 
+                                    "name": "Affichage ambiant", 
+                                    "parent": "1. Genres", 
+                                    "html": "ITAME/2. State of the art/4. Tangible User Interface/1. Genres/Affichage ambiant/Affichage ambiant.html", 
                                     "_children": [
                                         {
-                                            "name": "Affichage ambiant", 
-                                            "parent": "1. Genres", 
-                                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/1. Genres/Affichage ambiant/Affichage ambiant.html", 
-                                            "_children": [
-                                                {
-                                                    "name": "Greenberg et al., 1999", 
-                                                    "parent": "Affichage ambiant", 
-                                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/1. Genres/Affichage ambiant/Greenberg et al., 1999/Greenberg et al., 1999.html"
-                                                }
-                                            ]
-                                        }, 
-                                        {
-                                            "name": "Interaction tangible sur table", 
-                                            "parent": "1. Genres", 
-                                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/1. Genres/Interaction tangible sur table/Interaction tangible sur table.html", 
-                                            "_children": [
-                                                {
-                                                    "name": "Jorda et al., 2007", 
-                                                    "parent": "Interaction tangible sur table", 
-                                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/1. Genres/Interaction tangible sur table/Jorda et al., 2007/Jorda et al., 2007.html"
-                                                }
-                                            ]
-                                        }, 
-                                        {
-                                            "name": "Interface utilisateur incarn\u00e9e", 
-                                            "parent": "1. Genres", 
-                                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/1. Genres/Interface utilisateur incarn\u00e9e/Interface utilisateur incarn\u00e9e.html", 
-                                            "_children": [
-                                                {
-                                                    "name": "iPhone", 
-                                                    "parent": "Interface utilisateur incarn\u00e9e", 
-                                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/1. Genres/Interface utilisateur incarn\u00e9e/iPhone/iPhone.html"
-                                                }
-                                            ]
-                                        }, 
-                                        {
-                                            "name": "R\u00e9alit\u00e9 augment\u00e9e tangible", 
-                                            "parent": "1. Genres", 
-                                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/1. Genres/R\u00e9alit\u00e9 augment\u00e9e tangible/R\u00e9alit\u00e9 augment\u00e9e tangible.html", 
-                                            "_children": [
-                                                {
-                                                    "name": "Lee et al., 2004", 
-                                                    "parent": "R\u00e9alit\u00e9 augment\u00e9e tangible", 
-                                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/1. Genres/R\u00e9alit\u00e9 augment\u00e9e tangible/Lee et al., 2004/Lee et al., 2004.html"
-                                                }, 
-                                                {
-                                                    "name": "Zhou et al., 2004", 
-                                                    "parent": "R\u00e9alit\u00e9 augment\u00e9e tangible", 
-                                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/1. Genres/R\u00e9alit\u00e9 augment\u00e9e tangible/Zhou et al., 2004/Zhou et al., 2004.html"
-                                                }
-                                            ]
+                                            "name": "Greenberg et al., 1999", 
+                                            "parent": "Affichage ambiant", 
+                                            "html": "ITAME/2. State of the art/4. Tangible User Interface/1. Genres/Affichage ambiant/Greenberg et al., 1999/Greenberg et al., 1999.html"
                                         }
                                     ]
                                 }, 
                                 {
-                                    "name": "2. Applications", 
-                                    "parent": "2. Les Interface Utilisateur Tangible", 
-                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/2. Applications.html", 
+                                    "name": "Interaction tangible sur table", 
+                                    "parent": "1. Genres", 
+                                    "html": "ITAME/2. State of the art/4. Tangible User Interface/1. Genres/Interaction tangible sur table/Interaction tangible sur table.html", 
                                     "_children": [
                                         {
-                                            "name": "Apprentissage", 
-                                            "parent": "2. Applications", 
-                                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Apprentissage/Apprentissage.html"
-                                        }, 
-                                        {
-                                            "name": "Communication sociale", 
-                                            "parent": "2. Applications", 
-                                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Communication sociale/Communication sociale.html"
-                                        }, 
-                                        {
-                                            "name": "Divertissement et \u00e9ducation", 
-                                            "parent": "2. Applications", 
-                                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Divertissement et \u00e9ducation/Divertissement et \u00e9ducation.html"
-                                        }, 
-                                        {
-                                            "name": "Musique et performance", 
-                                            "parent": "2. Applications", 
-                                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Musique et performance/Musique et performance.html"
-                                        }, 
-                                        {
-                                            "name": "Planification et r\u00e9solution de probl\u00e8me", 
-                                            "parent": "2. Applications", 
-                                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Planification et r\u00e9solution de probl\u00e8me/Planification et r\u00e9solution de probl\u00e8me.html"
-                                        }, 
-                                        {
-                                            "name": "Programmation tangible", 
-                                            "parent": "2. Applications", 
-                                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Programmation tangible/Programmation tangible.html"
-                                        }, 
-                                        {
-                                            "name": "Visualisation d'informations", 
-                                            "parent": "2. Applications", 
-                                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/2. Applications/Visualisation d'informations/Visualisation d'informations.html"
+                                            "name": "Jorda et al., 2007", 
+                                            "parent": "Interaction tangible sur table", 
+                                            "html": "ITAME/2. State of the art/4. Tangible User Interface/1. Genres/Interaction tangible sur table/Jorda et al., 2007/Jorda et al., 2007.html"
                                         }
                                     ]
                                 }, 
                                 {
-                                    "name": "3. Classification", 
-                                    "parent": "2. Les Interface Utilisateur Tangible", 
-                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/3. Classification/3. Classification.html"
+                                    "name": "Interface utilisateur incarn\u00e9e", 
+                                    "parent": "1. Genres", 
+                                    "html": "ITAME/2. State of the art/4. Tangible User Interface/1. Genres/Interface utilisateur incarn\u00e9e/Interface utilisateur incarn\u00e9e.html", 
+                                    "_children": [
+                                        {
+                                            "name": "iPhone", 
+                                            "parent": "Interface utilisateur incarn\u00e9e", 
+                                            "html": "ITAME/2. State of the art/4. Tangible User Interface/1. Genres/Interface utilisateur incarn\u00e9e/iPhone/iPhone.html"
+                                        }
+                                    ]
                                 }, 
                                 {
-                                    "name": "4. Technologies", 
-                                    "parent": "2. Les Interface Utilisateur Tangible", 
-                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/4. Technologies/4. Technologies.html"
-                                }, 
-                                {
-                                    "name": "5. Recherches actuelles", 
-                                    "parent": "2. Les Interface Utilisateur Tangible", 
-                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/5. Recherches actuelles/5. Recherches actuelles.html"
-                                }, 
-                                {
-                                    "name": "6. Recherches futures", 
-                                    "parent": "2. Les Interface Utilisateur Tangible", 
-                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/6. Recherches futures/6. Recherches futures.html"
-                                }, 
-                                {
-                                    "name": "7. Vocabulaire", 
-                                    "parent": "2. Les Interface Utilisateur Tangible", 
-                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/7. Vocabulaire/7. Vocabulaire.html"
-                                }, 
-                                {
-                                    "name": "McNerney, 2004", 
-                                    "parent": "2. Les Interface Utilisateur Tangible", 
-                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/McNerney, 2004/McNerney, 2004.html"
-                                }, 
-                                {
-                                    "name": "Perlman, 1976", 
-                                    "parent": "2. Les Interface Utilisateur Tangible", 
-                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/2. Les Interface Utilisateur Tangible/Perlman, 1976/Perlman, 1976.html"
+                                    "name": "R\u00e9alit\u00e9 augment\u00e9e tangible", 
+                                    "parent": "1. Genres", 
+                                    "html": "ITAME/2. State of the art/4. Tangible User Interface/1. Genres/R\u00e9alit\u00e9 augment\u00e9e tangible/R\u00e9alit\u00e9 augment\u00e9e tangible.html", 
+                                    "_children": [
+                                        {
+                                            "name": "Lee et al., 2004", 
+                                            "parent": "R\u00e9alit\u00e9 augment\u00e9e tangible", 
+                                            "html": "ITAME/2. State of the art/4. Tangible User Interface/1. Genres/R\u00e9alit\u00e9 augment\u00e9e tangible/Lee et al., 2004/Lee et al., 2004.html"
+                                        }, 
+                                        {
+                                            "name": "Zhou et al., 2004", 
+                                            "parent": "R\u00e9alit\u00e9 augment\u00e9e tangible", 
+                                            "html": "ITAME/2. State of the art/4. Tangible User Interface/1. Genres/R\u00e9alit\u00e9 augment\u00e9e tangible/Zhou et al., 2004/Zhou et al., 2004.html"
+                                        }
+                                    ]
                                 }
                             ]
                         }, 
                         {
-                            "name": "3. Le paradigme de l'intelligence ambiante", 
-                            "parent": "2. Vers une physicalisation des IHM", 
-                            "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/3. Le paradigme de l'intelligence ambiante/3. Le paradigme de l'intelligence ambiante.html", 
+                            "name": "2. Applications", 
+                            "parent": "4. Tangible User Interface", 
+                            "html": "ITAME/2. State of the art/4. Tangible User Interface/2. Applications/2. Applications.html", 
                             "_children": [
                                 {
-                                    "name": "Ambient persuasion", 
-                                    "parent": "3. Le paradigme de l'intelligence ambiante", 
-                                    "html": "ITAME/3. Etat de l'art/2. Vers une physicalisation des IHM/3. Le paradigme de l'intelligence ambiante/Ambient persuasion/Ambient persuasion.html"
+                                    "name": "Apprentissage", 
+                                    "parent": "2. Applications", 
+                                    "html": "ITAME/2. State of the art/4. Tangible User Interface/2. Applications/Apprentissage/Apprentissage.html"
+                                }, 
+                                {
+                                    "name": "Communication sociale", 
+                                    "parent": "2. Applications", 
+                                    "html": "ITAME/2. State of the art/4. Tangible User Interface/2. Applications/Communication sociale/Communication sociale.html"
+                                }, 
+                                {
+                                    "name": "Divertissement et \u00e9ducation", 
+                                    "parent": "2. Applications", 
+                                    "html": "ITAME/2. State of the art/4. Tangible User Interface/2. Applications/Divertissement et \u00e9ducation/Divertissement et \u00e9ducation.html"
+                                }, 
+                                {
+                                    "name": "Musique et performance", 
+                                    "parent": "2. Applications", 
+                                    "html": "ITAME/2. State of the art/4. Tangible User Interface/2. Applications/Musique et performance/Musique et performance.html"
+                                }, 
+                                {
+                                    "name": "Planification et r\u00e9solution de probl\u00e8me", 
+                                    "parent": "2. Applications", 
+                                    "html": "ITAME/2. State of the art/4. Tangible User Interface/2. Applications/Planification et r\u00e9solution de probl\u00e8me/Planification et r\u00e9solution de probl\u00e8me.html"
+                                }, 
+                                {
+                                    "name": "Programmation tangible", 
+                                    "parent": "2. Applications", 
+                                    "html": "ITAME/2. State of the art/4. Tangible User Interface/2. Applications/Programmation tangible/Programmation tangible.html"
+                                }, 
+                                {
+                                    "name": "Visualisation d'informations", 
+                                    "parent": "2. Applications", 
+                                    "html": "ITAME/2. State of the art/4. Tangible User Interface/2. Applications/Visualisation d'informations/Visualisation d'informations.html"
                                 }
                             ]
+                        }, 
+                        {
+                            "name": "3. Classification", 
+                            "parent": "4. Tangible User Interface", 
+                            "html": "ITAME/2. State of the art/4. Tangible User Interface/3. Classification/3. Classification.html"
+                        }, 
+                        {
+                            "name": "4. Technologies", 
+                            "parent": "4. Tangible User Interface", 
+                            "html": "ITAME/2. State of the art/4. Tangible User Interface/4. Technologies/4. Technologies.html"
+                        }, 
+                        {
+                            "name": "5. Recherches actuelles", 
+                            "parent": "4. Tangible User Interface", 
+                            "html": "ITAME/2. State of the art/4. Tangible User Interface/5. Recherches actuelles/5. Recherches actuelles.html"
+                        }, 
+                        {
+                            "name": "6. Recherches futures", 
+                            "parent": "4. Tangible User Interface", 
+                            "html": "ITAME/2. State of the art/4. Tangible User Interface/6. Recherches futures/6. Recherches futures.html"
+                        }, 
+                        {
+                            "name": "7. Vocabulaire", 
+                            "parent": "4. Tangible User Interface", 
+                            "html": "ITAME/2. State of the art/4. Tangible User Interface/7. Vocabulaire/7. Vocabulaire.html"
+                        }, 
+                        {
+                            "name": "McNerney, 2004", 
+                            "parent": "4. Tangible User Interface", 
+                            "html": "ITAME/2. State of the art/4. Tangible User Interface/McNerney, 2004/McNerney, 2004.html"
+                        }, 
+                        {
+                            "name": "Perlman, 1976", 
+                            "parent": "4. Tangible User Interface", 
+                            "html": "ITAME/2. State of the art/4. Tangible User Interface/Perlman, 1976/Perlman, 1976.html"
                         }
                     ]
                 }, 
                 {
-                    "name": "4. Les Interface Utilisateur Tangible pour le d\u00e9veloppement durable", 
-                    "parent": "3. Etat de l'art", 
-                    "html": "ITAME/3. Etat de l'art/4. Les Interface Utilisateur Tangible pour le d\u00e9veloppement durable/4. Les Interface Utilisateur Tangible pour le d\u00e9veloppement durable.html"
+                    "name": "5. Sustainable Tangible User Interface", 
+                    "parent": "2. State of the art", 
+                    "html": "ITAME/2. State of the art/5. Sustainable Tangible User Interface/5. Sustainable Tangible User Interface.html"
+                }, 
+                {
+                    "name": "6. Persuasion", 
+                    "parent": "2. State of the art", 
+                    "html": "ITAME/2. State of the art/6. Persuasion/6. Persuasion.html", 
+                    "_children": [
+                        {
+                            "name": "Kaptein, ambient persuasion model", 
+                            "parent": "6. Persuasion", 
+                            "html": "ITAME/2. State of the art/6. Persuasion/Kaptein, ambient persuasion model/Kaptein, ambient persuasion model.html", 
+                            "_children": [
+                                {
+                                    "name": "Azjen, theory of reasoned action", 
+                                    "parent": "Kaptein, ambient persuasion model", 
+                                    "html": "ITAME/2. State of the art/6. Persuasion/Kaptein, ambient persuasion model/Azjen, theory of reasoned action/Azjen, theory of reasoned action.html"
+                                }, 
+                                {
+                                    "name": "MacInnis, motivation, opportunity and ability model", 
+                                    "parent": "Kaptein, ambient persuasion model", 
+                                    "html": "ITAME/2. State of the art/6. Persuasion/Kaptein, ambient persuasion model/MacInnis, motivation, opportunity and ability model/MacInnis, motivation, opportunity and ability model.html"
+                                }, 
+                                {
+                                    "name": "Petty, elaboration likehood model", 
+                                    "parent": "Kaptein, ambient persuasion model", 
+                                    "html": "ITAME/2. State of the art/6. Persuasion/Kaptein, ambient persuasion model/Petty, elaboration likehood model/Petty, elaboration likehood model.html"
+                                }, 
+                                {
+                                    "name": "Skinner, operant conditionning", 
+                                    "parent": "Kaptein, ambient persuasion model", 
+                                    "html": "ITAME/2. State of the art/6. Persuasion/Kaptein, ambient persuasion model/Skinner, operant conditionning/Skinner, operant conditionning.html"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         }, 
         {
-            "name": "4. Conf\u00e9rences", 
+            "name": "3. Conferences", 
             "parent": "ITAME", 
-            "html": "ITAME/4. Conf\u00e9rences/4. Conf\u00e9rences.html"
+            "html": "ITAME/3. Conferences/3. Conferences.html"
         }, 
         {
-            "name": "5. Id\u00e9e", 
+            "name": "4. Ideas", 
             "parent": "ITAME", 
-            "html": "ITAME/5. Id\u00e9e/5. Id\u00e9e.html"
+            "html": "ITAME/4. Ideas/4. Ideas.html"
+        }, 
+        {
+            "name": "4. Workshop", 
+            "parent": "ITAME", 
+            "html": "ITAME/4. Workshop/4. Workshop.html"
+        }, 
+        {
+            "name": "5. Divers", 
+            "parent": "ITAME", 
+            "html": "ITAME/5. Divers/5. Divers.html", 
+            "_children": [
+                {
+                    "name": "Toledo, 2012", 
+                    "parent": "5. Divers", 
+                    "html": "ITAME/5. Divers/Toledo, 2012/Toledo, 2012.html"
+                }
+            ]
         }
     ]
 }
