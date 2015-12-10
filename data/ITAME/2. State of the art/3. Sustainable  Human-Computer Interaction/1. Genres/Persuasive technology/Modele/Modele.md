@@ -1,2 +1,0 @@
-# Technologie persuasive
-## Modele

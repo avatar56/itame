@@ -39,6 +39,16 @@
                             "name": "Ambient persuasion", 
                             "parent": "2. Ambient intelligence paradigm", 
                             "html": "ITAME/2. State of the art/2. Ambient intelligence paradigm/Ambient persuasion/Ambient persuasion.html"
+                        }, 
+                        {
+                            "name": "Mobile computing", 
+                            "parent": "2. Ambient intelligence paradigm", 
+                            "html": "ITAME/2. State of the art/2. Ambient intelligence paradigm/Mobile computing/Mobile computing.html"
+                        }, 
+                        {
+                            "name": "Pervasive computing", 
+                            "parent": "2. Ambient intelligence paradigm", 
+                            "html": "ITAME/2. State of the art/2. Ambient intelligence paradigm/Pervasive computing/Pervasive computing.html"
                         }
                     ]
                 }, 
@@ -231,11 +241,6 @@
                                             ]
                                         }, 
                                         {
-                                            "name": "Behavioral psychology", 
-                                            "parent": "Persuasive technology", 
-                                            "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/Behavioral psychology/Behavioral psychology.html"
-                                        }, 
-                                        {
                                             "name": "Definition", 
                                             "parent": "Persuasive technology", 
                                             "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/Definition/Definition.html", 
@@ -282,11 +287,6 @@
                                                     "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/Definition/Technologie informatique/Technologie informatique.html"
                                                 }
                                             ]
-                                        }, 
-                                        {
-                                            "name": "Modele", 
-                                            "parent": "Persuasive technology", 
-                                            "html": "ITAME/2. State of the art/3. Sustainable  Human-Computer Interaction/1. Genres/Persuasive technology/Modele/Modele.html"
                                         }, 
                                         {
                                             "name": "Passive persuasion", 
@@ -471,6 +471,58 @@
                     ]
                 }, 
                 {
+                    "name": "5. Eco-visualization", 
+                    "parent": "2. State of the art", 
+                    "html": "ITAME/2. State of the art/5. Eco-visualization/5. Eco-visualization.html", 
+                    "_children": [
+                        {
+                            "name": "Belley, Electrical Semaphore", 
+                            "parent": "5. Eco-visualization", 
+                            "html": "ITAME/2. State of the art/5. Eco-visualization/Belley, Electrical Semaphore/Belley, Electrical Semaphore.html"
+                        }, 
+                        {
+                            "name": "Ernevi, Energy Curtain", 
+                            "parent": "5. Eco-visualization", 
+                            "html": "ITAME/2. State of the art/5. Eco-visualization/Ernevi, Energy Curtain/Ernevi, Energy Curtain.html"
+                        }, 
+                        {
+                            "name": "Evans, Le nuage vert", 
+                            "parent": "5. Eco-visualization", 
+                            "html": "ITAME/2. State of the art/5. Eco-visualization/Evans, Le nuage vert/Evans, Le nuage vert.html"
+                        }, 
+                        {
+                            "name": "Gustafsson, Power-Aware Cord", 
+                            "parent": "5. Eco-visualization", 
+                            "html": "ITAME/2. State of the art/5. Eco-visualization/Gustafsson, Power-Aware Cord/Gustafsson, Power-Aware Cord.html"
+                        }, 
+                        {
+                            "name": "Gyllensward, Element", 
+                            "parent": "5. Eco-visualization", 
+                            "html": "ITAME/2. State of the art/5. Eco-visualization/Gyllensward, Element/Gyllensward, Element.html"
+                        }, 
+                        {
+                            "name": "Jonsson, Watt-Lite", 
+                            "parent": "5. Eco-visualization", 
+                            "html": "ITAME/2. State of the art/5. Eco-visualization/Jonsson, Watt-Lite/Jonsson, Watt-Lite.html"
+                        }, 
+                        {
+                            "name": "Kyoto, WattsOn", 
+                            "parent": "5. Eco-visualization", 
+                            "html": "ITAME/2. State of the art/5. Eco-visualization/Kyoto, WattsOn/Kyoto, WattsOn.html"
+                        }, 
+                        {
+                            "name": "Lagerkvist, Appearing-Pattern Wallpaper", 
+                            "parent": "5. Eco-visualization", 
+                            "html": "ITAME/2. State of the art/5. Eco-visualization/Lagerkvist, Appearing-Pattern Wallpaper/Lagerkvist, Appearing-Pattern Wallpaper.html"
+                        }, 
+                        {
+                            "name": "Lagerkvist, Flower Lamp", 
+                            "parent": "5. Eco-visualization", 
+                            "html": "ITAME/2. State of the art/5. Eco-visualization/Lagerkvist, Flower Lamp/Lagerkvist, Flower Lamp.html"
+                        }
+                    ]
+                }, 
+                {
                     "name": "5. Sustainable Tangible User Interface", 
                     "parent": "2. State of the art", 
                     "html": "ITAME/2. State of the art/5. Sustainable Tangible User Interface/5. Sustainable Tangible User Interface.html"
@@ -481,29 +533,44 @@
                     "html": "ITAME/2. State of the art/6. Persuasion/6. Persuasion.html", 
                     "_children": [
                         {
+                            "name": "Dallery, behavioural model", 
+                            "parent": "6. Persuasion", 
+                            "html": "ITAME/2. State of the art/6. Persuasion/Dallery, behavioural model/Dallery, behavioural model.html"
+                        }, 
+                        {
                             "name": "Kaptein, ambient persuasion model", 
                             "parent": "6. Persuasion", 
                             "html": "ITAME/2. State of the art/6. Persuasion/Kaptein, ambient persuasion model/Kaptein, ambient persuasion model.html", 
                             "_children": [
                                 {
-                                    "name": "Azjen, theory of reasoned action", 
+                                    "name": "1. Petty, elaboration likehood theory", 
                                     "parent": "Kaptein, ambient persuasion model", 
-                                    "html": "ITAME/2. State of the art/6. Persuasion/Kaptein, ambient persuasion model/Azjen, theory of reasoned action/Azjen, theory of reasoned action.html"
+                                    "html": "ITAME/2. State of the art/6. Persuasion/Kaptein, ambient persuasion model/1. Petty, elaboration likehood theory/1. Petty, elaboration likehood theory.html"
                                 }, 
                                 {
-                                    "name": "MacInnis, motivation, opportunity and ability model", 
+                                    "name": "2. MacInnis, motivation, opportunity and ability theory", 
                                     "parent": "Kaptein, ambient persuasion model", 
-                                    "html": "ITAME/2. State of the art/6. Persuasion/Kaptein, ambient persuasion model/MacInnis, motivation, opportunity and ability model/MacInnis, motivation, opportunity and ability model.html"
+                                    "html": "ITAME/2. State of the art/6. Persuasion/Kaptein, ambient persuasion model/2. MacInnis, motivation, opportunity and ability theory/2. MacInnis, motivation, opportunity and ability theory.html"
                                 }, 
                                 {
-                                    "name": "Petty, elaboration likehood model", 
+                                    "name": "3. Azjen, reasoned action theory", 
                                     "parent": "Kaptein, ambient persuasion model", 
-                                    "html": "ITAME/2. State of the art/6. Persuasion/Kaptein, ambient persuasion model/Petty, elaboration likehood model/Petty, elaboration likehood model.html"
+                                    "html": "ITAME/2. State of the art/6. Persuasion/Kaptein, ambient persuasion model/3. Azjen, reasoned action theory/3. Azjen, reasoned action theory.html"
                                 }, 
                                 {
-                                    "name": "Skinner, operant conditionning", 
+                                    "name": "3. Fishbein, planned behaviour theory", 
                                     "parent": "Kaptein, ambient persuasion model", 
-                                    "html": "ITAME/2. State of the art/6. Persuasion/Kaptein, ambient persuasion model/Skinner, operant conditionning/Skinner, operant conditionning.html"
+                                    "html": "ITAME/2. State of the art/6. Persuasion/Kaptein, ambient persuasion model/3. Fishbein, planned behaviour theory/3. Fishbein, planned behaviour theory.html"
+                                }, 
+                                {
+                                    "name": "4. Patterson, classical conditioning", 
+                                    "parent": "Kaptein, ambient persuasion model", 
+                                    "html": "ITAME/2. State of the art/6. Persuasion/Kaptein, ambient persuasion model/4. Patterson, classical conditioning/4. Patterson, classical conditioning.html"
+                                }, 
+                                {
+                                    "name": "5. Skinner, operant conditioning", 
+                                    "parent": "Kaptein, ambient persuasion model", 
+                                    "html": "ITAME/2. State of the art/6. Persuasion/Kaptein, ambient persuasion model/5. Skinner, operant conditioning/5. Skinner, operant conditioning.html"
                                 }
                             ]
                         }
