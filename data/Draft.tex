@@ -1,0 +1,366 @@
+% Some classes load the `subfigure` package which clashes with
+% our internal use of `subfig` for subfloats. We are most likely
+% not going to need the canned subfigure functionality anyways,
+% so we'll trick LaTeX into thinking it already loaded `subfigure`
+\makeatletter
+\newcommand{\dontusepackage}[2][]{%
+  \@namedef{ver@#2.sty}{9999/12/31}%
+  \@namedef{opt@#2.sty}{#1}}
+\makeatother
+\dontusepackage{subfigure}
+
+
+%% ===== Begin LaTeX file ===========================
+%%
+\documentclass[]{pandoc/sigchi}
+
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+    \usepackage{xltxtra,xunicode}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+% disbable natbib, sigchi template handles that by itself
+%\usepackage[]{natbib}
+\bibliographystyle{apalike}
+\usepackage{listings}
+% Define slightly more reasonable Listings defaults
+\lstset{
+    basicstyle=\ttfamily\small,
+    breaklines=true,
+    prebreak=\raisebox{0ex}[0ex][0ex]{\ensuremath{\hookleftarrow}},
+    frame=lines,
+    showtabs=false,
+    showspaces=false,
+    showstringspaces=false,
+    keywordstyle=\color[gray]{0.4}\bfseries,
+    commentstyle=\color[gray]{0.65}\itshape,
+    numbers=left,
+    captionpos=b,
+}
+\ifxetex
+  \usepackage[setpagesize=false, % page size defined by xetex
+              unicode=false, % unicode breaks when used with xetex
+              xetex]{hyperref}
+\else
+  \usepackage[unicode=true]{hyperref}
+\fi
+\hypersetup{breaklinks=true,
+            bookmarks=true,
+            pdfauthor={Maxime DANIEL; Guillaume RIVIERE; Nadine COUTURE},
+            pdftitle={Tangible User Interface as support for Energy management},
+            colorlinks=true,
+            citecolor=black,
+            urlcolor=blue,
+            linkcolor=black,
+            pdfborder={0 0 0}}
+\urlstyle{same}  % don't use monospace font for urls
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\setcounter{secnumdepth}{-2}
+
+%% from sigchi
+% useful for balancing the last columns
+\usepackage{balance}
+
+
+\title{Tangible User Interface as support for Energy management}
+\author{Maxime DANIEL \and Guillaume RIVIERE \and Nadine COUTURE}
+\date{}
+
+
+% comment if you want LaTeX's default font
+\usepackage{times}
+
+% we'll override the "\caption*" that scholdoc uses with default figure markup
+\usepackage{suffix}
+
+% explicitely load subfig 'cause we won't use scholdoc touchy subfigures
+\usepackage{subfig}
+
+
+\begin{document}
+
+% need a loop 'cause there is subfields
+
+\maketitle
+\begin{abstract}
+TO DO.
+\end{abstract}
+
+\keywords{
+      HCI;
+      TUI;
+      Persuasive technology;
+      Public physical social spaces}
+
+      \category{TO DO}{TO DO}{TO DO}
+  
+
+% from natbib commands to apalike + make it work in captions
+\def \citep {\protect\cite}
+
+%% From demo file
+
+% Arabic page numbers for submission. 
+% Remove this line to eliminate page numbers for the camera ready copy
+\pagenumbering{arabic}
+
+% llt: Define a global style for URLs, rather that the default one
+\makeatletter
+\def\url@leostyle{%
+  \@ifundefined{selectfont}{\def\UrlFont{\sf}}{\def\UrlFont{\small\bf\ttfamily}}}
+\makeatother
+\urlstyle{leo}
+
+% To make various LaTeX processors do the right thing with page size.
+\def\pprw{8.5in}
+\def\pprh{11in}
+\special{papersize=\pprw,\pprh}
+\setlength{\paperwidth}{\pprw}
+\setlength{\paperheight}{\pprh}
+\setlength{\pdfpagewidth}{\pprw}
+\setlength{\pdfpageheight}{\pprh}
+
+% Make sure hyperref comes last of your loaded packages, to give it a
+% fighting chance of not being over-written, since its job is to
+% redefine many LaTeX commands.
+\definecolor{linkColor}{RGB}{6,125,233}
+\hypersetup{%
+  bookmarksnumbered,
+  colorlinks,
+  citecolor=black,
+  filecolor=black,
+  linkcolor=black,
+  urlcolor=linkColor,
+  breaklinks=true,
+}
+
+% we'll override the "\caption*" that scholdoc uses with default figure markup
+\WithSuffix\newcommand\caption*{\caption}% *-variant
+
+% In case we got a problem with scholdoc headers' levels
+% from http://tex.stackexchange.com/a/61803
+\newcommand{\leveldown}% Demote sectional commands
+  {\let\section\subsection%
+   \let\subsection\subsubsection%
+   \let\subsubsection\paragraph%
+   \let\paragraph\subparagraph%
+   %\let\subparagraph\relax%
+  }
+  
+\newcommand{\levelup}% Promote sectional commands
+  {\let\subparagraph\paragraph%
+   \let\paragraph\subsubsection%
+   \let\subsubsection\subsection%
+   \let\subsection\section%
+   %\let\section\relax%
+  }
+
+% auto margin with subfigures
+% FIXME: slight shift toward right...
+\let\oldsubfloat\subfloat
+\renewcommand*{\subfloat}{\hfill\oldsubfloat}
+
+
+% promote all sections
+\levelup
+
+\section{Contexte}\label{contexte}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  Le Développement durable et ses enjeux (le transport, la gestion des
+  déchets, la gestion de l'énergie, etc.).
+\item
+  L'utilisation de l'Interaction Homme-Machine (IHM) pour aider à
+  l'instauration du développement durable (l'étude des utilisateurs, la
+  conception d'interaction durable, les technologies persuasives).
+\item
+  La transition énergétique et ses enjeux.
+\item
+  Des réseaux électriques classiques inadaptés.
+\item
+  (?) Une transition lente vers réseaux électriques intelligents.
+\end{enumerate}
+
+\section{Problematique}\label{problematique}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  Le besoin de sensibiliser la population aux problématiques de gestion
+  de l'énergie (consommation, production, stockage).
+\item
+  La nécessité de persuader les individus à changer leurs comportements
+  de consommation lorsque cela est nécessaire (consommer pendant les
+  heures creuses, etc.).
+\item
+  Beaucoup de travaux en persuasion informatique utilisent une stratégie
+  de persuasion construite sur la réduction de la facture énergétique
+  pour des espaces domestiques et physiques d'interaction sociale.
+\item
+  Les individus ne se sentent pas concernés par la réduction de la
+  facture énergétique sur les espaces publics et physiques d'interaction
+  sociale. L'application de la persuasion informatique sur ces espaces
+  est délaissé.
+\item
+  Ma (première) position, appliquer la persuasion informatique sur les
+  espaces publics et physiques d'interaction sociale et utiliser une
+  stratégie de persuasion adaptée à ces espaces.
+\item
+  Les interfaces graphiques sont majoritairement utilisées comme support
+  à la persuasion informatique. Cependant, il existe d'autres types
+  d'interfaces Homme-Machine (e.g., TUI) qui pourraient être plus
+  adaptés au support de la persuasion informatique sur les espaces
+  publics et physiques d'interaction sociale.
+\item
+  Ma (seconde) position, utiliser les TUIs comme support à la persuasion
+  informatique sur les espaces publics et physiques d'interaction
+  sociale.
+\end{enumerate}
+
+\section{Etat de l'art}\label{etat-de-lart}
+
+\subsubsection{Interface Utilisateur
+Tangible}\label{interface-utilisateur-tangible}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  Définition.
+\item
+  Interaction tangible sur table + exemple.
+\item
+  Interface Utilisateur Incarnée + exemple.
+\item
+  Réalité Augmenté Tangible + exemple.
+\item
+  Affichage Ambiant + exemple.
+\end{enumerate}
+
+\subsubsection{Persuasion Informatique, Ludification et Système
+Ludo-Persuasif}\label{persuasion-informatique-ludification-et-systuxe8me-ludo-persuasif}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  Définition de la Persuasion Informatique.
+\item
+  Modèle de la Persuasion Informatique.
+\item
+  Exemple.
+\item
+  Définition de la Ludification.
+\item
+  Modèle de la Ludification.
+\item
+  Exemple.
+\item
+  Définition des Systèmes Ludo-Persuasifs.
+\item
+  Modèle des Systèmes Ludo-Persuasifs.
+\item
+  Exemple.
+\end{enumerate}
+
+\subsubsection{Persuasion Informatique
+Ambiante}\label{persuasion-informatique-ambiante}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  Définition.
+\item
+  Modèle.
+\item
+  Applications.
+\end{enumerate}
+
+\section{Interface Utilisateur Tangible et Persuasion Informatique,
+Naissance de la Persuasion Informatique Tangible un sous domaine de la
+Persuasion Informatique (Soyons fou
+!)}\label{interface-utilisateur-tangible-et-persuasion-informatique-naissance-de-la-persuasion-informatique-tangible-un-sous-domaine-de-la-persuasion-informatique-soyons-fou}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  Les forces, et les faiblesses des Interfaces Utilisateur Tangibles.
+\item
+  Les forces, et les faiblesses de la Persuasion Informatique actuelle.
+\item
+  Justification de l'application des Interface Utilisateur Tangible à la
+  Persuasion Informatique.
+\end{enumerate}
+
+\section{Caractérisation de la Persuasion Informatique
+Tangible}\label{caractuxe9risation-de-la-persuasion-informatique-tangible}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  Des tableaux de caractérisation des TUIs.
+\item
+  Des tableaux de caractérisation de la persuasion informatique et de
+  ludification.
+\item
+  A partir de ces tableaux, proposition d'un tableau de caractérisation
+  pour la Persuasion Informatique Tangible.
+\end{enumerate}
+
+\section{Un dispositif de Persuasion Informatique
+Tangible}\label{un-dispositif-de-persuasion-informatique-tangible}
+
+\subsubsection{Prototype}\label{prototype}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  Prototypage pour la validation de l'application des TUIs à la
+  persuasion informatique (valider la collaboration, la réflexion
+  tangible, la représentation tangible, les actions épistémiques,
+  affordance, etc.)
+\end{enumerate}
+
+\subsubsection{Experience}\label{experience}
+
+\subsubsection{Resultats}\label{resultats}
+
+% to put before content of last page
+\balance{}
+
+\renewcommand\refname{\ldots{}}
+\bibliography{resources/biblio}
+
+
+\end{document}
+

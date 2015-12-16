@@ -17,6 +17,44 @@ subdirListList = []
 fileListList = []
 for dirName, subdirList, fileList in os.walk(rootDir):
     systemFileDictonnary[dirName] = subdirList
+
+def generateDraftJSON() :
+    scholdoc_command = []
+    scholdoc_command.append('scholdoc ')
+    scholdoc_command.append('\"')
+    scholdoc_command.append('ITAME/Draft/Draft.md')
+    scholdoc_command.append('\"')
+    scholdoc_command.append(' --include-in-header=pandoc/latex-headers_extra.tex')
+    scholdoc_command.append(' --include-before-body=pandoc/latex-before_body.tex --include-before-body=pandoc/latex-before_body_win.tex')    
+    scholdoc_command.append(' --template pandoc/scholmdTemplate_sigchi.latex')
+    scholdoc_command.append(' -V documentclass:pandoc/sigchi')
+    scholdoc_command.append(' -V biblio-style=apalike')
+    scholdoc_command.append(' --csl=pandoc/acm-sigchi-proceedings.csl')
+    scholdoc_command.append(' --bibliography resources/biblio.bib --natbib')
+    scholdoc_command.append(' --output=')
+    scholdoc_command.append('\"')
+    scholdoc_command.append('Draft.tex')
+    scholdoc_command.append('\"')
+    check_output(''.join(scholdoc_command), shell=False).encode('iso-8859-1')
+    print 'Draft LaTeX Ok !' 
+    latex_command = []
+    latex_command.append('latexmk -f -interaction=nonstopmode -pdf Draft.tex')
+    check_output(''.join(latex_command), shell=False).encode('iso-8859-1')
+    print 'draft OK !' 
+    
+def generateAbstractJSON() :
+    scholdoc_command = []
+    scholdoc_command.append('scholdoc ')
+    scholdoc_command.append('\"')
+    scholdoc_command.append('../abstract.md')
+    scholdoc_command.append('\"')
+    scholdoc_command.append(' --citeproc --bibliography resources/biblio.bib --csl resources/plos.csl --to=html_bodyonly')
+    scholdoc_command.append(' --output=')
+    scholdoc_command.append('\"')
+    scholdoc_command.append('../abstract.html')
+    scholdoc_command.append('\"')
+    check_output(''.join(scholdoc_command), shell=False).encode('iso-8859-1')
+    print 'abstract OK !'   
     
 def generatePreambuleJSON() :
     scholdoc_command = []
@@ -50,6 +88,8 @@ def generateDefaultJSON() :
 def generateJSON(parent, root) :
     
     root_data = OrderedDict([])
+
+
     root_data["name"] = root.split('\\')[-1]
     root_data["parent"] = parent.split('\\')[-1]
     root_data["html"] = string.replace(root+'\\'+root_data["name"]+".html", '\\', '/') 
@@ -82,9 +122,11 @@ def generateJSON(parent, root) :
     print '%s OK !' %root
     return root_data;
 
-generatePreambuleJSON();
-generateDefaultJSON();
-data = generateJSON('null',rootDir)
-
-with open('data.json', 'w') as outfile:
-    json.dump(data, outfile, encoding='iso-8859-1', indent=4)    
+generateDraftJSON();
+#generateAbstractJSON();
+#generatePreambuleJSON();
+#generateDefaultJSON();
+#data = generateJSON('null',rootDir)
+#
+#with open('data.json', 'w') as outfile:
+#    json.dump(data, outfile, encoding='iso-8859-1', indent=4)    
