@@ -1,0 +1,12 @@
+---
+fontsize: 10pt
+documentclass: article
+classoption: twoside
+papersize: a5paper
+latex-before-packages-includes:
+   - \usepackage{pandoc/coling2012}
+   - \usepackage[frenchb]{babel}
+biblio-style: apalike-fr
+#csl: resources/plos.csl
+...
+

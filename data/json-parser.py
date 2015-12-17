@@ -21,15 +21,11 @@ for dirName, subdirList, fileList in os.walk(rootDir):
 def generateDraftJSON() :
     scholdoc_command = []
     scholdoc_command.append('scholdoc ')
-    scholdoc_command.append('\"')
+    scholdoc_command.append(' pandoc/meta.yml')
+    scholdoc_command.append(' \"')
     scholdoc_command.append('ITAME/Draft/Draft.md')
     scholdoc_command.append('\"')
-    scholdoc_command.append(' --include-in-header=pandoc/latex-headers_extra.tex')
-    scholdoc_command.append(' --include-before-body=pandoc/latex-before_body.tex --include-before-body=pandoc/latex-before_body_win.tex')    
-    scholdoc_command.append(' --template pandoc/scholmdTemplate_sigchi.latex')
-    scholdoc_command.append(' -V documentclass:pandoc/sigchi')
-    scholdoc_command.append(' -V biblio-style=apalike')
-    scholdoc_command.append(' --csl=pandoc/acm-sigchi-proceedings.csl')
+    scholdoc_command.append(' --template pandoc/scholmdTemplate.latex')
     scholdoc_command.append(' --bibliography resources/biblio.bib --natbib')
     scholdoc_command.append(' --output=')
     scholdoc_command.append('\"')
