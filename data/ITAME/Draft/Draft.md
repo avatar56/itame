@@ -29,10 +29,32 @@ keywords: [IHM, TUI, Persuasion Informatique, Espaces publics et physiques d'int
 
 ### Positionnement
 
-1. Besoin de définir une stratégie de persuasion adaptée aux espaces publics et physiques d'interaction sociale.
-2. Besoin de valider la supériorité des TUIs sur les interfaces graphiques en terme de support à la persuasion informatique sur les espaces publics et physiques d'interaction sociale.
+1. Définir une stratégie de persuasion adaptée aux espaces publics et physiques d'interaction sociale.
+2. Valider la supériorité des TUIs sur les interfaces graphiques en terme de support à la persuasion informatique sur les espaces publics et physiques d'interaction sociale.
 
 ## État de l'art
+
+1. Balayage de la Persuasion Informatique.
+2. Focus sur la Persuasion Informatique dédié à la gestion de l'énergie.
+3. On balaye les Interfaces Utilisateurs Tangibles.
+4. Focus sur la Persuasion Informatique Ambiante.
+5. Focus sur la Persuasion Informatique Ambiante dédié à la gestion de l'énergie.
+
+### Persuasion Informatique
+
+1. Définition de la Persuasion Informatique.
+2. Définition de la Ludification et du *Serious Game*.
+3. Définition des Systèmes Ludo-Persuasifs.
+4. Applications et exemples :
+	* Santé et Exercices
+	* Économie, commerce, marketing, sécurité, sûreté
+	* Divertissement
+	* Autres
+	* Consommation et/ou comportement écologique
+
+### Persuasion Informatique dédié à gestion de l'énergie
+
+1. Exemples.
 
 ### Interface Utilisateur Tangible
 
@@ -51,18 +73,6 @@ keywords: [IHM, TUI, Persuasion Informatique, Espaces publics et physiques d'int
 	* Programmation
 	* Visualisation d'information
 
-### Persuasion Informatique
-
-1. Définition de la Persuasion Informatique.
-2. Définition de la Ludification et du *Serious Game*.
-3. Définition des Systèmes Ludo-Persuasifs.
-4. Applications et exemples :
-	* Santé et Exercices
-	* Consommation et/ou comportement écologique
-	* Économie, commerce, marketing, sécurité, sûreté
-	* Divertissement
-	* Autres
-
 ### Persuasion Informatique Ambiante
 
 1. Définition de la Persuasion Informatique Ambiante.
@@ -73,33 +83,32 @@ keywords: [IHM, TUI, Persuasion Informatique, Espaces publics et physiques d'int
 	* Divertissement
 	* Autres
 
-## Les Interfaces Utilisateurs Tangibles et la Persuasion Informatique
+### Persuasion Informatique Ambiante dédié à la gestion de l'énergie.
+
+1. Exemples.
+
 
 ## Les Interfaces Utilisateurs Tangibles comme support à la Persuasion Informatique
-
-### Les principes de Persuasion
-
-1. La Grille de principes des Systèmes Ludo-Persuasifs (PISTIL, JIPS)
-2. La Grille de caractérisation de la persuasion informatique (PISTIL, JIPS)
 
 ### Les Forces des TUIs
 
 1. Représentation tangible
 2. Incarnation Forte (Affordance et Iconicité)
 3. Multiplexage de l'entrée de l'information dans l'espace et spontanéité de l'interaction
-3. Collaboration 
-4. Réflexion tangible
-5. Mobilité physique
-6. Actions épistémiques et accessoire de réflexion
-7. Applicabilité
-8. Gestuelle
-
-
+4. Collaboration 
+5. Réflexion tangible
+6. Mobilité physique
+7. Actions épistémiques et accessoire de réflexion
+8. Applicabilité
+9. Gestuelle
 
 ## Caractérisation de la Persuasion Informatique
 
-## Caractérisation de la Persuasion Informatique
+### Les principes de Persuasion
 
+1. La Grille de principes des Systèmes Ludo-Persuasifs (PISTIL, JIPS)
+2. La Grille de caractérisation de la persuasion informatique (PISTIL, JIPS)
 
+### Nouvelle caractérisation de la Persuasion Informatique
 
-## Caractérisation de la Persuasion Informatique
+...
