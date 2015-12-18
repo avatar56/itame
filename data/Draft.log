@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.10.23)  17 DEC 2015 17:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.10.23)  18 DEC 2015 11:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -648,26 +648,7 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibsep=\skip66
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count110
-))
-
-! LaTeX Error: Option clash for package babel.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 
-    
-The package babel has already been loaded with options:
-  [english]
-There has now been an attempt to load it with options
-  [frenchb]
-Adding the global options:
-  english,frenchb
-to your \documentclass declaration may fix this.
-Try typing  <return>  to proceed.
-
-(./Draft.aux)
+)) (./Draft.aux)
 \openout1 = `Draft.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -684,7 +665,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 12.
 LaTeX Font Info:    Try loading font information for MDA+cmr on input line 12.
- (c:/texlive/2015/texmf-dist/tex/latex/mathdesign/mdacmr.fd
+
+(c:/texlive/2015/texmf-dist/tex/latex/mathdesign/mdacmr.fd
 File: mdacmr.fd 
 )
 LaTeX Font Info:    ... okay on input line 12.
@@ -805,48 +787,54 @@ LaTeX Font Info:    Font shape `T1/mdbch/m/fsc' will be
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 (Font)              scaled to size 11.52008pt on input line 16.
 LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
-(Font)              scaled to size 9.60007pt on input line 62.
+(Font)              scaled to size 9.60007pt on input line 60.
  [1
 
 {c:/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for OMS+mdbch on input line 10
-3.
+LaTeX Font Info:    Try loading font information for OMS+mdbch on input line 12
+1.
 
 (c:/texlive/2015/texmf-dist/tex/latex/mathdesign/mdbch/omsmdbch.fd
 File: omsmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMS/mdbch.
 )
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 9.60007pt on input line 103.
+(Font)              scaled to size 9.60007pt on input line 121.
+LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
+(Font)              scaled to size 9.60007pt on input line 134.
  [2]
-(./Draft.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 241.
- [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 241.
+[3] (./Draft.bbl
+
+LaTeX Warning: Empty `thebibliography' environment on input line 8.
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 288.
+ [4]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 288.
  (./Draft.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 241.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 241.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 288.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 288.
 Package rerunfilecheck Info: File `Draft.out' has not changed.
-(rerunfilecheck)             Checksum: BAB473DBB05EACE8F1D22C6276EC5776;928.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 241.
+(rerunfilecheck)             Checksum: F9E2DBBFAD1B5954D27AA3BC397CB0C1;975.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 288.
  ) 
 Here is how much of TeX's memory you used:
- 10138 strings out of 493054
- 149168 string characters out of 6138326
- 272777 words of memory out of 5000000
- 13355 multiletter control sequences out of 15000+600000
- 30890 words of font info for 102 fonts, out of 8000000 for 9000
+ 10146 strings out of 493054
+ 149377 string characters out of 6138326
+ 272806 words of memory out of 5000000
+ 13364 multiletter control sequences out of 15000+600000
+ 33121 words of font info for 96 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,4n,45p,315b,418s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,4n,45p,315b,420s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2015/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}<c:/texlive/2015
 /texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb><c:/texlive/2015/texmf-dist
 /fonts/type1/bitstrea/charter/bchr8a.pfb><c:/texlive/2015/texmf-dist/fonts/type
 1/bitstrea/charter/bchri8a.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/m
 athdesign/mdbch/md-chr7y.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/mat
 hdesign/mdbch/md-chr8t.pfb>
-Output written on Draft.pdf (3 pages, 50728 bytes).
+Output written on Draft.pdf (4 pages, 51582 bytes).
 PDF statistics:
- 139 PDF objects out of 1000 (max. 8388607)
- 127 compressed objects within 2 object streams
- 49 named destinations out of 1000 (max. 500000)
- 26217 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 149 PDF objects out of 1000 (max. 8388607)
+ 136 compressed objects within 2 object streams
+ 58 named destinations out of 1000 (max. 500000)
+ 26721 words of extra memory for PDF output out of 29859 (max. 10000000)
 

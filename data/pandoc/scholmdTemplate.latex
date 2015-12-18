@@ -4,7 +4,8 @@
 $for(latex-before-packages-includes)$
 $latex-before-packages-includes$
 $endfor$
-
+\sloppy
+\hyphenpenalty 10000
 $if(title)$
 \title{$title$$if(subtitle)$\\\vspace{0.5em}{\large $subtitle$}$endif$}
 $endif$
@@ -62,6 +63,8 @@ $else$
 \renewcommand\refname{$biblio-title$}
 $endif$
 $endif$
+\newpage
+\bibliographystyle{apalike-fr}
 \bibliography{$biblio-files$}
 
 $endif$

@@ -1,18 +1,20 @@
 # Fdb version 3
-["bibtex Draft"] 1450368741 "Draft.aux" "Draft.bbl" "Draft" 1450368742
-  "Draft.aux" 1450368742 3504 3afed64fa46163f4a63c9a18ee751220 ""
+["bibtex Draft"] 1450432955 "Draft.aux" "Draft.bbl" "Draft" 1450432957
+  "Draft.aux" 1450432956 3606 a6719529451c0cae06e4f3401ad34027 ""
   "Draft.bcf" 0 -1 0 ""
-  "resources/biblio.bib" 1450359610 41869 97487f08b1b864f462fad27de5fe7cd4 ""
+  "c:/texlive/2015/texmf-dist/bibtex/bst/bib-fr/apalike-fr.bst" 1445610134 25334 4e421680225a5327e08d67e068fc4fda ""
+  "resources/biblio.bib" 1450429452 42190 345bba6db40da89556982e91996fea41 ""
   (generated)
+  "Draft.blg"
   "Draft.bbl"
-["pdflatex"] 1450368741 "Draft.tex" "Draft.pdf" "Draft" 1450368742
-  "./Draft.out" 1450368742 928 bab473dbb05eace8f1d22c6276ec5776 ""
-  "./Draft.tex" 1450368737 6975 8d93e34c2e93a2ae88f7b18b294276b1 ""
-  "./pandoc/coling2012.sty" 1450335826 8427 d48ab8b69ec929e2c5786a919e728bac ""
-  "Draft.aux" 1450368742 3504 3afed64fa46163f4a63c9a18ee751220 ""
-  "Draft.bbl" 1450368741 0 d41d8cd98f00b204e9800998ecf8427e "bibtex Draft"
-  "Draft.out" 1450368742 928 bab473dbb05eace8f1d22c6276ec5776 ""
-  "Draft.tex" 1450368737 6975 8d93e34c2e93a2ae88f7b18b294276b1 ""
+["pdflatex"] 1450432955 "Draft.tex" "Draft.pdf" "Draft" 1450432957
+  "./Draft.out" 1450432956 975 f9e2dbbfad1b5954d27aa3bc397cb0c1 ""
+  "./Draft.tex" 1450432952 8500 14c96e536a30064b6c746920fbc97a4a ""
+  "./pandoc/coling2012.sty" 1450429957 8427 d48ab8b69ec929e2c5786a919e728bac ""
+  "Draft.aux" 1450432956 3606 a6719529451c0cae06e4f3401ad34027 ""
+  "Draft.bbl" 1450432955 253 31af4fbdc192c9fe5c12010434ca801d "bibtex Draft"
+  "Draft.out" 1450432956 975 f9e2dbbfad1b5954d27aa3bc397cb0c1 ""
+  "Draft.tex" 1450432952 8500 14c96e536a30064b6c746920fbc97a4a ""
   "c:/texlive/2015/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc" 1445611802 6938 5135be6a8802f13a7faf296d1959a1ab ""
   "c:/texlive/2015/texmf-dist/fonts/map/fontname/texfonts.map" 1445611116 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "c:/texlive/2015/texmf-dist/fonts/tfm/jknappen/ec/ecrm1000.tfm" 1445610832 3584 adb004a0c8e7c46ee66cad73671f37b4 ""
@@ -105,9 +107,9 @@
   "c:/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1445613132 1805787 b71b95fe9413f44719f0f198468bf855 ""
   "c:/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt" 1445613184 3848619 93ca5120b6cb21cd0adf5b090b4787a2 ""
   "c:/texlive/2015/texmf.cnf" 1445613029 497 7277663fd190ea5a4fe922b182dc7be2 ""
-  "pandoc/coling2012.sty" 1450335826 8427 d48ab8b69ec929e2c5786a919e728bac ""
+  "pandoc/coling2012.sty" 1450429957 8427 d48ab8b69ec929e2c5786a919e728bac ""
   (generated)
-  "Draft.out"
-  "Draft.pdf"
   "Draft.log"
   "Draft.aux"
+  "Draft.pdf"
+  "Draft.out"

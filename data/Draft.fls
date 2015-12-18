@@ -175,8 +175,12 @@ INPUT c:/texlive/2015/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chri8t.tfm
 INPUT c:/texlive/2015/texmf-dist/tex/latex/mathdesign/mdbch/omsmdbch.fd
 INPUT c:/texlive/2015/texmf-dist/tex/latex/mathdesign/mdbch/omsmdbch.fd
 INPUT c:/texlive/2015/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchr7y.tfm
+INPUT c:/texlive/2015/texmf-dist/fonts/tfm/public/mathdesign/mdbch/mdbchb8t.tfm
 INPUT c:/texlive/2015/texmf-dist/fonts/vf/public/mathdesign/mdbch/mdbchr7y.vf
 INPUT c:/texlive/2015/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chr7y.tfm
+INPUT c:/texlive/2015/texmf-dist/fonts/vf/public/mathdesign/mdbch/mdbchb8t.vf
+INPUT c:/texlive/2015/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chb8y.tfm
+INPUT c:/texlive/2015/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chb8t.tfm
 INPUT Draft.bbl
 INPUT Draft.bbl
 INPUT Draft.aux
