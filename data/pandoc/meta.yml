@@ -5,6 +5,7 @@ classoption: twoside
 papersize: a5paper
 latex-before-packages-includes:
    - \usepackage{pandoc/coling2012}
+   - \usepackage{color}
    #- \usepackage[frenchb]{babel}
 #csl: resources/plos.csl
 ...

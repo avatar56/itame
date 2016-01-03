@@ -2,142 +2,230 @@
 %%
 \documentclass[10pt,a5paper,twoside]{article}
 \usepackage{pandoc/coling2012}
+\usepackage{color}
 \sloppy
 \hyphenpenalty 10000
 \title{Interface Tangible comme Aide à la Maîtrise de l'Énergie}
 
-\author{Maxime Daniel, Guillaume Rivière, Nadine Couture}
+\author{Maxime DANIEL\\ Guillaume RIVIÈRE\\ Nadine COUTURE}
+\date{\today}
 
 
 \begin{document}
-\maketitle
-\keywords{IHM, TUI, persuasion informatique, espaces publics et physiques d'interaction sociale}
 
+\maketitle
+\keywords{IHM, TUI, technologie persuasive, espace publique physique, gestion de l'énergie}
+
+\clearpage
+\tableofcontents
+\clearpage
 \section{Contexte}\label{contexte}
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\itemsep1pt\parskip0pt\parsep0pt
-\item
-  Le Développement durable et ses enjeux (le transport, la gestion des
-  déchets, la gestion de l'énergie, etc.).
-\item
-  L'utilisation de l'IHM pour aider à l'accomplissement du développement
-  durable (le développement durable dans la conception, le développement
-  durable par la conception, etc.).
-\item
-  La transition énergétique et ses enjeux.
-\item
-  Des réseaux électriques classiques inadaptés.
-\item
-  (?) Une transition lente vers les réseaux électriques intelligents.
-\item
-  Le besoin de sensibiliser la population aux problématiques de gestion
-  de l'énergie (consommation, production, stockage) et de persuader les
-  individus à changer leurs comportements de consommation lorsque cela
-  est nécessaire (consommer pendant les heures creuses, etc.).
-\end{enumerate}
+\subsection{Le développement durable}\label{le-duxe9veloppement-durable}
 
-\subsection{Constats}\label{constats}
+Le développement durable est le développement qui subvient aux besoins
+du présent sans compromettre la capacité des générations futures à
+répondre à leurs propres besoins \citep{Hariem1985world}. Face à la
+crise écologique et sociale à la quelle le monde fait face (changement
+climatique, raréfaction des ressources naturelles, pénuries d'eau douce,
+rapprochement du pic pétrolier, écarts entre pays développés et pays en
+développement, sécurité alimentaire, déforestation et perte drastique de
+biodiversité, croissance de la population mondiale, catastrophes
+naturelles et industrielles) atteindre le développement durable est une
+priorité indiscutable. Une grande majorité, si ce n'est pas la totalité,
+des secteurs d'activités sont concernés par le développement durable.
+
+\subsection{L'énergie}\label{luxe9nergie}
+
+Le secteur de l'énergie est un acteur majeur du développement durable
+depuis les premières crises énergétiques des années 1970. En 1973, 86.7
+\% de la production mondiale d'énergie primaire provenait des
+combustibles fossiles \citep{iea2015key}. À cette époque le système de
+production énergétique était presque exclusivement basé sur l'énergie
+fossile. Afin d'obtenir ce type d'énergie, il est nécessaire d'exploiter
+des combustibles fossiles telles que le pétrole, le charbon ou le gaz
+naturel qui sont disponibles en quantité limitée. En 1973, avec une part
+de 46.2 \% \citep{iea2015key}, le pétrole était le combustible fossile
+le plus utilisée dans le monde et à l'arrivé du premier choc pétrolier
+de cette même année, le monde a fait l'expérience d'une pénurie de
+pétrole, sa source d'énergie fossile principale. En plus du problème des
+réserves limitées des combustibles fossiles, l'exploitation de ces
+combustibles produit une grande quantité de polluant et contribue en
+grande partie au réchauffement climatique. À la suite de ces évènements,
+le secteur de l'énergie à entrepris la recherche d'énergies alternatives
+à l'énergie fossile afin de réduire la dépendance aux combustibles
+fossiles disponibles en quantité limité et réduire l'impact
+environnementale (e.g., pollution, réchauffement climatique) de la
+production de cette énergie. L'énergie nucléaire et l'énergie
+renouvelable sont deux énergies alternatives à l'énergie fossile issues
+de cette recherche.
+
+L'énergie renouvelable est une énergie produisant pas ou très peu de
+polluant et dont les ressources sont considérées comme inépuisables. Il
+existe différents types d'énergie renouvelable telles que l'énergie
+solaire, l'énergie éolienne, l'énergie hydraulique, la biomasse ou
+encore l'énergie géothermique. En 2013, l'énergie primaire mondiale
+produite était à 13.8 \% de l'énergie renouvelable, 4.8 \% de l'énergie
+nucléaire et à 81.4 \% de l'énergie fossile \citep{iea2015key}.
+L'énergie renouvelable fait partie du paysage énergétique mondiale et
+forme avec l'énergie fossile et l'énergie nucléaire le mix énergétique.
+
+En 40 ans, la part de l'énergie renouvelable dans le mix énergétique est
+passé de 12.4 \% en 1973 à 13.8 \% en 2013 \citep{iea2015key}. Cette
+lenteur dans la transition vers les énergies renouvelables, est la
+conséquence d'une continuité dans l'exploitation des combustibles
+fossiles dont l'économie restent, encore aujourd'hui, considérables mais
+pas seulement. Les réseaux électriques classiques sont également
+responsables de cette lenteur dans la transition énergétique vers le
+renouvelable. Ils se montrent particulièrement inadaptés à l'intégration
+des énergies renouvelables au paysage énergétique. Cette inadaptabilité
+s'expliquer par la variabilité de certaines énergies renouvelables
+(solaire, éolien, etc.) qui pose de réels problèmes de gestion de la
+production d'électricité ou encore par la multiplication des sites de
+production d'électricité (i.e.~décentralisation de la production
+d'électricité) qui n'est pas adapté aux réseaux électriques classiques
+qui sont conçus pour acheminer et non pour collecter l'électricité.
+\textcolor{red}{à continuer vers smart grid et le besoin d'engager les consommateurs + références}
+
+\subsection{L'interaction
+homme-machine}\label{linteraction-homme-machine}
+
+\citet{Blevis2007sustainable} évoque le besoin de changer le rôle joué
+par l'IHM dans les cycles rapides d'obsolescence des produits qui
+contribuent entre autres à la raréfaction des ressources naturelles et à
+la pollution. Il expose la possibilité de réduire l'impact matériel de
+la technologie à la fois directement (e.g., par la création de produit
+qui peuvent être remplacer partiellement plutôt que complètement) et
+indirectement (e.g., par la création de produits à qualité héréditaire
+afin qu'ils ne soient pas rapidement remplacés).
+\citet{mankoff2007environmental} offre une catégorisation de l'IHM pour
+le développement durable en deux catégories : le développement durable
+\emph{dans} la conception (mitiger l'impact matériel du
+logiciel/matériel) et le développement durable \emph{par} la conception
+(influencer les styles de vie et les prises de décision durables).
+\citet{Reitberger2008surrounded} et \citet{Tscheligi2007persuasion}
+affirment que la technologie persuasive peut être un ingrédient clé de
+l'IHM pour le développement durable en informant les utilisateurs sur
+l'impact environnemental de leurs actions et en augmentant la
+désirabilité des comportements pro-environnementaux.
+\textcolor{red}{à continuer plus en détails vers les technologies persuasives + références}
+
+\section{Problématique}\label{probluxe9matique}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \itemsep1pt\parskip0pt\parsep0pt
 \item
   Pour persuader les individus à changer de comportement, beaucoup de
-  travaux en persuasion informatique utilisent une stratégie de
+  travaux en technologie persuasive utilisent une stratégie de
   persuasion avec comme source principale de motivation, la réduction de
   la facture énergétique du domicile.
 \item
   Les individus ne se sentent pas concernés par la réduction de la
-  facture énergétique sur les espaces publics et physiques d'interaction
-  sociale (une école, une entreprise, un hôpital, etc.). L'application
-  de la persuasion informatique sur ces espaces est quelque peu
-  délaissée.
+  facture énergétique sur les espaces publiques physiques (une école,
+  une entreprise, un hôpital, etc.) ; l'application de la technologie
+  persuasive sur ces espaces est quelque peu délaissée.
 \item
   D'autres sources de motivation commencent à être utilisées telles que
   le plaisir avec l'utilisation de la ludification, voir même du
   \emph{Serious Game}.
 \item
   Les interfaces graphiques (GUI) sont majoritairement utilisées comme
-  support à la persuasion informatique. Cependant, il existe d'autres
+  support aux technologies persuasives. Cependant, il existe d'autres
   types d'interfaces homme-machine telles que les interfaces utilisateur
-  tangibles qui pourraient se montrer plus adaptées au support de la
-  persuasion informatique pour certaines situations telles que pour le
-  support à la persuasion informatique sur les espaces publics et
-  physiques d'interaction sociale.
-\end{enumerate}
-
-\subsection{Positionnement}\label{positionnement}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\itemsep1pt\parskip0pt\parsep0pt
-\item
-  Définir une stratégie de persuasion adaptée aux espaces publics et
-  physiques d'interaction sociale.
-\item
-  Définir et valider les supériorités des TUIs sur les interfaces
-  graphiques en terme de support à la persuasion informatique sur les
-  espaces publics et physiques d'interaction sociale, voir plus
-  généralement en terme de support à la persuasion informatique.
+  tangibles qui pourraient se montrer plus adaptées au support des
+  technologies persuasives que les GUIs pour certaines situations (e.g.,
+  support aux technologies persuasives sur les espaces publiques
+  physiques).
 \end{enumerate}
 
 \section{État de l'art}\label{uxe9tat-de-lart}
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\itemsep1pt\parskip0pt\parsep0pt
-\item
-  Balayage de la persuasion informatique.
-\item
-  Focus sur la persuasion informatique dédiée à la gestion de l'énergie.
-\item
-  Balayage des TUIs.
-\item
-  Balayage sur la persuasion informatique ambiante.
-\item
-  Focus sur la persuasion informatique ambiante dédiée à la gestion de
-  l'énergie.
-\end{enumerate}
-
-\subsection{Persuasion informatique}\label{persuasion-informatique}
+\subsection{Technologie persuasive}\label{technologie-persuasive}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \itemsep1pt\parskip0pt\parsep0pt
 \item
-  Définition de la persuasion informatique.
+  Définition de la technologie persuasive par \citet{fogg1998captology},
+  \citet{fogg2002persuasive}.
 \item
-  Définition de la ludification et du \emph{Serious Game}.
+  Définition du \emph{Serious Game} par \citet{abt1970serious},
+  \citet{ritterfeld2009serious} et de la ludification par
+  \citet{deterding2011game}.
 \item
-  Définition des systèmes ludo-persuasifs.
+  Définition des systèmes ludo-persuasifs par
+  \citet{senach2015systemes}.
 \item
-  Applications et exemples :
+  Applications :
 
   \begin{itemize}
   \itemsep1pt\parskip0pt\parsep0pt
   \item
-    Santé et Exercices.
+    Santé - \textcolor{red}{à lire} \citet{bhatnagar2012biometric},
+    \citet{chiu2009playful}, \citet{fabri2013changing},
+    \citet{gasca2008persuasive}, \citet{halan2010high},
+    \citet{kehr2012transformational}, \citet{kroes2013empowering},
+    \citet{lee2011mining}, \citet{looije2006incorporating},
+    \citet{nakajima2013designing}, \citet{parmar2008persuasive},
+    \citet{salam2010using}, \citet{vanleer2012use} -.
   \item
-    Économie, commerce, marketing, sécurité, sûreté.
+    Exercices -\textcolor{red}{à lire} \citet{arteaga2010mobile},
+    \citet{berkovsky2012physical}, \citet{consolvo2008flowers},
+    \citet{consolvo2008activity}, \citet{foster2010motivating},
+    \citet{lacroix2009understanding}, \citet{lim2010pediluma},
+    \citet{mutsuddi2012text}, \citet{ploderer2008hey},
+    \citet{young2010twitter} -.
   \item
-    Divertissement.
+    Éducation, apprentissage - \textcolor{red}{à lire}
+    \citet{berque2011design}, \citet{chang2008playful},
+    \citet{goh2012impact}, \citet{lucero2006persuasive},
+    \citet{reis2011perception} -.
   \item
-    Autres.
+    Économie, commerce, marketing - \textcolor{red}{à lire}
+    \citet{cugelman2008website}, \citet{russell2008benevolence} -.
   \item
-    Consommation et/ou comportement écologique.
+    sécurité, sûreté - \textcolor{red}{à lire}
+    \citet{bergmans2013reducing}, \citet{chittaro2012passengers},
+    \citet{hartwig2013safety}, \citet{miranda2013examining} -.
+  \item
+    Divertissement - \textcolor{red}{à lire}
+    \citet{centieiro2012applaud}, \citet{reitberger2012persuasive} -.
+  \item
+    Consommation et/ou comportement écologique - \textcolor{red}{à lire}
+    \citet{centieiro2011location}, \citet{ruijten2012bridging} -.
+  \item
+    Gestion de l'énergie - \citet{ham2010ambient},
+    \citet{medland2010curbing} , \citet{rodgers2011exploring},
+    \citet{gamberini2012tailoring}, \citet{costanza2012understanding},
+    \citet{weiss2009handy}, \citet{pereira2013understanding},
+    \citet{elsmore2010neighbourhood}, \citet{petkov2012personalised},
+    \citet{kjeldskov2012using}, \citet{paay2014design},
+    \textcolor{red}{à lire} \citet{filonik2013customisable},
+    \citet{foster2010wattsup}, \citet{gamberini2012tailoring},
+    \citet{kim2010design}, \citet{roubroeks2010dominant},
+    \citet{ruijten2012bridging}, \citet{ruijten2011unconscious},
+    \citet{valkanova2013reveal} -.
   \end{itemize}
-\end{enumerate}
-
-\subsubsection{Persuasion informatique dédiée à la gestion de
-l'énergie}\label{persuasion-informatique-duxe9diuxe9e-uxe0-la-gestion-de-luxe9nergie}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\itemsep1pt\parskip0pt\parsep0pt
 \item
-  Exemples.
+  Modèle de persuasion de \citet{kaptein2010persuasion} composé du
+  modèle de la probabilité d'élaboration de
+  \citet{petty1986elaboration}, de la théorie Motivation, Opportunité,
+  Capacité de \citet{maclnnis1989information}, de la théorie du
+  comportement planifié de \citet{dillon1996user}, du conditionnement
+  classique de \citet{patterson1987rabbit} et du conditionnement opérant
+  de \citet{skinner1976behaviorism}.
+\item
+  Modèle de conduite du changement comportemental de
+  \citet{prochaska2005transtheoretical}.
+\item
+  Principes de persuasion de \citet{negri2015ludo} inspirés par les
+  principes de persuasion de \citet{fogg2002persuasive},
+  \citet{oinas2009persuasive}, \citet{nemery2012development},
+  \citet{cialdini2004influence} et les principes de ludification de
+  \citet{zichermann2011gamification}.
+\item
+  Espace de classification de \citet{cano2015persuasive}.
 \end{enumerate}
 
 \subsection{Interface utilisateur
@@ -145,145 +233,79 @@ tangible}\label{interface-utilisateur-tangible}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\itemsep1pt\parskip0pt\parsep0pt
 \item
-  Définition des TUIs.
-\item
-  Genres et exemples :
-
-  \begin{itemize}
-  \itemsep1pt\parskip0pt\parsep0pt
-  \item
-    Interaction tangible sur table.
-  \item
-    Interface Utilisateur Incarnée.
-  \item
-    Réalité Augmenté Tangible.
-  \item
-    Affichage Ambiant.
-  \end{itemize}
+  Définition des TUIs - \citet{wellner1993back},
+  \citet{fitzmaurice1995bricks}, \citet{ishii1997tangible},
+  \citet{ullmer2000emerging}, \citet{shaer2010tangible} -.
 \item
   Applications et exemples :
 
   \begin{itemize}
   \itemsep1pt\parskip0pt\parsep0pt
   \item
-    Communication sociale.
+    Communication sociale - \citet{werner2008unitedpulse},
+    \citet{ernevi2005interactive}, \citet{chang2001lumitouch} -.
   \item
-    Apprentissage.
+    Apprentissage - \citet{zufferey2009tinkerSheets},
+    \citet{underkoffler1998illuminatinglight}, \citet{raffle2004topobo},
+    \citet{frei2000curlybot} -.
   \item
-    Divertissement.
+    Divertissement et éducation - \citet{zigelbaum2007tangible},
+    \citet{ryokai2004iobrush}, \citet{frey2014teegi},
+    \citet{gervais2015tobe} -.
   \item
-    Musique et Performance.
+    Musique et Performance - \citet{jorda2007reactable},
+    \citet{schiettecatte2008audiocubes}, \citet{patten2002audiopad},
+    \citet{newton2003block} -.
   \item
-    Planification et résolution de problème.
+    Planification et résolution de problème - \citet{ishii2008tangible},
+    \citet{underkoffler1999urp}, \citet{patten2007mechanical},
+    \citet{jacob2002tangible} -.
   \item
-    Programmation.
+    Programmation - \citet{suzuki1995interaction},
+    \citet{horn2008tangible}, -.
   \item
-    Visualisation d'information.
+    Visualisation d'information - \citet{couture2008geotui},
+    \citet{hinckley1994passive} -.
   \end{itemize}
 \end{enumerate}
 
-\subsection{Persuasion informatique
-ambiante}\label{persuasion-informatique-ambiante}
+\subsection{Technologie persuasive
+ambiante}\label{technologie-persuasive-ambiante}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\itemsep1pt\parskip0pt\parsep0pt
 \item
-  Définition de la persuasion informatique ambiante.
+  Définition de la technologie persuasive ambiante par
+  \citet{davis2008towards}, \citet{ham2010ambient}.
 \item
   Applications et exemples :
 
   \begin{itemize}
   \itemsep1pt\parskip0pt\parsep0pt
   \item
-    Santé et Exercices.
+    Santé et exercices - \citet{faber2011aulura}, \citet{kim2010inair},
+    \citet{nakajima2008reflecting} -
   \item
-    Économie, commerce, marketing, sécurité, sûreté.
+    Économie, commerce, marketing, sécurité, sûreté -
+    \citet{kalnikaite2011nudge} -.
   \item
-    Divertissement.
+    Éducation, apprentissage - \citet{reis2011perception} -.
   \item
-    Autres.
-  \item
-    Consommation et/ou comportement écologique.
+    Gestion de l'énergie - \citet{belley2006semaphore},
+    \citet{belley2006coupe}, \citet{evans2009artful},
+    \citet{gustafsson2005power}, \citet{kyoto2005wattson},
+    \citet{jonsson2010watt}, \citet{ernevi2005energy},
+    \citet{gyllensward2006visualizing}, \citet{lagerkvist2016flower},
+    \citet{lagerkvist2016disappearing}, \textcolor{red}{à lire}
+    \citet{rogers2010ambient}, \citet{kuznetsov2010upstream},
+    \citet{valkanova2013reveal} -.
   \end{itemize}
 \end{enumerate}
-
-\subsubsection{Persuasion informatique ambiante dédiée à la gestion de
-l'énergie.}\label{persuasion-informatique-ambiante-duxe9diuxe9e-uxe0-la-gestion-de-luxe9nergie.}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\itemsep1pt\parskip0pt\parsep0pt
-\item
-  Exemples.
-\end{enumerate}
-
-\section{Les interfaces utilisateurs tangibles comme support à la
-Persuasion
-Informatique}\label{les-interfaces-utilisateurs-tangibles-comme-support-uxe0-la-persuasion-informatique}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\itemsep1pt\parskip0pt\parsep0pt
-\item
-  Définition des forces des TUIs.
-\item
-  Définition des principes de persuasion.
-\item
-  Pour chacune de ces forces (ou quelques unes), définir une hypothèse
-  sur leur potentiel à améliorer le support à un ou plusieurs principes
-  de persuasion.
-\item
-  Pour chacune des hypothèses, les valider : Prototyper, Évaluer,
-  Analyser les résultats.
-\end{enumerate}
-
-\subsection{Les Forces des TUIs}\label{les-forces-des-tuis}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\itemsep1pt\parskip0pt\parsep0pt
-\item
-  Collaboration (e.g., Expert de l'énergie/Particulier).
-\item
-  Applicabilité (e.g., contexte précis).
-\item
-  Réflexion tangible (i.e., aider à la compréhension, Renforcer la
-  connexion entre le corps et la cognition).
-\item
-  gestuelle (i.e., alléger la charge cognitive).
-\item
-  Actions épistémiques et accessoires de réflexion ( i.e., offrir de la
-  mémorisation externe).
-\item
-  Représentation tangible (i.e., guider, contraindre et déterminer le
-  comportement cognitif).
-\item
-  Multiplexage de l'entrée de l'information dans l'espace et spontanéité
-  de l'interaction (i.e., actions parallèles, prendre avantage de la
-  forme, de la taille, et de la position des objets.)
-\item
-  Incarnation forte (i.e., créer de l'affordance et de l'iconicité).
-\end{enumerate}
-
-\subsection{Les principes de
-persuasion}\label{les-principes-de-persuasion}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\itemsep1pt\parskip0pt\parsep0pt
-\item
-  La Grille de principes des systèmes ludo-persuasifs.
-\end{enumerate}
-
-\ldots{}
 
 \newpage
 \bibliographystyle{apalike-fr}
 \bibliography{resources/biblio}
-
 
 \end{document}
 
