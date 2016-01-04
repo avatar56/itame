@@ -1,26 +1,72 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: Draft.aux
+This is BibTeX, Version 0.99d (TeX Live 2015/W32TeX)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Draft.aux
 The style file: apalike-fr.bst
 Database file #1: resources/biblio.bib
-Repeated entry---line 1420 of file resources/biblio.bib
+Warning--I'm ignoring wyer1997automaticity's extra "author" field
+--line 2759 of file resources/biblio.bib
+Repeated entry---line 2839 of file resources/biblio.bib
  : @inproceedings{arteaga2010mobile
  :                                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1741 of file resources/biblio.bib
+Repeated entry---line 3481 of file resources/biblio.bib
  : @article{nakajima2013designing
  :                               ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2090 of file resources/biblio.bib
+Repeated entry---line 4179 of file resources/biblio.bib
  : @incollection{gamberini2012tailoring
  :                                     ,
 I'm skipping whatever remains of this entry
 Warning--entry type for "belley2006semaphore" isn't style-file defined
---line 2597 of file resources/biblio.bib
+--line 5193 of file resources/biblio.bib
 Warning--entry type for "belley2006coupe" isn't style-file defined
---line 2603 of file resources/biblio.bib
+--line 5205 of file resources/biblio.bib
 Warning--entry type for "lagerkvist2016flower" isn't style-file defined
---line 2615 of file resources/biblio.bib
+--line 5229 of file resources/biblio.bib
 Warning--entry type for "lagerkvist2016disappearing" isn't style-file defined
---line 2621 of file resources/biblio.bib
+--line 5241 of file resources/biblio.bib
+Warning--I didn't find a database entry for "fogg2003persuasive"
 Warning--empty journal in davis2008towards
 Warning--empty publisher in werner2008unitedpulse
+You've used 132 entries,
+            2038 wiz_defined-function locations,
+            1261 strings with 31875 characters,
+and the built_in function-call counts, 76995 in all, are:
+= -- 8612
+> -- 2658
+< -- 172
++ -- 970
+- -- 930
+* -- 5455
+:= -- 14204
+add.period$ -- 482
+call.type$ -- 132
+change.case$ -- 1075
+chr.to.int$ -- 126
+cite$ -- 134
+duplicate$ -- 3021
+empty$ -- 4931
+format.name$ -- 1122
+if$ -- 16462
+int.to.chr$ -- 7
+int.to.str$ -- 0
+missing$ -- 132
+newline$ -- 665
+num.names$ -- 448
+pop$ -- 1058
+preamble$ -- 1
+purify$ -- 1081
+quote$ -- 0
+skip$ -- 2375
+stack$ -- 0
+substring$ -- 6341
+swap$ -- 991
+text.length$ -- 119
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 780
+warning$ -- 2
+while$ -- 567
+width$ -- 0
+write$ -- 1942
 (There were 3 error messages)

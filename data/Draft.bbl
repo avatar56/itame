@@ -351,8 +351,15 @@
   in Computing Systems}, CHI '95, pages 442--449, New York, NY, USA. ACM
   Press/Addison-Wesley Publishing Co.
 
-\bibitem[Fogg, 1998]{fogg1998captology}
-\bgroup\fonteauteurs\bgroup Fogg\egroup\egroup{}, B.~J. (1998).
+\bibitem[Fogg, 1998a]{fogg1998persuasive}
+\bgroup\fonteauteurs\bgroup Fogg\egroup\egroup{}, B. (1998a).
+\newblock Persuasive computers: Perspectives and research directions.
+\newblock \emph{In} {\em Proceedings of the SIGCHI Conference on Human Factors
+  in Computing Systems}, CHI '98, pages 225--232, New York, NY, USA. ACM
+  Press/Addison-Wesley Publishing Co.
+
+\bibitem[Fogg, 1998b]{fogg1998captology}
+\bgroup\fonteauteurs\bgroup Fogg\egroup\egroup{}, B.~J. (1998b).
 \newblock Captology: The study of computers as persuasive technologies.
 \newblock \emph{In} {\em CHI 98 Cconference Summary on Human Factors in
   Computing Systems}, CHI '98, pages 385--, New York, NY, USA. ACM.
@@ -499,6 +506,17 @@
   Persuasive Technology}, PERSUASIVE'10, pages 132--142, Berlin, Heidelberg.
   Springer-Verlag.
 
+\bibitem[Ham \emph{et~al.}, 2009]{ham2009can}
+\bgroup\fonteauteurs\bgroup Ham\egroup\egroup{}, J.,
+  \bgroup\fonteauteurs\bgroup Midden\egroup\egroup{}, C. et
+  \bgroup\fonteauteurs\bgroup Beute\egroup\egroup{}, F. (2009).
+\newblock Can ambient persuasive technology persuade unconsciously?: Using
+  subliminal feedback to influence energy consumption ratings of household
+  appliances.
+\newblock \emph{In} {\em Proceedings of the 4th International Conference on
+  Persuasive Technology}, Persuasive '09, pages 29:1--29:6, New York, NY, USA.
+  ACM.
+
 \bibitem[Hartwig et Windel, 2013]{hartwig2013safety}
 \bgroup\fonteauteurs\bgroup Hartwig\egroup\egroup{}, M. et
   \bgroup\fonteauteurs\bgroup Windel\egroup\egroup{}, A. (2013).
@@ -532,6 +550,13 @@
 \bgroup\fonteauteurs\bgroup IEA\egroup\egroup{} (2015).
 \newblock {Key World Energy Statistics 2015}.
 \newblock {\em {International Energy Agency}}.
+
+\bibitem[Intille, 2004]{intille2004ubiquitous}
+\bgroup\fonteauteurs\bgroup Intille\egroup\egroup{}, S.~S. (2004).
+\newblock Ubiquitous computing technology for just-in-time motivation of
+  behavior change.
+\newblock {\em Stud Health Technol Inform}, 107(Pt 2)\string:\penalty500\relax
+  1434--7.
 
 \bibitem[Ishii, 2008]{ishii2008tangible}
 \bgroup\fonteauteurs\bgroup Ishii\egroup\egroup{}, H. (2008).
@@ -742,6 +767,13 @@
 \newblock Environmental sustainability and interaction.
 \newblock \emph{In} {\em CHI '07 Extended Abstracts on Human Factors in
   Computing Systems}, CHI EA '07, pages 2121--2124, New York, NY, USA. ACM.
+
+\bibitem[Mathew, 2005]{mathew2005using}
+\bgroup\fonteauteurs\bgroup Mathew\egroup\egroup{}, A.~P. (2005).
+\newblock Using the environment as an interactive interface to motivate
+  positive behavior change in a subway station.
+\newblock \emph{In} {\em CHI '05 Extended Abstracts on Human Factors in
+  Computing Systems}, CHI EA '05, pages 1637--1640, New York, NY, USA. ACM.
 
 \bibitem[Medland, 2010]{medland2010curbing}
 \bgroup\fonteauteurs\bgroup Medland\egroup\egroup{}, R. (2010).
@@ -1082,6 +1114,14 @@
 \newblock {\em Found. Trends Hum.-Comput. Interact.},
   3(1\&\#8211;2)\string:\penalty500\relax 1--137.
 
+\bibitem[Singh et Mathew, 2007]{singh2007walkmsu}
+\bgroup\fonteauteurs\bgroup Singh\egroup\egroup{}, V. et
+  \bgroup\fonteauteurs\bgroup Mathew\egroup\egroup{}, A.~P. (2007).
+\newblock Walkmsu: An intervention to motivate physical activity in university
+  students.
+\newblock \emph{In} {\em CHI '07 Extended Abstracts on Human Factors in
+  Computing Systems}, CHI EA '07, pages 2657--2662, New York, NY, USA. ACM.
+
 \bibitem[Skinner, 1976]{skinner1976behaviorism}
 \bgroup\fonteauteurs\bgroup Skinner\egroup\egroup{}, B.~F. (1976).
 \newblock {\em About behaviorism}.
@@ -1164,6 +1204,26 @@ van \bgroup\fonteauteurs\bgroup Leer\egroup\egroup{}, E. et
   \bgroup\fonteauteurs\bgroup Wettach\egroup\egroup{}, R. et
   \bgroup\fonteauteurs\bgroup Hornecker\egroup\egroup{}, E. (2008).
 \newblock {\em United-pulse: feeling your partner's pulse}, pages 535--538.
+
+\bibitem[Wisneski \emph{et~al.}, 1998]{wisneski1998ambient}
+\bgroup\fonteauteurs\bgroup Wisneski\egroup\egroup{}, C.,
+  \bgroup\fonteauteurs\bgroup Ishii\egroup\egroup{}, H.,
+  \bgroup\fonteauteurs\bgroup Dahley\egroup\egroup{}, A.,
+  \bgroup\fonteauteurs\bgroup Gorbet\egroup\egroup{}, M.~G.,
+  \bgroup\fonteauteurs\bgroup Brave\egroup\egroup{}, S.,
+  \bgroup\fonteauteurs\bgroup Ullmer\egroup\egroup{}, B. et
+  \bgroup\fonteauteurs\bgroup Yarin\egroup\egroup{}, P. (1998).
+\newblock Ambient displays: Turning architectural space into an interface
+  between people and digital information.
+\newblock \emph{In} {\em Proceedings of the First International Workshop on
+  Cooperative Buildings, Integrating Information, Organization, and
+  Architecture}, CoBuild '98, pages 22--32. Springer-Verlag, London, UK, UK.
+
+\bibitem[Wyer, 1997]{wyer1997automaticity}
+\bgroup\fonteauteurs\bgroup Wyer\egroup\egroup{}, R.~S. (1997).
+\newblock {\em The Automaticity of everyday life}.
+\newblock Advances in social cognition vol. 10. Lawrence Erlbaum Associates,
+  Mahwah,N.J.
 
 \bibitem[Young, 2010]{young2010twitter}
 \bgroup\fonteauteurs\bgroup Young\egroup\egroup{}, M. (2010).
