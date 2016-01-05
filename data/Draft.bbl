@@ -625,6 +625,20 @@
 \newblock {\em Journal of Ambient Intelligence and Humanized Computing},
   1(1)\string:\penalty500\relax 43--56.
 
+\bibitem[Kawsar \emph{et~al.}, 2005]{kawsar2005prottoy}
+\bgroup\fonteauteurs\bgroup Kawsar\egroup\egroup{}, F.,
+  \bgroup\fonteauteurs\bgroup Fujinami\egroup\egroup{}, K. et
+  \bgroup\fonteauteurs\bgroup Nakajima\egroup\egroup{}, T. (2005).
+\newblock Prottoy: A middleware for sentient environment.
+\newblock \emph{In} \bgroup\fonteauteurs\bgroup Yang\egroup\egroup{}, L.,
+  \bgroup\fonteauteurs\bgroup Amamiya\egroup\egroup{}, M.,
+  \bgroup\fonteauteurs\bgroup Liu\egroup\egroup{}, Z.,
+  \bgroup\fonteauteurs\bgroup Guo\egroup\egroup{}, M. et
+  \bgroup\fonteauteurs\bgroup Rammig\egroup\egroup{}, F., \'editeurs :  {\em
+  Embedded and Ubiquitous Computing â€“ EUC 2005}, volume 3824 de {\em
+  Lecture Notes in Computer Science}, pages 1165--1176. Springer Berlin
+  Heidelberg.
+
 \bibitem[Kehr \emph{et~al.}, 2012]{kehr2012transformational}
 \bgroup\fonteauteurs\bgroup Kehr\egroup\egroup{}, F.,
   \bgroup\fonteauteurs\bgroup Hassenzahl\egroup\egroup{}, M.,
@@ -650,6 +664,15 @@
   lifestyle.
 \newblock \emph{In} {\em Proceedings of the 8th ACM Conference on Designing
   Interactive Systems}, DIS '10, pages 103--112, New York, NY, USA. ACM.
+
+\bibitem[Kimura \emph{et~al.}, 2006]{kimura2006cookieflavors}
+\bgroup\fonteauteurs\bgroup Kimura\egroup\egroup{}, H.,
+  \bgroup\fonteauteurs\bgroup Tokunaga\egroup\egroup{}, E.,
+  \bgroup\fonteauteurs\bgroup Okuda\egroup\egroup{}, Y. et
+  \bgroup\fonteauteurs\bgroup Nakajima\egroup\egroup{}, T. (2006).
+\newblock Cookieflavors: Easy building blocks for wireless tangible input.
+\newblock \emph{In} {\em CHI '06 Extended Abstracts on Human Factors in
+  Computing Systems}, CHI EA '06, pages 965--970, New York, NY, USA. ACM.
 
 \bibitem[Kjeldskov \emph{et~al.}, 2012]{kjeldskov2012using}
 \bgroup\fonteauteurs\bgroup Kjeldskov\egroup\egroup{}, J.,
@@ -1114,18 +1137,17 @@
 \newblock {\em Found. Trends Hum.-Comput. Interact.},
   3(1\&\#8211;2)\string:\penalty500\relax 1--137.
 
-\bibitem[Singh et Mathew, 2007]{singh2007walkmsu}
-\bgroup\fonteauteurs\bgroup Singh\egroup\egroup{}, V. et
-  \bgroup\fonteauteurs\bgroup Mathew\egroup\egroup{}, A.~P. (2007).
-\newblock Walkmsu: An intervention to motivate physical activity in university
-  students.
-\newblock \emph{In} {\em CHI '07 Extended Abstracts on Human Factors in
-  Computing Systems}, CHI EA '07, pages 2657--2662, New York, NY, USA. ACM.
-
 \bibitem[Skinner, 1976]{skinner1976behaviorism}
 \bgroup\fonteauteurs\bgroup Skinner\egroup\egroup{}, B.~F. (1976).
 \newblock {\em About behaviorism}.
 \newblock Vintage Books, New York.
+
+\bibitem[Strauss \emph{et~al.}, 1990]{strauss1990basics}
+\bgroup\fonteauteurs\bgroup Strauss\egroup\egroup{}, A.~L.,
+  \bgroup\fonteauteurs\bgroup Corbin\egroup\egroup{}, J.~M. \emph{et~al.}
+  (1990).
+\newblock {\em Basics of qualitative research}, volume~15.
+\newblock Sage Newbury Park, CA.
 
 \bibitem[Suzuki et Kato, 1995]{suzuki1995interaction}
 \bgroup\fonteauteurs\bgroup Suzuki\egroup\egroup{}, H. et

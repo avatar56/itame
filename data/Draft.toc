@@ -8,5 +8,29 @@
 \contentsline {subsection}{\numberline {3.1}Technologie persuasive}{4}{subsection.3.1}
 \contentsline {subsection}{\numberline {3.2}Interface utilisateur tangible}{5}{subsection.3.2}
 \contentsline {subsection}{\numberline {3.3}Technologie persuasive ambiante}{6}{subsection.3.3}
-\contentsline {subsubsection}{\numberline {3.3.1}Les origines}{6}{subsubsection.3.3.1}
-\contentsline {subsubsection}{\numberline {3.3.2}Les origines}{7}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.1}Origines}{6}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}\emph {Virtual Aquarium} de \citet {nakajima2008reflecting}}{7}{subsubsection.3.3.2}
+\contentsline {paragraph}{Description}{7}{paragraph*.1}
+\contentsline {paragraph}{Conception}{7}{paragraph*.2}
+\contentsline {paragraph}{\IeC {\'E}tude}{9}{paragraph*.3}
+\contentsline {paragraph}{Recueil des donn\IeC {\'e}es}{10}{paragraph*.4}
+\contentsline {paragraph}{R\IeC {\'e}sultats (voir Figure~\ref {fig:virtualaquarium5})}{10}{paragraph*.5}
+\contentsline {paragraph}{Analyse des r\IeC {\'e}sultats}{10}{paragraph*.6}
+\contentsline {subsubsection}{\numberline {3.3.3}\emph {Mona Lisa Bookshelf} de \citet {nakajima2008reflecting}}{10}{subsubsection.3.3.3}
+\contentsline {paragraph}{Description}{10}{paragraph*.7}
+\contentsline {subsubsection}{\numberline {3.3.4}Conception}{11}{subsubsection.3.3.4}
+\contentsline {paragraph}{\IeC {\'E}tude}{12}{paragraph*.8}
+\contentsline {subsubsection}{\numberline {3.3.5}\emph {InAir} de \citet {kim2010inair}}{12}{subsubsection.3.3.5}
+\contentsline {paragraph}{Description}{12}{paragraph*.9}
+\contentsline {paragraph}{Conception}{12}{paragraph*.10}
+\contentsline {paragraph}{\IeC {\'E}tude}{12}{paragraph*.11}
+\contentsline {paragraph}{Recueil des donn\IeC {\'e}es}{13}{paragraph*.12}
+\contentsline {paragraph}{Analyse des donn\IeC {\'e}es}{13}{paragraph*.13}
+\contentsline {paragraph}{R\IeC {\'e}sultats de l'analyse}{14}{paragraph*.14}
+\contentsline {subsubsection}{\numberline {3.3.6}\emph {Aulura} de \citet {faber2011aulura}}{14}{subsubsection.3.3.6}
+\contentsline {paragraph}{Description}{14}{paragraph*.15}
+\contentsline {paragraph}{Conception}{14}{paragraph*.16}
+\contentsline {paragraph}{\IeC {\'E}tude}{16}{paragraph*.17}
+\contentsline {paragraph}{Recueil des donn\IeC {\'e}es}{16}{paragraph*.18}
+\contentsline {paragraph}{Analyse des donn\IeC {\'e}es}{19}{paragraph*.19}
+\contentsline {paragraph}{R\IeC {\'e}sultats de l'analyse}{19}{paragraph*.20}

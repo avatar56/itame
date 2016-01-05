@@ -25,48 +25,47 @@ Warning--entry type for "lagerkvist2016flower" isn't style-file defined
 --line 5229 of file resources/biblio.bib
 Warning--entry type for "lagerkvist2016disappearing" isn't style-file defined
 --line 5241 of file resources/biblio.bib
-Warning--I didn't find a database entry for "fogg2003persuasive"
 Warning--empty journal in davis2008towards
 Warning--empty publisher in werner2008unitedpulse
-You've used 132 entries,
+You've used 134 entries,
             2038 wiz_defined-function locations,
-            1261 strings with 31875 characters,
-and the built_in function-call counts, 76995 in all, are:
-= -- 8612
-> -- 2658
-< -- 172
-+ -- 970
-- -- 930
-* -- 5455
-:= -- 14204
-add.period$ -- 482
-call.type$ -- 132
-change.case$ -- 1075
-chr.to.int$ -- 126
-cite$ -- 134
-duplicate$ -- 3021
-empty$ -- 4931
-format.name$ -- 1122
-if$ -- 16462
+            1275 strings with 32351 characters,
+and the built_in function-call counts, 78172 in all, are:
+= -- 8729
+> -- 2718
+< -- 174
++ -- 991
+- -- 951
+* -- 5547
+:= -- 14433
+add.period$ -- 489
+call.type$ -- 134
+change.case$ -- 1091
+chr.to.int$ -- 128
+cite$ -- 136
+duplicate$ -- 3063
+empty$ -- 5001
+format.name$ -- 1143
+if$ -- 16705
 int.to.chr$ -- 7
 int.to.str$ -- 0
-missing$ -- 132
-newline$ -- 665
-num.names$ -- 448
-pop$ -- 1058
+missing$ -- 135
+newline$ -- 675
+num.names$ -- 456
+pop$ -- 1080
 preamble$ -- 1
-purify$ -- 1081
+purify$ -- 1098
 quote$ -- 0
-skip$ -- 2375
+skip$ -- 2407
 stack$ -- 0
-substring$ -- 6341
-swap$ -- 991
-text.length$ -- 119
+substring$ -- 6417
+swap$ -- 1005
+text.length$ -- 122
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 780
+type$ -- 790
 warning$ -- 2
-while$ -- 567
+while$ -- 574
 width$ -- 0
-write$ -- 1942
+write$ -- 1970
 (There were 3 error messages)
