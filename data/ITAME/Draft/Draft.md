@@ -113,7 +113,7 @@ En 40 ans, la part de l'énergie renouvelable dans le mix énergétique est pass
 
 ####### Figure: {#fig:virtualaquarium1 .wide}
 
-![](images/virtualaquarium-screenshot2.png){#fig:virtualaquarium-architecture width=90%}
+![](images/virtualaquarium-screenshot2.png){#fig:virtualaquarium-architecture}
 
 Caption: Architecture du *Virtual Aquarium*
 
@@ -125,13 +125,13 @@ Architecture du système (voir Figure [#fig:virtualaquarium1]) :
 
 ####### Figure: {#fig:virtualaquarium2 .wide}
 
-![](images/virtualaquarium-screenshot3.png){#fig:virtualaquarium-activity1 width=90%}
+![](images/virtualaquarium-screenshot3.png){#fig:virtualaquarium-activity1}
 
 Caption: *Virtual Aquarium* lorsque l'utilisateur se brosse les dents.
 
 ####### Figure: {#fig:virtualaquarium3 .wide}
 
-![](images/virtualaquarium-screenshot4.png){#fig:virtualaquarium-activity2 width=90%}
+![](images/virtualaquarium-screenshot4.png){#fig:virtualaquarium-activity2}
 
 Caption: Un poisson dépose un œuf au fond du *Virtual Aquarium*.
 
@@ -151,7 +151,7 @@ Les données provenant des brosses-à-dents améliorés ont été collectés pou
 
 ####### Figure: {#fig:virtualaquarium5 .wide}
 
-![](images/virtualaquarium-screenshot5.png){#fig:virtualaquarium-activity5 width=90%}
+![](images/virtualaquarium-screenshot5.png){#fig:virtualaquarium-activity5}
 
 Caption: Résultats de l'expérience sur le *Virtual Aquarium*.
 
@@ -172,11 +172,11 @@ Caractéristiques du système :
 * **Engagement émotionnel :** Le système doit être capable de fournir des feedbacks émotionnellement engageants (e.g., utilisation de la ludification), permettre d'administrer des punitions et des récompenses.
 * **Feedback ambiant :**  Le système doit se confondre dans l'environnement et il doit être capable de fournir des informations de façon périphérique (i.e. sans demander l'attention focale de l'utilisateur).
 -->
-#### Conception
+##### Conception
 
 ####### Figure: {#fig:monalisa1 .wide}
 
-![](images/monalisa-screenshot1.png){#fig:monalisa1-architecture width=90%}
+![](images/monalisa-screenshot1.png){#fig:monalisa1-architecture}
 
 Caption: Architecture de *Mona Lisa Bookshelf* 
 
@@ -188,13 +188,13 @@ Architecture du système (voir Figure [#fig:monalisa1]) :
 
 ####### Figure: {#fig:monalisa2 .wide}
 
-![](images/monalisa-screenshot2.png){#fig:monalisa2-screenshot width=90%}
+![](images/monalisa-screenshot2.png){#fig:monalisa2-screenshot}
 
 Caption: Conception de *Mona Lisa Bookshelf*
 
 ####### Figure: {#fig:monalisa3 .wide}
 
-![](images/monalisa-screenshot3.png){#fig:monalisa3-screenshot width=90%}
+![](images/monalisa-screenshot3.png){#fig:monalisa3-screenshot}
 
 Caption: *Mona Lisa Bookshelf* in Situ
 
@@ -237,25 +237,25 @@ Pendant la phase de codage sélectif, les auteurs ont assemblés les phénomène
 
 ####### Figure: {#fig:inair1 .wide}
 
-![](images/inair-screenshot3.png){#fig:inair-conception width=90%}
+![](images/inair-screenshot3.png){#fig:inair-conception}
 
 Caption: Prototype *inAir*
 
 ####### Figure: {#fig:inair2 .wide}
 
-![](images/inair-screenshot2.png){#fig:inair-affichage width=70%}
+![](images/inair-screenshot2.png){#fig:inair-affichage}
 
 Caption: Affichage de *inAir*
 
 ####### Figure: {#fig:inair3 .wide}
 
-![](images/inair-screenshot1.png){#fig:inair-affichage-ambiant width=90%}
+![](images/inair-screenshot1.png){#fig:inair-affichage-ambiant}
 
 Caption: Affichage ambiant de *inAir*
 
 ####### Figure: {#fig:inair4 .wide}
 
-![](images/inair-diagram.png){#fig:inair-diagram width=90%}
+![](images/inair-diagram.png){#fig:inair-diagram}
 
 Caption: Modèle diagrammatique des effets d'*inAir* sur les participants de l'expérience.
 
@@ -277,7 +277,7 @@ L'activité physique des utilisateurs est affichée par un indicateur lumineux d
 
 ####### Figure: {#fig:aulura1 .wide}
 
-![](images/Aulura-screenshot.png){#fig:aulura1-screenshot width=90%}
+![](images/Aulura-screenshot.png){#fig:aulura1-screenshot}
 
 Caption: Zones d'interaction de *Aulura*.
 
@@ -285,18 +285,18 @@ Quand l'utilisateur est dans la zone *Blend* le dispositif affiche une séquence
 
 ####### Figure: {#fig:aulura2 .wide}
 
-![](images/Aulura-screenshot2.png){#fig:aulura2-screenshot width=90%}
+![](images/Aulura-screenshot2.png){#fig:aulura2-screenshot}
 
 Caption: la zone *Details* de *Aulura*.
 
 
 ##### Étude 
 
-Afin d'évaluer l'utilisabilité, l'esthétique et l'interactivité de *Aulura*, une étude a été effectuée dans un laboratoire simulant l'environnement d'un foyer avec 16 participants (9 hommes, 7 femmes). Les participants reçurent un détecteur d'activité physique capable de communiquer avec *Aulura* qu'ils devaient porter toute la journée du test. Les participants durent choisir une couleur pour les identifier et fournir 5 images personnelles qui furent ensuite affichées par *Aulura* pendant les tests. Les tests ont durées 90 minutes et les participants ont participé à deux conditions : une avec l'affichage ambiant et l'autre sans. Dans chaque condition les participants ont du effectuer des tâches domestiques (e.g., faire une tasse de café ou lire les pages d'un magazine) pour que l'interaction avec *Aulura* soit secondaire (voir Figure [#fig:aulura2]).
+Afin d'évaluer l'utilisabilité, l'esthétique et l'interactivité de *Aulura*, une étude a été effectuée dans un laboratoire simulant l'environnement d'un foyer avec 16 participants (9 hommes, 7 femmes). Les participants reçurent un détecteur d'activité physique capable de communiquer avec *Aulura* qu'ils devaient porter toute la journée du test. Les participants durent choisir une couleur pour les identifier et fournir 5 images personnelles qui furent ensuite affichées par *Aulura* pendant les tests. Les tests ont durées 90 minutes et les participants ont participé à deux conditions : une avec l'affichage ambiant et l'autre sans. Dans chaque condition les participants ont du effectuer des tâches domestiques (e.g., faire une tasse de café ou lire les pages d'un magazine) pour que l'interaction avec *Aulura* soit secondaire (voir Figure [#fig:aulura3]).
 
-####### Figure: {#fig:aulura2 .wide}
+####### Figure: {#fig:aulura3 .wide}
 
-![](images/Aulura-screenshot1.png){#fig:aulura2-screenshot width=90%}
+![](images/Aulura-screenshot1.png){#fig:aulura3-screenshot width=90%}
 
 Caption: Un utilisateur interagit avec *Aulura* pendant le test en laboratoire
 
@@ -313,15 +313,250 @@ Les interviews furent analysées par un diagramme d'affinité.
 
 Les résultats clés donnent une première impression sur comment les utilisateurs ont expérimentés le modèle d'interaction et l'esthétique d'*Aulura*. Pratiquement tout les participants (13 sur 16 personnes) ont remarqué et compris les informations ambiantes. Par rapport à la condition sans l'affichage ambiant, les participants sont plus motivés à vérifier leurs progrès.
 
+
+#### *Shopping Lambent Device* de @kalnikaite2011nudge
+
+##### Description
+
+*Shopping Lambent Device* est un affichage ambiant, minimal, mobile et fonctionnels qui se clip sur des caddies afin d'assister les individus dans leurs choix de produits. En fessant varier le nombre de LEDs allumées sur le dispositif, *Shopping Lambent Device* fournit des informations pertinentes sur la distance parcourue par la nourriture pour arriver jusqu'au magasin. Un emoticon (heureux, neutre ou triste), présent sur le dispositif, indique le résultat de la comparaison entre la distance moyenne parcourue par les produits présents dans le caddie avec une norme sociale.
+
+##### Conception
+
+*Shopping Lambent Device*  fournit des informations pertinentes qui ne sont pas disponibles sur l'étiquette des produits telles que la distance parcourue par le produit ou s'il est organique ou non. Il utilise des effets *coups de pouce* simples et subtiles plutôt que de fournir des recommandations pour influencer le comportement des consommateurs : 1) fournit quelques informations pertinentes sur les caractéristiques d'un produit. 2) fournit une comparaison entre la distance moyenne parcourue par les produits présents dans le caddie avec une norme sociale.
+Dans ce contexte, *coups de pouce* signifie fournir des informations supplémentaires qui seront naturellement intégrées dans la prise de décision et qui, par conséquence, influenceront le comportement (voir Figure [#fig:shoppinglambent1]). 
+
+####### Figure: {#fig:shoppinglambent1 .wide}
+
+![](images/shoppinglambent-screenshot1.png){#fig:shoppinglambent1-screenshot}
+
+Caption: *Shopping Lambent Device* in Situ
+
+Pour concevoir le dispositif, .NET Gadegeteer fut utilisé. Il est composé d'une batterie connectée à module de puissance qui peut être utilisé pour recharger la batterie à travers un connecteur USB qui, par la même manière, permet de programmer le dispositif à partir d'un ordinateur. Les LEDs peuvent être programmées pour afficher un ensemble de couleurs ou pour passer progressivement d'une couleur à l'autre. Le bouton est utilisé pour fournir un moyen à l'utilisateur d'indiquer que le produit précédemment scanné à été enlevé du caddie; le scanner Code Barre est utilisé pour scanner le code barre des produits; la carte mère est utilisée pour fournir les fonctionnalites; la carte SD enregistre et références les produits dans une base de données; le capteur à ultrason active le scanner code barre quand un objet est à portée; L'écran founit un affichage TFT d'une résolution de 128 pixels de largeur sur 128 pixels de hauteur (voir Figure [#fig:shoppinglambent2], [#fig:shoppinglambent5]).
+
+####### Figure: {#fig:shoppinglambent2 .wide}
+
+![](images/shoppinglambent-screenshot2.png){#fig:shoppinglambent2-screenshot1}
+
+Caption: Conception de *Shopping Lambent Device*
+
+####### Figure: {#fig:shoppinglambent5 .wide}
+
+![](images/shoppinglambent-screenshot3.png){#fig:shoppinglambent5-screenshot2}
+
+Caption: Conception de *Shopping Lambent Device*
+
+
+
+La distance parcourue par un produit est représentée par un nombre de LEDs orange ou vertes qui s’atténuent momentanément de la gauche vers la droite à chaque fois qu'un produit est scanné. Les 5 premières LEDs indiquent que le produit est locale (e.g., Royaume-Uni); les 5 suivantes indiquent que le produit provient d'Europe (e.g., France, Espagne) et les 5 dernières indiquent que le provient d'un autre continent du monde (e.g., Afrique du Sud, Canada). La couleur orange et verte des LEDs indiquent respectivement que le produit est non organique et organique. La distance moyenne parcourue par les produits présents dans le caddie est représentée par un nombre de LEDs orange qui sont constamment allumées de gauche à droite. Le résultat de la comparaison entre la distance moyenne parcourue par les produits présents dans le caddie et la norme sociale est représenté par un émoticone disposant de 3 modes : heureux (0-9 LEDs allumées), neutre (10-12 LEDs allumées), triste (13+ LEDs allumées) (voir Figure [#fig:shoppinglambent3]).
+
+####### Figure: {#fig:shoppinglambent3 .wide}
+
+![](images/shoppinglambent-screenshot4.png){#fig:shoppinglambent3-screenshot}
+
+Caption: Exemples de situations avec *Shopping Lambent Device*
+
+
+##### Étude 
+
+Une étude a été réalisée dans un magasin (7000 m²) d'un chaîne de supermarché connue au Royaume-Uni avec 18 participants (8 femmes et 10 hommes de 23 à 65 ans). Les participants ont été recrutés par une affiche publique et proviennent d'une grande variété de professions ; libraires, enseignants, chercheurs, etc. Ils reçurent 10 £ pour participer à l'expérience. Chaque participant a du faire ses courses de 2 façons différentes : 1) en utilisant un caddie ordinaire ; et 2) en utilisant le même caddie avec *Shopping Lambent Device*. Les 2 conditions ont été comparées afin de déterminer si les coups de pouces ont influencés les participants dans leurs achats. Deux listes de 12 articles chacunes ont été générées et afin que les participants ne fassent leurs courses pour eux-même, des scénarios ont été crées. La moitié des participants ont utilisés la première liste pour la condition "coupe de pouce" et l'autre moitié à utiliser cette même liste pour la condition "ordinaire" et inversement pour la deuxième liste.
+
+##### Recueil des données 
+
+Un questionnaire de 20 questions fut rempli par les participants incluant des questions sur leur attitude envers les achats locaux et de produits organiques. Des vidéos, des images et des enregistrements sonores furent pris pour chaque test des participants. Les interactions avec *Shopping Lambent Device* furent récupérés à partir du dispositif.
+
+##### Analyse des données 
+
+Observation des enregistrements et des logs extraits du dispositif.
+
+##### Résultats de l'analyse
+
+L'effet "Coup de pouce" était plus efficace lorsque l'origine du produit était absente de l'étiquette, écrite trop petite ou indiquée trop discrètement. *Shopping Lambent Device* a permit de rendre cette information plus visible et plus saillante. Globalement *Shopping Lambent Device* influence les produits choisis par les consommateurs. Lorsque participants ont utilisés le dispositif, 72% des produits choisis ont moyennement parcourus moins de distance que les produits choisis lorsque les participants utilisaient le caddie ordinaire.
+
+#### *Classroom Sound Game* de @reis2011perception
+
+##### Description
+
+Une sondage fut conduits avec 60 enseignants d'écoles primaires et de collèges afin de découvrir si le bruit causé par les élèves bavardant est un problème. 78,3 % des enseignants consultés affirme ou affirme fortement que les élèves font beaucoup trop de bruit et que cela a un effet négatif sur l'enseignement. D'autre part, 98.% des enseignants consultés pensent que quand les élèves font beaucoup trop de bruit, il est plus difficile d'enseigner à la classe. Seulement 34.5 % des élèves consultés sont d'accord pour dire que leurs collègues font beaucoup trop de bruit en classe. Les enseignants peuvent dire aux élèves qu'ils sont trop bruyants mais ils ne savent pas  à quelle point ils sont bruyant. L'hypothèse est que si les élèves ont conscience de la quantité de bruit qu'ils génèrent alors ils seront plus calmes. Pour valider cette hypothèse, un jeu fut développé pour montrer en temps réel aux élèves la quantité de bruit générée par la classe avec l'aide d'un microphone. Plus faible est le niveau de bruit générée par la classe, plus la classe gagne de points. Le jeu affiche les ondes sonores ou le spectre des fréquences, après qu'une transformation de Fourier soit effectuée sur les données sonores. L'interface intègre également un personnage et une barre de volume. Le personnage change d'état et la barre de volume change de taille en fonction du niveau d'activité du microphone. Un vidéo projecteur fut utilisé pour que tout les élèves puissent voir les résultats du jeu.
+
+##### Conception
+
+TO DO
+
+##### Étude 
+
+TO DO
+
+##### Recueil des données 
+
+TO DO
+
+##### Analyse des données 
+
+TO DO
+
+##### Résultats de l'analyse
+
+TO DO
+
 <!--
  @fogg1998persuasive,  @fogg2003persuasive définit une triade de fonctionnalité pour la technologie persuasive. En tant qu'outils de persuasion, l'informatique fournis aux utilisateurs de nouvelles capacités leur permettant d'effectuer des tâches plus facilement voir même d'effectuer des tâches qui étaient impossibles jusqu’à présent. En tant que média de persuasion, l'informatique peut communiquer du contenu symbolique (e.g., texte, graphique de données, icônes) or sensoriel (e.g., vidéo, simulation, monde virtuel). En tant qu'acteur social de persuasion, l'informatique adopte des caractéristiques (e.g., fonctionnalité physique, émotion, communication vocale), joue des rôles (e.g., coach, animal domestique, assistant, adversaire), ou suit des dynamiques ou des règles sociales (e.g., salutation, excuse).
-les ordinateurs ayant un role fonctionnel de type outils Les utilisateurs doivent fournir des efforts afin d'adopter ces outils.
+les ordinateurs ayant un rôle fonctionnel de type outils Les utilisateurs doivent fournir des efforts afin d'adopter ces outils.
  @davis2008towards -->
-* Santé et exercices
+#### *Sémaphore* de @belley2006semaphore
 
-* Économie, commerce, marketing, sécurité, sûreté - @kalnikaite2011nudge -.
-* Éducation, apprentissage - @reis2011perception -.
-* Gestion de l'énergie - @belley2006semaphore, @belley2006coupe, @evans2009artful, @gustafsson2005power, @kyoto2005wattson, @jonsson2010watt, @ernevi2005energy, @gyllensward2006visualizing, @lagerkvist2016flower, @lagerkvist2016disappearing, \textcolor{red}{à lire} @rogers2010ambient, @kuznetsov2010upstream, @valkanova2013reveal -.
+*Sémaphore* est une Prise-témoin qui rend visible la fluctuation de la consommation d'électricité de la communauté. En fonction de la consommation d'électricité de la communauté, il change de couleur et émet une lueur bleue pendant les heures pleines, verte pendant les heures creuses et orangée en période de pointe de la consommation locale (voir Figure [#fig:semaphore1], [#fig:semaphore2], [#fig:semaphore3]).
+
+####### Figure: {#fig:semaphore1 .wide}
+
+![](images/semaphore-screenshot1.png){#fig:semaphore1-screenshot}
+
+Caption: *Sémaphore*
+
+####### Figure: {#fig:semaphore2 .wide}
+
+![](images/semaphore-screenshot2.png){#fig:semaphore2-screenshot}
+
+Caption: *Sémaphore*
+
+####### Figure: {#fig:semaphore3 .wide}
+
+![](images/semaphore-screenshot3.png){#fig:semaphore3-screenshot}
+
+Caption: *Sémaphore*
+
+#### *Coupe-veille* de @belley2006coupe
+
+Les veilles des appareils électriques peuvent représenter jusqu’à 1O% de la consommation électrique d’un logement (hors chauffage). Coupe-veille cherche à limiter ces consommations, en rendant visible la consommation d'électricité superflue et en éteignant automatiquement les équipements inutilement allumés. La multiprise est composée de modules qui gèrent indépendamment l’alimentation des appareils et les surplus de câble pour libérer le sol. Si un équipement reste en veille trop longtemps, une nappe lumineuse indique les consommations superflues. L’utilisateur est alors invité à couper l’appareil ; sinon le coupe-veille le fait automatiquement. Outre la simplification et la sécurisation des multiples branchements, une telle solution permettrait de réduire de plus de moitié les consommations bureautiques (voir Figure [#fig:coupeveille1], [#fig:coupeveille2], [#fig:coupeveille3]).
+
+
+####### Figure: {#fig:coupeveille1 .wide}
+
+![](images/coupeveille-screenshot1.png){#fig:coupeveille1-screenshot}
+
+Caption: *Coupe-veille*
+
+####### Figure: {#fig:coupeveille2 .wide}
+
+![](images/coupeveille-screenshot2.png){#fig:coupeveille2-screenshot}
+
+Caption: *Coupe-veille*
+
+####### Figure: {#fig:coupeveille3 .wide}
+
+![](images/coupeveille-screenshot3.png){#fig:coupeveille3-screenshot}
+
+Caption: *Coupe-veille*
+
+
+#### *Energymood* de @lejeune2015energymood
+
+*Energymood* est un calendrier lumineux qui permet de visualiser la consommation énergétique jour après jour. Chaque carré du calendrier représente un jour de consommation et prendra une couleur différente en fonction de l’importance de cette consommation. En appuyant sur les carrés, le détail de la consommation journalière est observable heure par heure et permet d’identifier les éventuelles surconsommations d’électricité (voir Figure [#fig:energymood1]).
+
+####### Figure: {#fig:energymood1 .wide}
+
+![](images/energymood-screenshot1.png){#fig:energymood1-screenshot}
+
+Caption: *Energymood*
+
+
+#### *Nuage Vert* de @evans2009artful
+
+##### Description & Conception 
+
+*Nuage Vert* est basé sur l'idée que les formes publiques peuvent incarner des projets écologiques et matérialiser des enjeux environnementaux pour qu'ils deviennent un sujet quotidien dans nos vies collectives. *Nuage Vert* illumine les vapeurs émissent par la centrale énergétique à charbon de Salmisaari (Helsinki, Finlande) par les animations d'un laser de couleur verte à grande puissance capable de dessiner les contours du nuage sur le nuage lui-même (voir Figure [#fig:nuagevert1]). La taille des contours du nuage dessinés est liée à la consommation d'électricité des résidents locaux. Si la consommation d'électricité des résidents locaux diminue alors le nuage dessiné grandit sinon le nuage dessiné rétrécie (voir Figure [#fig:nuagevert2]). L'installation lumineuse à l'échelle d'une ville (visible à 10 km) incarne la pollution industrielle, alerte le publique, génère des discussions et peut persuader les individus à changer leurs comportements de consommation. *Nuage Vert* joues sur l'ambiguité ; il n'offre pas un simple message moralisateur mais essaye plutôt de confronter les habitants de la ville à un spectacle évocateur et esthétique qui est ouvert à l'interprétation et qui défis les perceptions ordinaires. 
+
+####### Figure: {#fig:nuagevert1 .wide}
+
+![](images/nuagevert-screenshot1.png){#fig:nuagevert1-screenshot}
+
+Caption: *Nuage Vert* In Situ
+
+####### Figure: {#fig:nuagevert2 .wide}
+
+![](images/nuagevert-screenshot2.png){#fig:nuagevert2-screenshot}
+
+Caption: fonctionnement de *Nuage Vert*
+
+##### Expérience
+
+L'expérience eu lieu à Ruoholahti une ancienne zone industrielle reconvertis en quartier résidentiel moderne d'Helsinki, en Finlande, ou la consommation énergétique est en constante augmentation. Pendant 7 nuits du 22 au 29 Février 2008, le dispositif fut illumina les vapeurs émissent par la centrale énergétique à charbon de Salmisaari.
+
+##### Recueil des données
+
+Pour recueillir l'activité de consommation d'électricité des résidents, un dispositif Unplug! fut distribué à 4000 foyers.
+
+##### Résultats
+
+Entre 19h et 20h le vendredi 29 Février 2009, 4000 foyers ont réduits leur consommation énergétique pour un total d'énergie économisé de 800 kVA équivalent à un moulin à vent tournant pendant une heure. 
+
+
+#### *Power-Aware Cord* de @gustafsson2005power
+
+##### Description
+
+*Power-Aware Cord* est un câble électrique classique remanié pour rendre métaphoriquement visible la quantité d'énergie qui le traverse. Les actions de l'utilisateur telles que brancher ou débrancher des appareils électriques des ports de *Power-Aware Cord*, résulte immédiatement par une réponse du câble électrique donnant à l'utilisateur un feedback direct et le sentiment de voir et d'interagir avec l'électricité. La forte affordance émise par le dispositif le rend très intuitif (voir Figure [#fig:powerawarecord1]).
+
+####### Figure: {#fig:powerawarecord1 .wide}
+
+![](images/powerawarecord-screenshot1.png){#fig:powerawarecord1-screenshot}
+
+Caption: *Power-Aware Cord* In Situ
+
+##### Conception
+
+La lumière émise par *Power-Aware Cord* est obtenus par l'utilisateur d'un fil électroluminescent. Ce fils contient des couches de phosphore qui brillent avec une intense lumière bleu quand un courant alternatif est introduit dans le câble. Du à la couleur du phosphore, le câble apparaît blanc lorsqu'il n'est pas alimenté. 3 fils luminescents sont liées ensemble avec des fils de cuivre ordinaires pour conduire l'électricité. les fils sont entortillés pour améliorer la fléxibilité du câble. Toute la structure est entouré par une couche de silicone transparent. 3 microprocesseurs permettent de contrôler les segments lumineux du câble et de régler l'intensité de chacun de ces segments indépendamment (voir Figure [#fig:powerawarecord2]).
+
+####### Figure: {#fig:powerawarecord2 .wide}
+
+![](images/powerawarecord-screenshot2.png){#fig:powerawarecord2-screenshot}
+
+Caption: Conception de *Power-Aware Cord*
+
+##### Expérience
+
+Pour représenter l'intensité du courant électrique qui traverse le câble, 3 métaphores de représentation ont été évalués : lumière constante, pulsation de lumière, flux de lumière. 15 personnes (4 femmes, 11 hommes entre 15 et 55 ans) ont participées à cette expérience. Un groupes de 5 personnes fut assignées à une métaphore de représentation. 13 participants ont perçus la lumière bleu comme la représentation du courant électrique. 
+
+##### Recueil des données
+
+Utilisation d'un questionnaire.
+
+##### Résultats
+
+Les 2 personnes qui n'ont pas perçus la lumière bleu comme une représentation du courant électrique participaient à la condition "lumière constante". La lumière constante est perçus comme calme et plaisante alors que les pulsations de lumière et le flux de lumière sont perçus comme les plus informatifs. La pulsation de lumière et le flux de lumière sont perçus comme irritants à haut niveau mais généralement comme moins intrusifs et plus confortables que la lumière constante. Tout les participants sauf un étaient favorables à l'obtention d'un *Power-Aware Cord*. Quelques participants ont indiquées qu'ils n'utiliseraient pas *Power-Aware Cord* quotidiennement mais plutôt de temps en temps comme point de référence .
+
+
+#### *Flower plant* de @lagerkvist2016flower
+
+##### Description
+
+Les lampes classiques représente généralement la consommation énergétique par une information binaire du type On/Off.Cette pauvreté de l'information ne permet pas aux individus d’appréhender la quantité d’énergie consommée par la lampe et encore moins de l'habitat. *Flower plant* est une lampe qui incarne, par sa forme, la consommation énergétique de l'habitat. Plus la consommation énergétique de la maison est faible, plus *Flower plant* est fleuris.
+
+####### Figure: {#fig:flowerlamp1 .wide}
+
+![](images/flowerlamp-screenshot1.png){#fig:flowerlamp1-screenshot}
+
+Caption: *Flower plant*
+
+#### *Element* de @gyllensward2006visualizing
+
+##### Description
+
+Il est habituellement difficile de dire si un radiateur est allumé ou éteint excepté en posant la main dessus. *Element* est un radiateur fait de verre, de métal et d’assez d’ampoule pour atteindre l’efficacité d’un radiateur électrique conventionnelle. “Element” permet d'observer la consommation de puissance actuelle du radiateur à tout moment et s'adapte au changement de température de la pièce qu'il détecte par des capteurs thermiques (voir Figure [#fig:element1]). *Element* cherche à influencer les utilisateurs à réfléchir sur la consommation énergétique et cherche également à rendre ce phénomène intangible, compréhensible pour les utilisateurs. 
+
+####### Figure: {#fig:element1 .wide}
+
+![](images/element-screenshot1.png){#fig:element1-screenshot}
+
+Caption: *Element*
+
+##### Conception
+
+*Element* est construit à partir de 35 lampes qui sont attachés dans une fenêtre métallique entre deux vitres. des lampes 60-Watt ont été choisies afin d'obtenir la même chaleur qu'un radiateur électrique conventionnel (approximativement 2000 Watts). Le radiateur contient des contrôleurs et un ensemble de capteurs de chaleur internes et externes qui détermine la température. Un variateur électrique connecté à un microprocesseur contrôle l'intensité des lampes. Une roue est installée sur le coté droit du radiateur pour permettre à l'utilisateur de régler la température qui est visible numériquement sur le dessus du radiateur.
+
+##### Étude
+
+* Gestion de l'énergie -  arroyo2005waterbot, @kyoto2005wattson, @jonsson2010watt, @ernevi2005energy, @gyllensward2006visualizing, @lagerkvist2016disappearing, \textcolor{red}{à lire} @rogers2010ambient, @kuznetsov2010upstream, @valkanova2013reveal -.
+
 
 <!--
 Les technologies persuasives ambiantes sont des technologies persuasives intégrés discrètement dans l'environnement qui exercent une influence sur les individus sans nécessité leur attention focale (i.e. l'individu est délibérément et consciemment concentré sur un stimulus tout en excluant l'environnant)[@ham2010ambient].

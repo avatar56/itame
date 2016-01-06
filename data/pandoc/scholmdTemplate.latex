@@ -27,6 +27,46 @@ $for(latex-header-includes)$
 $latex-header-includes$
 $endfor$
 
+
+$if(tables)$
+\usepackage{longtable,booktabs}
+$endif$
+$if(graphics)$
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+$endif$
+$if(floats)$
+% use "caption" parameters to reproduce SIGCHI hack for caption style that got override otherwise
+\usepackage{float}
+% Override extremely conservative LaTeX float placement rules
+% (might need to be removed for "manuscript" styles)
+%  \renewcommand{\topfraction}{0.85}	% max fraction of floats at top
+% \renewcommand{\bottomfraction}{0.75}	% max fraction of floats at bottom
+% \setcounter{topnumber}{2}
+% \setcounter{bottomnumber}{2}
+% \setcounter{totalnumber}{4}
+% \setcounter{dbltopnumber}{2}    % for 2-column pages
+% \renewcommand{\dbltopfraction}{0.85}	% fit big float above 2-col. text
+% \renewcommand{\textfraction}{0.10}	% allow minimal text w. figs
+% \renewcommand{\floatpagefraction}{0.85}	% require fuller float pages
+% \renewcommand{\dblfloatpagefraction}{0.85}	% require fuller float pages
+% Encourage floats to be placed in the vacinity of where it is defined
+% (in some manuscript styles where figures are collected at the end, the 'h'
+% option might need to be removed by a separate '\floatplacement' call in the
+% 'header-includes' metadata field)
+\floatplacement{figure}{!htbp}
+% \floatplacement{scholmdAlgorithm}{!htbp}
+% \floatplacement{table}{!htbp}
+$endif$
+
+
 \begin{document}
 
 $if(title)$
@@ -51,9 +91,9 @@ $endfor$
 $if(lot)$
 \listoftables
 $endif$
-$if(lof)$
-\listoffigures
-$endif$
+%	$if(lof)$
+%	\listoffigures
+%	$endif$
 $body$
 
 $if(natbib)$

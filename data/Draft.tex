@@ -11,6 +11,39 @@
 \date{\today}
 
 
+
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% use "caption" parameters to reproduce SIGCHI hack for caption style that got override otherwise
+\usepackage{float}
+% Override extremely conservative LaTeX float placement rules
+% (might need to be removed for "manuscript" styles)
+%  \renewcommand{\topfraction}{0.85}	% max fraction of floats at top
+% \renewcommand{\bottomfraction}{0.75}	% max fraction of floats at bottom
+% \setcounter{topnumber}{2}
+% \setcounter{bottomnumber}{2}
+% \setcounter{totalnumber}{4}
+% \setcounter{dbltopnumber}{2}    % for 2-column pages
+% \renewcommand{\dbltopfraction}{0.85}	% fit big float above 2-col. text
+% \renewcommand{\textfraction}{0.10}	% allow minimal text w. figs
+% \renewcommand{\floatpagefraction}{0.85}	% require fuller float pages
+% \renewcommand{\dblfloatpagefraction}{0.85}	% require fuller float pages
+% Encourage floats to be placed in the vacinity of where it is defined
+% (in some manuscript styles where figures are collected at the end, the 'h'
+% option might need to be removed by a separate '\floatplacement' call in the
+% 'header-includes' metadata field)
+\floatplacement{figure}{!htbp}
+% \floatplacement{scholmdAlgorithm}{!htbp}
+% \floatplacement{table}{!htbp}
+
+
 \begin{document}
 
 \maketitle
@@ -19,7 +52,7 @@
 \clearpage
 \tableofcontents
 \clearpage
-\section{Contexte}\label{contexte}
+%	\section{Contexte}\label{contexte}
 
 \subsection{Le développement durable}\label{le-duxe9veloppement-durable}
 
@@ -410,7 +443,7 @@ même mourir.
 
 \begin{figure*}
 \centering
-\includegraphics[width=0.900\hsize]{images/virtualaquarium-screenshot2.png}
+\includegraphics[]{images/virtualaquarium-screenshot2.png}
 \caption{Architecture du \emph{Virtual
 Aquarium}}\label{fig:virtualaquarium1}
 \end{figure*}
@@ -474,14 +507,14 @@ Architecture du système (voir Figure~\ref{fig:virtualaquarium1}) :
 
 \begin{figure*}
 \centering
-\includegraphics[width=0.900\hsize]{images/virtualaquarium-screenshot3.png}
+\includegraphics[]{images/virtualaquarium-screenshot3.png}
 \caption{\emph{Virtual Aquarium} lorsque l'utilisateur se brosse les
 dents.}\label{fig:virtualaquarium2}
 \end{figure*}
 
 \begin{figure*}
 \centering
-\includegraphics[width=0.900\hsize]{images/virtualaquarium-screenshot4.png}
+\includegraphics[]{images/virtualaquarium-screenshot4.png}
 \caption{Un poisson dépose un œuf au fond du \emph{Virtual
 Aquarium}.}\label{fig:virtualaquarium3}
 \end{figure*}
@@ -527,7 +560,7 @@ Figure~\ref{fig:virtualaquarium5})}\label{ruxe9sultats-voir-figure}
 
 \begin{figure*}
 \centering
-\includegraphics[width=0.900\hsize]{images/virtualaquarium-screenshot5.png}
+\includegraphics[]{images/virtualaquarium-screenshot5.png}
 \caption{Résultats de l'expérience sur le \emph{Virtual
 Aquarium}.}\label{fig:virtualaquarium5}
 \end{figure*}
@@ -566,11 +599,11 @@ numérique de \emph{Mon Lisa}. Tel un puzzle, l'image change en fonction
 du positionnement des livres. Un écran plat haute qualité placé près de
 l'étagère affiche ce puzzle aux utilisateurs.
 
-\subsubsection{Conception}\label{conception-1}
+\paragraph{Conception}\label{conception-1}
 
 \begin{figure*}
 \centering
-\includegraphics[width=0.900\hsize]{images/monalisa-screenshot1.png}
+\includegraphics[]{images/monalisa-screenshot1.png}
 \caption{Architecture de \emph{Mona Lisa
 Bookshelf}}\label{fig:monalisa1}
 \end{figure*}
@@ -627,13 +660,13 @@ Architecture du système (voir Figure~\ref{fig:monalisa1}) :
 
 \begin{figure*}
 \centering
-\includegraphics[width=0.900\hsize]{images/monalisa-screenshot2.png}
+\includegraphics[]{images/monalisa-screenshot2.png}
 \caption{Conception de \emph{Mona Lisa Bookshelf}}\label{fig:monalisa2}
 \end{figure*}
 
 \begin{figure*}
 \centering
-\includegraphics[width=0.900\hsize]{images/monalisa-screenshot3.png}
+\includegraphics[]{images/monalisa-screenshot3.png}
 \caption{\emph{Mona Lisa Bookshelf} in Situ}\label{fig:monalisa3}
 \end{figure*}
 
@@ -723,25 +756,25 @@ les phénomènes.
 
 \begin{figure*}
 \centering
-\includegraphics[width=0.900\hsize]{images/inair-screenshot3.png}
+\includegraphics[]{images/inair-screenshot3.png}
 \caption{Prototype \emph{inAir}}\label{fig:inair1}
 \end{figure*}
 
 \begin{figure*}
 \centering
-\includegraphics[width=0.700\hsize]{images/inair-screenshot2.png}
+\includegraphics[]{images/inair-screenshot2.png}
 \caption{Affichage de \emph{inAir}}\label{fig:inair2}
 \end{figure*}
 
 \begin{figure*}
 \centering
-\includegraphics[width=0.900\hsize]{images/inair-screenshot1.png}
+\includegraphics[]{images/inair-screenshot1.png}
 \caption{Affichage ambiant de \emph{inAir}}\label{fig:inair3}
 \end{figure*}
 
 \begin{figure*}
 \centering
-\includegraphics[width=0.900\hsize]{images/inair-diagram.png}
+\includegraphics[]{images/inair-diagram.png}
 \caption{Modèle diagrammatique des effets d'\emph{inAir} sur les
 participants de l'expérience.}\label{fig:inair4}
 \end{figure*}
@@ -787,7 +820,7 @@ mesure qu'ils se rapprochent du dispositif.
 
 \begin{figure*}
 \centering
-\includegraphics[width=0.900\hsize]{images/Aulura-screenshot.png}
+\includegraphics[]{images/Aulura-screenshot.png}
 \caption{Zones d'interaction de \emph{Aulura}.}\label{fig:aulura1}
 \end{figure*}
 
@@ -812,7 +845,7 @@ avec ceux d'un pair.
 
 \begin{figure*}
 \centering
-\includegraphics[width=0.900\hsize]{images/Aulura-screenshot2.png}
+\includegraphics[]{images/Aulura-screenshot2.png}
 \caption{la zone \emph{Details} de \emph{Aulura}.}\label{fig:aulura2}
 \end{figure*}
 
@@ -830,13 +863,13 @@ participants ont participé à deux conditions : une avec l'affichage
 ambiant et l'autre sans. Dans chaque condition les participants ont du
 effectuer des tâches domestiques (e.g., faire une tasse de café ou lire
 les pages d'un magazine) pour que l'interaction avec \emph{Aulura} soit
-secondaire (voir Figure~\ref{fig:aulura2}).
+secondaire (voir Figure~\ref{fig:aulura3}).
 
 \begin{figure*}
 \centering
 \includegraphics[width=0.900\hsize]{images/Aulura-screenshot1.png}
 \caption{Un utilisateur interagit avec \emph{Aulura} pendant le test en
-laboratoire}\label{fig:aulura2}
+laboratoire}\label{fig:aulura3}
 \end{figure*}
 
 \paragraph{Recueil des données}\label{recueil-des-donnuxe9es-2}
@@ -863,18 +896,417 @@ personnes) ont remarqué et compris les informations ambiantes. Par
 rapport à la condition sans l'affichage ambiant, les participants sont
 plus motivés à vérifier leurs progrès.
 
+\subsubsection{\emph{Shopping Lambent Device} de
+\citet{kalnikaite2011nudge}}\label{shopping-lambent-device-de-kalnikaite2011nudge}
+
+\paragraph{Description}\label{description-4}
+
+\emph{Shopping Lambent Device} est un affichage ambiant, minimal, mobile
+et fonctionnels qui se clip sur des caddies afin d'assister les
+individus dans leurs choix de produits. En fessant varier le nombre de
+LEDs allumées sur le dispositif, \emph{Shopping Lambent Device} fournit
+des informations pertinentes sur la distance parcourue par la nourriture
+pour arriver jusqu'au magasin. Un emoticon (heureux, neutre ou triste),
+présent sur le dispositif, indique le résultat de la comparaison entre
+la distance moyenne parcourue par les produits présents dans le caddie
+avec une norme sociale.
+
+\paragraph{Conception}\label{conception-4}
+
+\emph{Shopping Lambent Device} fournit des informations pertinentes qui
+ne sont pas disponibles sur l'étiquette des produits telles que la
+distance parcourue par le produit ou s'il est organique ou non. Il
+utilise des effets \emph{coups de pouce} simples et subtiles plutôt que
+de fournir des recommandations pour influencer le comportement des
+consommateurs : 1) fournit quelques informations pertinentes sur les
+caractéristiques d'un produit. 2) fournit une comparaison entre la
+distance moyenne parcourue par les produits présents dans le caddie avec
+une norme sociale. Dans ce contexte, \emph{coups de pouce} signifie
+fournir des informations supplémentaires qui seront naturellement
+intégrées dans la prise de décision et qui, par conséquence,
+influenceront le comportement (voir Figure~\ref{fig:shoppinglambent1}).
+
+\begin{figure*}
+\centering
+\includegraphics[]{images/shoppinglambent-screenshot1.png}
+\caption{\emph{Shopping Lambent Device} in
+Situ}\label{fig:shoppinglambent1}
+\end{figure*}
+
+Pour concevoir le dispositif, .NET Gadegeteer fut utilisé. Il est
+composé d'une batterie connectée à module de puissance qui peut être
+utilisé pour recharger la batterie à travers un connecteur USB qui, par
+la même manière, permet de programmer le dispositif à partir d'un
+ordinateur. Les LEDs peuvent être programmées pour afficher un ensemble
+de couleurs ou pour passer progressivement d'une couleur à l'autre. Le
+bouton est utilisé pour fournir un moyen à l'utilisateur d'indiquer que
+le produit précédemment scanné à été enlevé du caddie; le scanner Code
+Barre est utilisé pour scanner le code barre des produits; la carte mère
+est utilisée pour fournir les fonctionnalites; la carte SD enregistre et
+références les produits dans une base de données; le capteur à ultrason
+active le scanner code barre quand un objet est à portée; L'écran founit
+un affichage TFT d'une résolution de 128 pixels de largeur sur 128
+pixels de hauteur (voir Figure~\ref{fig:shoppinglambent2},
+\ref{fig:shoppinglambent5}).
+
+\begin{figure*}
+\centering
+\includegraphics[]{images/shoppinglambent-screenshot2.png}
+\caption{Conception de \emph{Shopping Lambent
+Device}}\label{fig:shoppinglambent2}
+\end{figure*}
+
+\begin{figure*}
+\centering
+\includegraphics[]{images/shoppinglambent-screenshot3.png}
+\caption{Conception de \emph{Shopping Lambent
+Device}}\label{fig:shoppinglambent5}
+\end{figure*}
+
+La distance parcourue par un produit est représentée par un nombre de
+LEDs orange ou vertes qui s'atténuent momentanément de la gauche vers la
+droite à chaque fois qu'un produit est scanné. Les 5 premières LEDs
+indiquent que le produit est locale (e.g., Royaume-Uni); les 5 suivantes
+indiquent que le produit provient d'Europe (e.g., France, Espagne) et
+les 5 dernières indiquent que le provient d'un autre continent du monde
+(e.g., Afrique du Sud, Canada). La couleur orange et verte des LEDs
+indiquent respectivement que le produit est non organique et organique.
+La distance moyenne parcourue par les produits présents dans le caddie
+est représentée par un nombre de LEDs orange qui sont constamment
+allumées de gauche à droite. Le résultat de la comparaison entre la
+distance moyenne parcourue par les produits présents dans le caddie et
+la norme sociale est représenté par un émoticone disposant de 3 modes :
+heureux (0-9 LEDs allumées), neutre (10-12 LEDs allumées), triste (13+
+LEDs allumées) (voir Figure~\ref{fig:shoppinglambent3}).
+
+\begin{figure*}
+\centering
+\includegraphics[]{images/shoppinglambent-screenshot4.png}
+\caption{Exemples de situations avec \emph{Shopping Lambent
+Device}}\label{fig:shoppinglambent3}
+\end{figure*}
+
+\paragraph{Étude}\label{uxe9tude-4}
+
+Une étude a été réalisée dans un magasin (7000 m²) d'un chaîne de
+supermarché connue au Royaume-Uni avec 18 participants (8 femmes et 10
+hommes de 23 à 65 ans). Les participants ont été recrutés par une
+affiche publique et proviennent d'une grande variété de professions ;
+libraires, enseignants, chercheurs, etc. Ils reçurent 10 £ pour
+participer à l'expérience. Chaque participant a du faire ses courses de
+2 façons différentes : 1) en utilisant un caddie ordinaire ; et 2) en
+utilisant le même caddie avec \emph{Shopping Lambent Device}. Les 2
+conditions ont été comparées afin de déterminer si les coups de pouces
+ont influencés les participants dans leurs achats. Deux listes de 12
+articles chacunes ont été générées et afin que les participants ne
+fassent leurs courses pour eux-même, des scénarios ont été crées. La
+moitié des participants ont utilisés la première liste pour la condition
+``coupe de pouce'' et l'autre moitié à utiliser cette même liste pour la
+condition ``ordinaire'' et inversement pour la deuxième liste.
+
+\paragraph{Recueil des données}\label{recueil-des-donnuxe9es-3}
+
+Un questionnaire de 20 questions fut rempli par les participants
+incluant des questions sur leur attitude envers les achats locaux et de
+produits organiques. Des vidéos, des images et des enregistrements
+sonores furent pris pour chaque test des participants. Les interactions
+avec \emph{Shopping Lambent Device} furent récupérés à partir du
+dispositif.
+
+\paragraph{Analyse des données}\label{analyse-des-donnuxe9es-2}
+
+Observation des enregistrements et des logs extraits du dispositif.
+
+\paragraph{Résultats de l'analyse}\label{ruxe9sultats-de-lanalyse-2}
+
+L'effet ``Coup de pouce'' était plus efficace lorsque l'origine du
+produit était absente de l'étiquette, écrite trop petite ou indiquée
+trop discrètement. \emph{Shopping Lambent Device} a permit de rendre
+cette information plus visible et plus saillante. Globalement
+\emph{Shopping Lambent Device} influence les produits choisis par les
+consommateurs. Lorsque participants ont utilisés le dispositif, 72\% des
+produits choisis ont moyennement parcourus moins de distance que les
+produits choisis lorsque les participants utilisaient le caddie
+ordinaire.
+
+\subsubsection{\emph{Classroom Sound Game} de
+\citet{reis2011perception}}\label{classroom-sound-game-de-reis2011perception}
+
+\paragraph{Description}\label{description-5}
+
+Une sondage fut conduits avec 60 enseignants d'écoles primaires et de
+collèges afin de découvrir si le bruit causé par les élèves bavardant
+est un problème. 78,3 \% des enseignants consultés affirme ou affirme
+fortement que les élèves font beaucoup trop de bruit et que cela a un
+effet négatif sur l'enseignement. D'autre part, 98.\% des enseignants
+consultés pensent que quand les élèves font beaucoup trop de bruit, il
+est plus difficile d'enseigner à la classe. Seulement 34.5 \% des élèves
+consultés sont d'accord pour dire que leurs collègues font beaucoup trop
+de bruit en classe. Les enseignants peuvent dire aux élèves qu'ils sont
+trop bruyants mais ils ne savent pas à quelle point ils sont bruyant.
+L'hypothèse est que si les élèves ont conscience de la quantité de bruit
+qu'ils génèrent alors ils seront plus calmes. Pour valider cette
+hypothèse, un jeu fut développé pour montrer en temps réel aux élèves la
+quantité de bruit générée par la classe avec l'aide d'un microphone.
+Plus faible est le niveau de bruit générée par la classe, plus la classe
+gagne de points. Le jeu affiche les ondes sonores ou le spectre des
+fréquences, après qu'une transformation de Fourier soit effectuée sur
+les données sonores. L'interface intègre également un personnage et une
+barre de volume. Le personnage change d'état et la barre de volume
+change de taille en fonction du niveau d'activité du microphone. Un
+vidéo projecteur fut utilisé pour que tout les élèves puissent voir les
+résultats du jeu.
+
+\paragraph{Conception}\label{conception-5}
+
+TO DO
+
+\paragraph{Étude}\label{uxe9tude-5}
+
+TO DO
+
+\paragraph{Recueil des données}\label{recueil-des-donnuxe9es-4}
+
+TO DO
+
+\paragraph{Analyse des données}\label{analyse-des-donnuxe9es-3}
+
+TO DO
+
+\paragraph{Résultats de l'analyse}\label{ruxe9sultats-de-lanalyse-3}
+
+TO DO
+
+\subsubsection{\emph{Sémaphore} de
+\citet{belley2006semaphore}}\label{suxe9maphore-de-belley2006semaphore}
+
+\emph{Sémaphore} est une Prise-témoin qui rend visible la fluctuation de
+la consommation d'électricité de la communauté. En fonction de la
+consommation d'électricité de la communauté, il change de couleur et
+émet une lueur bleue pendant les heures pleines, verte pendant les
+heures creuses et orangée en période de pointe de la consommation locale
+(voir Figure~\ref{fig:semaphore1}, \ref{fig:semaphore2},
+\ref{fig:semaphore3}).
+
+\begin{figure*}
+\centering
+\includegraphics[]{images/semaphore-screenshot1.png}
+\caption{\emph{Sémaphore}}\label{fig:semaphore1}
+\end{figure*}
+
+\begin{figure*}
+\centering
+\includegraphics[]{images/semaphore-screenshot2.png}
+\caption{\emph{Sémaphore}}\label{fig:semaphore2}
+\end{figure*}
+
+\begin{figure*}
+\centering
+\includegraphics[]{images/semaphore-screenshot3.png}
+\caption{\emph{Sémaphore}}\label{fig:semaphore3}
+\end{figure*}
+
+\subsubsection{\emph{Coupe-veille} de
+\citet{belley2006coupe}}\label{coupe-veille-de-belley2006coupe}
+
+Les veilles des appareils électriques peuvent représenter jusqu'à 1O\%
+de la consommation électrique d'un logement (hors chauffage).
+Coupe-veille cherche à limiter ces consommations, en rendant visible la
+consommation d'électricité superflue et en éteignant automatiquement les
+équipements inutilement allumés. La multiprise est composée de modules
+qui gèrent indépendamment l'alimentation des appareils et les surplus de
+câble pour libérer le sol. Si un équipement reste en veille trop
+longtemps, une nappe lumineuse indique les consommations superflues.
+L'utilisateur est alors invité à couper l'appareil ; sinon le
+coupe-veille le fait automatiquement. Outre la simplification et la
+sécurisation des multiples branchements, une telle solution permettrait
+de réduire de plus de moitié les consommations bureautiques (voir
+Figure~\ref{fig:coupeveille1}, \ref{fig:coupeveille2},
+\ref{fig:coupeveille3}).
+
+\begin{figure*}
+\centering
+\includegraphics[]{images/coupeveille-screenshot1.png}
+\caption{\emph{Coupe-veille}}\label{fig:coupeveille1}
+\end{figure*}
+
+\begin{figure*}
+\centering
+\includegraphics[]{images/coupeveille-screenshot2.png}
+\caption{\emph{Coupe-veille}}\label{fig:coupeveille2}
+\end{figure*}
+
+\begin{figure*}
+\centering
+\includegraphics[]{images/coupeveille-screenshot3.png}
+\caption{\emph{Coupe-veille}}\label{fig:coupeveille3}
+\end{figure*}
+
+\subsubsection{\emph{Energymood} de
+\citet{lejeune2015energymood}}\label{energymood-de-lejeune2015energymood}
+
+\emph{Energymood} est un calendrier lumineux qui permet de visualiser la
+consommation énergétique jour après jour. Chaque carré du calendrier
+représente un jour de consommation et prendra une couleur différente en
+fonction de l'importance de cette consommation. En appuyant sur les
+carrés, le détail de la consommation journalière est observable heure
+par heure et permet d'identifier les éventuelles surconsommations
+d'électricité (voir Figure~\ref{fig:energymood1}).
+
+\begin{figure*}
+\centering
+\includegraphics[]{images/energymood-screenshot1.png}
+\caption{\emph{Energymood}}\label{fig:energymood1}
+\end{figure*}
+
+\subsubsection{\emph{Nuage Vert} de
+\citet{evans2009artful}}\label{nuage-vert-de-evans2009artful}
+
+\paragraph{Description \& Conception}\label{description-conception}
+
+\emph{Nuage Vert} est basé sur l'idée que les formes publiques peuvent
+incarner des projets écologiques et matérialiser des enjeux
+environnementaux pour qu'ils deviennent un sujet quotidien dans nos vies
+collectives. \emph{Nuage Vert} illumine les vapeurs émissent par la
+centrale énergétique à charbon de Salmisaari (Helsinki, Finlande) par
+les animations d'un laser de couleur verte à grande puissance capable de
+dessiner les contours du nuage sur le nuage lui-même (voir
+Figure~\ref{fig:nuagevert1}). La taille des contours du nuage dessinés
+est liée à la consommation d'électricité des résidents locaux. Si la
+consommation d'électricité des résidents locaux diminue alors le nuage
+dessiné grandit sinon le nuage dessiné rétrécie (voir
+Figure~\ref{fig:nuagevert2}). L'installation lumineuse à l'échelle d'une
+ville (visible à 10 km) incarne la pollution industrielle, alerte le
+publique, génère des discussions et peut persuader les individus à
+changer leurs comportements de consommation. \emph{Nuage Vert} joues sur
+l'ambiguité ; il n'offre pas un simple message moralisateur mais essaye
+plutôt de confronter les habitants de la ville à un spectacle évocateur
+et esthétique qui est ouvert à l'interprétation et qui défis les
+perceptions ordinaires.
+
+\begin{figure*}
+\centering
+\includegraphics[]{images/nuagevert-screenshot1.png}
+\caption{\emph{Nuage Vert} In Situ}\label{fig:nuagevert1}
+\end{figure*}
+
+\begin{figure*}
+\centering
+\includegraphics[]{images/nuagevert-screenshot2.png}
+\caption{fonctionnement de \emph{Nuage Vert}}\label{fig:nuagevert2}
+\end{figure*}
+
+\paragraph{Expérience}\label{expuxe9rience}
+
+L'expérience eu lieu à Ruoholahti une ancienne zone industrielle
+reconvertis en quartier résidentiel moderne d'Helsinki, en Finlande, ou
+la consommation énergétique est en constante augmentation. Pendant 7
+nuits du 22 au 29 Février 2008, le dispositif fut illumina les vapeurs
+émissent par la centrale énergétique à charbon de Salmisaari.
+
+\paragraph{Recueil des données}\label{recueil-des-donnuxe9es-5}
+
+Pour recueillir l'activité de consommation d'électricité des résidents,
+un dispositif Unplug! fut distribué à 4000 foyers.
+
+\paragraph{Résultats}\label{ruxe9sultats}
+
+Entre 19h et 20h le vendredi 29 Février 2009, 4000 foyers ont réduits
+leur consommation énergétique pour un total d'énergie économisé de 800
+kVA équivalent à un moulin à vent tournant pendant une heure.
+
+\subsubsection{\emph{Power-Aware Cord} de
+\citet{gustafsson2005power}}\label{power-aware-cord-de-gustafsson2005power}
+
+\paragraph{Description}\label{description-6}
+
+\emph{Power-Aware Cord} est un câble électrique classique remanié pour
+rendre métaphoriquement visible la quantité d'énergie qui le traverse.
+Les actions de l'utilisateur telles que brancher ou débrancher des
+appareils électriques des ports de \emph{Power-Aware Cord}, résulte
+immédiatement par une réponse du câble électrique donnant à
+l'utilisateur un feedback direct et le sentiment de voir et d'interagir
+avec l'électricité. La forte affordance émise par le dispositif le rend
+très intuitif (voir Figure~\ref{fig:powerawarecord1}).
+
+\begin{figure*}
+\centering
+\includegraphics[]{images/powerawarecord-screenshot1.png}
+\caption{\emph{Power-Aware Cord} In Situ}\label{fig:powerawarecord1}
+\end{figure*}
+
+\paragraph{Conception}\label{conception-6}
+
+La lumière émise par \emph{Power-Aware Cord} est obtenus par
+l'utilisateur d'un fil électroluminescent. Ce fils contient des couches
+de phosphore qui brillent avec une intense lumière bleu quand un courant
+alternatif est introduit dans le câble. Du à la couleur du phosphore, le
+câble apparaît blanc lorsqu'il n'est pas alimenté. 3 fils luminescents
+sont liées ensemble avec des fils de cuivre ordinaires pour conduire
+l'électricité. les fils sont entortillés pour améliorer la fléxibilité
+du câble. Toute la structure est entouré par une couche de silicone
+transparent. 3 microprocesseurs permettent de contrôler les segments
+lumineux du câble et de régler l'intensité de chacun de ces segments
+indépendamment (voir Figure~\ref{fig:powerawarecord2}).
+
+\begin{figure*}
+\centering
+\includegraphics[]{images/powerawarecord-screenshot2.png}
+\caption{Conception de \emph{Power-Aware
+Cord}}\label{fig:powerawarecord2}
+\end{figure*}
+
+\paragraph{Expérience}\label{expuxe9rience-1}
+
+Pour représenter l'intensité du courant électrique qui traverse le
+câble, 3 métaphores de représentation ont été évalués : lumière
+constante, pulsation de lumière, flux de lumière. 15 personnes (4
+femmes, 11 hommes entre 15 et 55 ans) ont participées à cette
+expérience. Un groupes de 5 personnes fut assignées à une métaphore de
+représentation. 13 participants ont perçus la lumière bleu comme la
+représentation du courant électrique.
+
+\paragraph{Recueil des données}\label{recueil-des-donnuxe9es-6}
+
+Utilisation d'un questionnaire.
+
+\paragraph{Résultats}\label{ruxe9sultats-1}
+
+Les 2 personnes qui n'ont pas perçus la lumière bleu comme une
+représentation du courant électrique participaient à la condition
+``lumière constante''. La lumière constante est perçus comme calme et
+plaisante alors que les pulsations de lumière et le flux de lumière sont
+perçus comme les plus informatifs. La pulsation de lumière et le flux de
+lumière sont perçus comme irritants à haut niveau mais généralement
+comme moins intrusifs et plus confortables que la lumière constante.
+Tout les participants sauf un étaient favorables à l'obtention d'un
+\emph{Power-Aware Cord}. Quelques participants ont indiquées qu'ils
+n'utiliseraient pas \emph{Power-Aware Cord} quotidiennement mais plutôt
+de temps en temps comme point de référence.
+
+\subsubsection{\emph{Flower plant} de
+\citet{lagerkvist2016flower}}\label{flower-plant-de-lagerkvist2016flower}
+
+\paragraph{Description}\label{description-7}
+
+Les lampes classiques représente généralement la consommation
+énergétique par une information binaire du type On/Off.Cette pauvreté de
+l'information ne permet pas aux individus d'appréhender la quantité
+d'énergie consommée par la lampe et encore moins de l'habitat.
+\emph{Flower plant} est une lampe qui incarne, par sa forme, la
+consommation énergétique de l'habitat. Plus la consommation énergétique
+de la maison est faible, plus \emph{Flower plant} est fleuris.
+
+\begin{figure*}
+\centering
+\includegraphics[]{images/flowerlamp-screenshot1.png}
+\caption{\emph{Flower plant}}\label{fig:flowerlamp1}
+\end{figure*}
+
 \begin{itemize}
+\itemsep1pt\parskip0pt\parsep0pt
 \item
-  Santé et exercices
-\item
-  Économie, commerce, marketing, sécurité, sûreté -
-  \citet{kalnikaite2011nudge} -.
-\item
-  Éducation, apprentissage - \citet{reis2011perception} -.
-\item
-  Gestion de l'énergie - \citet{belley2006semaphore},
-  \citet{belley2006coupe}, \citet{evans2009artful},
-  \citet{gustafsson2005power}, \citet{kyoto2005wattson},
+  Gestion de l'énergie - \citet{kyoto2005wattson},
   \citet{jonsson2010watt}, \citet{ernevi2005energy},
   \citet{gyllensward2006visualizing}, \citet{lagerkvist2016flower},
   \citet{lagerkvist2016disappearing}, \textcolor{red}{à lire}
