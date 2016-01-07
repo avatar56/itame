@@ -97,7 +97,7 @@ En 40 ans, la part de l'énergie renouvelable dans le mix énergétique est pass
 
  Une alternative à l'utilisation des appareils mobiles est d'utiliser les environnements bâtis telles les espaces publiques ou semi-publiques pour y intégrer des outils de persuasion. De cette manière, les outils de persuasion intégrés à l'environnement physique sont capables de transmettre des suggestions simples aux utilisateurs exactement au bon moment, au bon endroit et sans les ennuyer [@intille2004ubiquitous]. \textcolor{red}#{inaccessible !!!} @mathew2005using utilise cette approche qu'il appel *persuasion environnementale* dans un contexte de promotion de l'activité physique. Il propose d'animer l'escalier d'une station de métro par l'utilisation de verres translucides et d'un dispositif d'affichage d'information intégré à l'escalier. Lorsqu'un individu marche sur une des marches de l'escalier, cette marche s'illumine pour récompenser le comportement de l'individu. De cette manière, l'escalier incite les passants à prendre l'escalier et contribue à réduire l'utilisation de l'escalateur au profit de l'utilisation de l'escalier. Intégrer les technologies persuasives dans les espaces publiques permet la *persuasion incrémentale* : "La persuasion est initié par des éléments persuasifs mais le changement de comportement est le résultats d'une prise de conscience croissante par rapport à l'importance de ce changement." [@mathew2005using]. Comme l'explique @davis2008towards, une telle approche peut influencer le comportement d'individus qui initialement n'étaient pas engagés dans une démarche de changement attitudinale et/ou comportementale, et ouvre des possibilités pour l'attractivité, l'amusement, l'ambiguité, et la subtilité qui sont des qualités qui peuvent rendre un outil de persuasion intriguant plutôt qu'ennuyant.
 
- @ishii1997tangible définit l'affichage ambiant comme la représentation d'information dans l'espace par des changements subtiles de lumière, de son, ou encore par des mouvements. @wisneski1998ambient affirme que l'affichage ambiant permet de sensibiliser les utilisateurs à travers l'environnement physique, sans demander l'attention de ces derniers. Comme l'expose @davis2008towards, l'affichage ambiant semble être particulièrement adapté pour intégrer les outils de persuasion dans l'environnement physique et semble compatible avec l'idée de désennuiement et de persuasion incrémentale. @davis2008towards nomme ce sous domaine des technologies persuasives mêlant affichage ambiante et technologie persuasive, la *technologie persuasive ambiante*.
+ @ishii1997tangible définit l'affichage ambiant comme la représentation d'information dans l'espace par des mouvements et des changements subtiles de lumière, de son et d'odeur. @wisneski1998ambient affirme que l'affichage ambiant permet de sensibiliser les utilisateurs à travers l'environnement physique, sans demander l'attention de ces derniers. Comme l'expose @davis2008towards, l'affichage ambiant semble être particulièrement adapté pour intégrer les outils de persuasion dans l'environnement physique et semble compatible avec l'idée de désennuiement et de persuasion incrémentale. @davis2008towards nomme ce sous domaine des technologies persuasives mêlant affichage ambiante et technologie persuasive, la *technologie persuasive ambiante*.
 
  À la suite, certains travaux ont investi l'efficacité des feedbacks demandant des efforts cognitifs faibles telles que les changements lumineux utilisés par les affichages ambiants. Concrètement, @ham2009can présentent des évidences sur la capacité de la technologie persuasive à persuader les utilisateurs sans recevoir consciemment l'attention de ces derniers. Dans une série d'essais, des participants devaient indiquer quel appareil parmi trois appareils électro-ménager consommait la plus faible quantité d'énergie moyenne. Après chaque choix, les participants de la condition feedbacks supraliminales recevaient un feedback sur la précision de leur réponse par la présentation d'un visage souriant ou triste pendant 150 ms. Les participants de la condition feedbacks subliminales recevaient les même feedback mais seulement pendant 25 ms ce qui empêche la perception consciente de ces stimuli. Finalement, les participants de la condition sans feedback ne recevaient aucun feedback. L'expérience montre que recevoir des feedbacks subliminaux et supraliminaux mène à une meilleur évaluation de la consommation énergétique moyenne des appareils électro-ménagers que de ne pas recevoir de feebacks. Cela suggère que la technologie persuasive ambiante peut être efficace *sans recevoir consciemment l'attention des utilisateurs*.
 
@@ -217,15 +217,11 @@ Afin d'évaluer l'efficacité d'*inAir*, une étude a été effectuée sur 4 sem
 
 ##### Recueil des données 
 
-Pour comprendre les effets cognitifs et comportementaux d'*inAir*, une interview semi-structurelle fut conduite composée de 3 interviews d'une durée de 30 minutes à 1 heure chacune : 
-
-* Une interview avant l'étude pour évaluer les connaissances générales et la compréhension des participants en matière de qualité de l'air et de santé humaine ;
-* une interview entre les deux phases pour comprendre comment les participants ont intégrés *inAir* dans leur vie et pour rassembler des retours sur les changements comportementaux résultants de la visualisation des données en temps réel sur la qualité de l'air en intérieur ;
-.  et une interview après étude pour repérer des différences entre le mode utilisateur et le mode partage, et également pour discuter d'éventuelles idées de visualisation de données.
+Pour comprendre les effets cognitifs et comportementaux d'*inAir*, un entretien semi-directif fut réalisé composée de 3 entretiens d'une durée de 30 minutes à 1 heure chacune : 1) Un entretien avant l'étude pour évaluer les connaissances générales et la compréhension des participants en matière de qualité de l'air et de santé humaine; 2) un entretien entre les deux phases pour comprendre comment les participants ont intégrés *inAir* dans leur vie et pour rassembler des retours sur les changements comportementaux résultants de la visualisation des données en temps réel sur la qualité de l'air en intérieur; et 3) un entretien après étude pour repérer des différences entre le mode utilisateur et le mode partage, et également pour discuter d'éventuelles idées de visualisation de données.
 
 ##### Analyse des données 
 
-Les résultats des interviews furent analysés selon une approche théorie ancrée [@strauss1990basics]. Leur approche inclus le codage ouvert, le codage axial et le codage sélectif.
+Les résultats des entretiens furent analysés selon une approche théorie ancrée [@strauss1990basics]. Leur approche inclus un codage ouvert, un codage axial et un codage sélectif.
 
 Pendant la phase de codage ouvert, les auteurs ont identifiés des concepts codés significatifs à partir des données qui correspondent à des représentations abstraites d’événements, d'objets, d'actions, d'interactions, etc. Par exemple: 
 "*Every time factors to worsen air quality] motorcycles [/factors to worsen air quality] go up or down on the highway, it spikes. It becomes worse than normal regular spikes. I can hear them passing by.*"
@@ -303,11 +299,11 @@ Caption: Un utilisateur interagit avec *Aulura* pendant le test en laboratoire
 
 ##### Recueil des données 
 
-À chaque fin de session, des données qualitatives furent collectées par le biais d'une interview sur les différences d'utilisabilité, d'esthétique et de persuasion entre les 2 conditions en relation avec . Les questions incluaient est-ce que les utilisateurs ont remarqués et compris les informations ambiantes ; est-ce que les différentes zones d'interaction ont séduits les utilisateurs à se rapprocher du cadre et à explorer plus d'informations ; et est-ce les utilisateurs partageraient leurs informations personnelles avec leur famille et amis.
+À chaque fin de session, des données qualitatives furent collectées par le biais d'un entretien sur les différences d'utilisabilité, d'esthétique et de persuasion entre les 2 conditions en relation avec . Les questions incluaient est-ce que les utilisateurs ont remarqués et compris les informations ambiantes ; est-ce que les différentes zones d'interaction ont séduits les utilisateurs à se rapprocher du cadre et à explorer plus d'informations ; et est-ce les utilisateurs partageraient leurs informations personnelles avec leur famille et amis.
 
 ##### Analyse des données 
 
-Les interviews furent analysées par un diagramme d'affinité.
+Les résultats des entretiens furent analysées par un diagramme d'affinité.
 
 ##### Résultats de l'analyse
 
@@ -525,35 +521,106 @@ Utilisation d'un questionnaire.
 Les 2 personnes qui n'ont pas perçus la lumière bleu comme une représentation du courant électrique participaient à la condition "lumière constante". La lumière constante est perçus comme calme et plaisante alors que les pulsations de lumière et le flux de lumière sont perçus comme les plus informatifs. La pulsation de lumière et le flux de lumière sont perçus comme irritants à haut niveau mais généralement comme moins intrusifs et plus confortables que la lumière constante. Tout les participants sauf un étaient favorables à l'obtention d'un *Power-Aware Cord*. Quelques participants ont indiquées qu'ils n'utiliseraient pas *Power-Aware Cord* quotidiennement mais plutôt de temps en temps comme point de référence .
 
 
-#### *Flower plant* de @lagerkvist2016flower
+#### *Flower lamp* de @lagerkvist2016flower
 
 ##### Description
 
-Les lampes classiques représente généralement la consommation énergétique par une information binaire du type On/Off.Cette pauvreté de l'information ne permet pas aux individus d’appréhender la quantité d’énergie consommée par la lampe et encore moins de l'habitat. *Flower plant* est une lampe qui incarne, par sa forme, la consommation énergétique de l'habitat. Plus la consommation énergétique de la maison est faible, plus *Flower plant* est fleuris.
+Les lampes classiques représente généralement la consommation énergétique par une information binaire du type On/Off.Cette pauvreté de l'information ne permet pas aux individus d’appréhender la quantité d’énergie consommée par la lampe et encore moins de l'habitat. *Flower lamp* est une lampe qui incarne, par sa forme, la consommation énergétique de l'habitat. Plus la consommation énergétique de la maison est faible, plus *Flower lamp* est fleuris.
 
 ####### Figure: {#fig:flowerlamp1 .wide}
 
-![](images/flowerlamp-screenshot1.png){#fig:flowerlamp1-screenshot}
+![](images/flowerlamp-screenshot1.jpg){#fig:flowerlamp1-screenshot}
 
-Caption: *Flower plant*
+Caption: *Flower lamp*
 
 #### *Element* de @gyllensward2006visualizing
 
 ##### Description
 
-Il est habituellement difficile de dire si un radiateur est allumé ou éteint excepté en posant la main dessus. *Element* est un radiateur fait de verre, de métal et d’assez d’ampoule pour atteindre l’efficacité d’un radiateur électrique conventionnelle. “Element” permet d'observer la consommation de puissance actuelle du radiateur à tout moment et s'adapte au changement de température de la pièce qu'il détecte par des capteurs thermiques (voir Figure [#fig:element1]). *Element* cherche à influencer les utilisateurs à réfléchir sur la consommation énergétique et cherche également à rendre ce phénomène intangible, compréhensible pour les utilisateurs. 
+Il est habituellement difficile de dire si un radiateur est allumé ou éteint excepté en posant la main dessus. *Element* est un radiateur fait de verre, de métal et d’assez d’ampoule pour atteindre l’efficacité d’un radiateur électrique conventionnelle. “Element” permet d'observer la consommation de puissance actuelle du radiateur à tout moment et s'adapte au changement de température de la pièce qu'il détecte par des capteurs thermiques (voir Figure [#fig:element1]). *Element* cherche à influencer les utilisateurs à réfléchir sur la consommation énergétique et cherche également à rendre ce phénomène intangible, compréhensible pour les utilisateurs (i.e. influencer l'attitude des utilisateurs envers la consommation énergétique).
 
 ####### Figure: {#fig:element1 .wide}
 
-![](images/element-screenshot1.png){#fig:element1-screenshot}
+![](images/element-screenshot1.jpg){#fig:element1-screenshot}
 
 Caption: *Element*
 
 ##### Conception
 
-*Element* est construit à partir de 35 lampes qui sont attachés dans une fenêtre métallique entre deux vitres. des lampes 60-Watt ont été choisies afin d'obtenir la même chaleur qu'un radiateur électrique conventionnel (approximativement 2000 Watts). Le radiateur contient des contrôleurs et un ensemble de capteurs de chaleur internes et externes qui détermine la température. Un variateur électrique connecté à un microprocesseur contrôle l'intensité des lampes. Une roue est installée sur le coté droit du radiateur pour permettre à l'utilisateur de régler la température qui est visible numériquement sur le dessus du radiateur.
+*Element* est construit à partir de 35 lampes qui sont attachés à une fenêtre métallique entre deux vitres. des lampes 60-Watt ont été choisies afin d'obtenir la même chaleur qu'un radiateur électrique conventionnel (approximativement 2000 Watts). Le radiateur contient des contrôleurs et un ensemble de capteurs thermique internes et externes qui déterminent la température. Un variateur électrique connecté à un microprocesseur contrôle l'intensité des lampes. Une roue est installée sur le coté droit du radiateur pour permettre à l'utilisateur de régler la température qui est visible numériquement sur le dessus du radiateur. Lorsque le dispositif est allumé, il commence progressivement à briller et à élever la température de la pièce jusqu’à la valeur choisie par l'utilisateur. Si la température de la pièce descend soudainement ou que la température choisie est augmentée, *Element* tend à équilibrer la température en émettant plus de lumière. De cette façon, la température de la pièce est incarnée par le radiateur et les utilisateurs peuvent percevoir les conséquences des différentes activités (e.g., ouvrir une fenêtre) par les variations de lumières du radiateur.
 
 ##### Étude
+
+Afin de recueillir des feedbacks sur *Element*, le prototype à été présenté à 10 individus (étudiants de 20 à 29 ans). Dans la première phase, chaque participant a été encouragé à explorer le prototype sans aucune explication pour laisser les participants se créer leurs propres interprétations du dispositif. Dans une seconde phase, les participants ont du noter la consommation énergétique de *Element* par rapport aux autres appareils électroniques. Un radiateur ordinaire fut présenté aux participants et les participants ont du répondre à des questions relatives à la relation entre *Element* et le radiateur ordinaire.
+
+##### Recueil des données
+
+Un entretien semi-directif a été réalisé pour collecter les feedbacks des participants.
+
+##### Résultats de l'étude
+
+Très peu des participants ont interprétés *Element* comme un radiateur lorsqu'ils tournaient la roue de réglages. Apparemment, la connexion entre la chaleur et la lumière n'est pas très claire. Pourtant un radiateur conventionnel a été présentée juste avant *Element* et ils n'ont tout de même pas réussi à reconnaître *Element* comme un radiateur. Les informations fournies *Element* ont également été perçues comme indicateur de la consommation énergétique réel du radiateur (i.e. influence l'attitude des participants envers la consommation énergie). Pratiquement tout les participants ont trouvé *Element* esthétiquement plaisant et ont été intriguées et fascinées par ce dernier.
+
+#### *Energy plant* de @broms2009persuasive
+
+##### Description 
+
+*Energy plant* est un affichage ambiante qui affiche la consommation d'électricité d'un foyer sous la forme d'un arbre grandissant. Le dispositif est connecté sans fil au compteur électrique du foyer. Chaque mois, un nouveau type de graine numérique est plantée et commence à pousser à l'écran. Une consommation d'électricité modeste fait grandir la plante rapidement au contraire d'une consommation d'électricité élevée qui fait faner la plante (voir Figure [#fig:energyplant3], [#fig:energyplant4], [#fig:energyplant5]). L'idée est que *Energy plant* puisse être intégré aux fenêtres. L'inspiration pour cette conception provient de deux styles de vie : 1) Le jardinage (e.g., la fascination de faire pousser de réels plantes); et 2) le jeu. Prendre soin de *Energy plant* signifie réfléchir à sa consommation d'électricité tout en prenant plaisir à voir la plante pousser. Démarrer avec une nouvelle graine chaque mois, attire la curiosité des utilisateurs et permet d'atténuer l'effet WHOA ! De cette façon, l'utilisateur ne peut jamais être sur du type de graine qui va pousser. La graine peut, par exemple, être distribuée par l'entreprise ou par la communauté (voir Figure [#fig:energyplant1]). 
+
+####### Figure: {#fig:energyplant1 .wide}
+
+![](images/energyplant-screenshot1.jpg){#fig:energyplant1-screenshot}
+
+Caption: Différentes plantes avec *Energy plant*
+
+
+####### Figure: {#fig:energyplant3 .wide}
+
+![](images/energyplant-screenshot3.jpg){#fig:energyplant3-screenshot}
+
+Caption: *Energy plant* fleuris
+
+####### Figure: {#fig:energyplant4 .wide}
+
+![](images/energyplant-screenshot4.jpg){#fig:energyplant4-screenshot}
+
+Caption: *Energy plant* avec ses feuilles tombées.
+
+####### Figure: {#fig:energyplant5 .wide}
+
+![](images/energyplant-screenshot5.jpg){#fig:energyplant5-screenshot}
+
+Caption: *Energy plant* sans ses feuilles.
+
+*Energy plant* a deux boutons situés à l'avant; un bouton pour l'information et un bouton pour l'historique. Le bouton pour l'information rend visible ou cache des informations supplémentaires sur la consommation énergétique. Quand cette fonctionnalité est activée, elle affiche la consommation d'électricité actuelle en kW et la consommation d'électricité de ce mois en kWh. Le bouton pour l'historique permet à l'utilisateur de visualiser la plante du mois précédent. De cette façon, la consommation d'électricité des mois précédents est toujours disponibles et peut être visualiser par les utilisateurs. Si le bouton pour l'information est activé, on peut également comparer la consommation d'électricité globale et la plante des différents mois (voir Figure [#fig:energyplant2]).
+
+####### Figure: {#fig:energyplant2 .wide}
+
+![](images/energyplant-screenshot2.jpg){#fig:energyplant2-screenshot}
+
+Caption: *Energy plant* In Situ
+
+#### *Watt-lite* de @jonsson2010watt
+
+##### Description 
+
+Influencer le comportement des individus sur le lieu de travail est prometteur pour réduire la consommation d'électricité. Cela serait, à la fois, bénéfique pour l'environnement, l'industrie et, à plus grande échelle, pour la société. *Watt-lite* est un ensemble de 3 lampes torches projetant, en temps réel, des statistiques énergétiques d'une usine dans l'environnement physique de travail des employés. *Watt-lite* cherche à explorer les facteurs relatifs à l'engagement des utilisateurs dans un processus de changement altitudinale vis-à-vis de l'utilisation de l'énergie (voir Figure [#fig:wattlite1]).
+
+####### Figure: {#fig:wattlite1 .wide}
+
+![](images/wattlite-screenshot1.jpg){#fig:wattlite1-screenshot}
+
+Caption: *Watt-Lite* In Situ
+
+##### Conception
+
+La taille des rayons lumineux projetés par les lampes torches indiquent la consommation d'électricité de l'usine en se contractant ou se décontractant en fonction de la consommation énergétique journalière. La torche verte foncée projetant des rayons blancs est un compteur d'électricité temps-réel qui charge de nouvelles informations toutes les 30 secondes fournissant ainsi un feedback immédiat sur l'utilisation de l'électricité. Si le spot lumineux est petit, la consommation électrique de l'usine est faible. Si le spot lumineux est large, la consommation d'électricité de l'usine est élevée. La torche projetant des rayons bleus permet de visualiser la consommation d'électricité la plus faible de la journée. La torche projetant des rayons oranges, quand à elle, permet de visualiser la consommation d'électricité la plus élevée de la journée. En utilisant 3 torches qui brillent de couleurs différente, la consommation en temps réel peut facilement être comparée avec la consommation d'électricité minimale et maximale de la journée. Les données relatives à l'électricité sont récupérées par un lecteur d'impulsion électrique (un détecteur LED est monté sur compteur électrique d'origine de l'entreprise). Chaque flash du compteur électrique d'origine est détecté par le lecteur d'impulsion électrique et est sauvegardé sur un serveur. Les données sont collectées et sont finalement transmisses à *Watt-lite* par une connexion sans fil.
+
+Un service Web a également été développé utilisant la même métaphore de contraction et décontraction des rayons de lumière. La page d'accueil permet aux utilisateurs de comparer la consommation énergétique de chaque jour. Le service web peut être accédé par un ensemble d'ordinateur équitablement répartis dans les locaux de l'entreprise. Quand les ordinateurs ne sont pas utilisées, un écran de veille s'active et affiche les trois spots des lampes torches.
+
+#### *Waterbot* de @arroyo2005waterbot
+
+##### Description 
 
 * Gestion de l'énergie -  arroyo2005waterbot, @kyoto2005wattson, @jonsson2010watt, @ernevi2005energy, @gyllensward2006visualizing, @lagerkvist2016disappearing, \textcolor{red}{à lire} @rogers2010ambient, @kuznetsov2010upstream, @valkanova2013reveal -.
 

@@ -10,6 +10,14 @@
 \newblock {\em Serious games}.
 \newblock Viking, New York.
 
+\bibitem[Arroyo \emph{et~al.}, 2005]{arroyo2005waterbot}
+\bgroup\fonteauteurs\bgroup Arroyo\egroup\egroup{}, E.,
+  \bgroup\fonteauteurs\bgroup Bonanni\egroup\egroup{}, L. et
+  \bgroup\fonteauteurs\bgroup Selker\egroup\egroup{}, T. (2005).
+\newblock Waterbot: Exploring feedback and persuasive techniques at the sink.
+\newblock \emph{In} {\em Proceedings of the SIGCHI Conference on Human Factors
+  in Computing Systems}, CHI '05, pages 631--639, New York, NY, USA. ACM.
+
 \bibitem[Arteaga \emph{et~al.}, 2010]{arteaga2010mobile}
 \bgroup\fonteauteurs\bgroup Arteaga\egroup\egroup{}, S.~M.,
   \bgroup\fonteauteurs\bgroup Kudeki\egroup\egroup{}, M.,
@@ -84,6 +92,15 @@
   reuse.
 \newblock \emph{In} {\em Proceedings of the SIGCHI Conference on Human Factors
   in Computing Systems}, CHI '07, pages 503--512, New York, NY, USA. ACM.
+
+\bibitem[Broms \emph{et~al.}, 2009]{broms2009persuasive}
+\bgroup\fonteauteurs\bgroup Broms\egroup\egroup{}, L.,
+  \bgroup\fonteauteurs\bgroup B{\ra}ng\egroup\egroup{}, M. et
+  \bgroup\fonteauteurs\bgroup Ilstedt~Hjelm\egroup\egroup{}, S. (2009).
+\newblock Persuasive engagement: Exploiting lifestyle as a driving force to
+  promote energy-aware use patterns and behaviours.
+\newblock \emph{In} {\em Undisciplined! Design Research Society Conference
+  2008}.
 
 \bibitem[Brundtland, 1985]{Hariem1985world}
 \bgroup\fonteauteurs\bgroup Brundtland\egroup\egroup{}, G.~H. (1985).

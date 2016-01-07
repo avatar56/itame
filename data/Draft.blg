@@ -25,54 +25,58 @@ Warning--entry type for "lagerkvist2016flower" isn't style-file defined
 --line 5229 of file resources/biblio.bib
 Warning--entry type for "lagerkvist2016disappearing" isn't style-file defined
 --line 5241 of file resources/biblio.bib
+Repeated entry---line 5253 of file resources/biblio.bib
+ : @online{gyllensward2006visualizing
+ :                                   ,
+I'm skipping whatever remains of this entry
 Warning--entry type for "lejeune2015energymood" isn't style-file defined
---line 5491 of file resources/biblio.bib
-I was expecting a `,' or a `}'---line 5501 of file resources/biblio.bib
+--line 5521 of file resources/biblio.bib
+I was expecting a `,' or a `}'---line 5531 of file resources/biblio.bib
  :   
  :   note= {\url{http://www.sharingenergyinthecity.com/wp-content/uploads/2014/02/DP_Biennale-design.pdf}, visited on 2016-01-03}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
 Warning--empty journal in davis2008towards
 Warning--empty publisher in werner2008unitedpulse
-You've used 135 entries,
+You've used 137 entries,
             2038 wiz_defined-function locations,
-            1279 strings with 32465 characters,
-and the built_in function-call counts, 78507 in all, are:
-= -- 8769
-> -- 2730
-< -- 175
-+ -- 995
-- -- 955
-* -- 5568
-:= -- 14510
-add.period$ -- 491
-call.type$ -- 135
-change.case$ -- 1098
-chr.to.int$ -- 129
-cite$ -- 137
-duplicate$ -- 3073
-empty$ -- 5016
-format.name$ -- 1150
-if$ -- 16768
+            1288 strings with 32862 characters,
+and the built_in function-call counts, 79558 in all, are:
+= -- 8888
+> -- 2764
+< -- 176
++ -- 1007
+- -- 967
+* -- 5636
+:= -- 14708
+add.period$ -- 498
+call.type$ -- 137
+change.case$ -- 1114
+chr.to.int$ -- 131
+cite$ -- 139
+duplicate$ -- 3118
+empty$ -- 5087
+format.name$ -- 1164
+if$ -- 16992
 int.to.chr$ -- 7
 int.to.str$ -- 0
-missing$ -- 135
-newline$ -- 679
-num.names$ -- 459
-pop$ -- 1085
+missing$ -- 137
+newline$ -- 689
+num.names$ -- 465
+pop$ -- 1106
 preamble$ -- 1
-purify$ -- 1105
+purify$ -- 1121
 quote$ -- 0
-skip$ -- 2415
+skip$ -- 2445
 stack$ -- 0
-substring$ -- 6441
-swap$ -- 1005
-text.length$ -- 122
+substring$ -- 6521
+swap$ -- 1016
+text.length$ -- 123
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 796
+type$ -- 808
 warning$ -- 2
-while$ -- 576
+while$ -- 583
 width$ -- 0
-write$ -- 1980
-(There were 4 error messages)
+write$ -- 2008
+(There were 5 error messages)
