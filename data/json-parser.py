@@ -118,8 +118,8 @@ def generateJSON(parent, root) :
     print '%s OK !' %root
     return root_data;
 
-generateDraftJSON();
-#generateAbstractJSON();
+#generateDraftJSON();
+generateAbstractJSON();
 #generatePreambuleJSON();
 #generateDefaultJSON();
 #data = generateJSON('null',rootDir)

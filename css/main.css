@@ -714,8 +714,8 @@
 		font-style: italic;
 	}
 	p {
-	text-indent: 1%;
-	margin-top: 0.5%;
+	text-indent: 3%;
+	margin-top: 0.5em;
 	}
 /*
 	p, ul, ol, dl, table {
@@ -1959,7 +1959,7 @@
 
 			body, input, textarea, select {
 				font-size: 100.01%;
-				line-height: 100.01%;
+				line-height: 120.01%;
 			}
 
 	}
