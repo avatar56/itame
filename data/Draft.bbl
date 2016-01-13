@@ -1,0 +1,1313 @@
+\begin{thebibliography}{}
+\expandafter\ifx\csname fonteauteurs\endcsname\relax
+\def\fonteauteurs{\scshape}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}%
+    \message{You should include the url package}\fi
+
+\bibitem[Abt, 1970]{abt1970serious}
+\bgroup\fonteauteurs\bgroup Abt\egroup\egroup{}, C.~C. (1970).
+\newblock {\em Serious games}.
+\newblock Viking, New York.
+
+\bibitem[Arroyo \emph{et~al.}, 2005]{arroyo2005waterbot}
+\bgroup\fonteauteurs\bgroup Arroyo\egroup\egroup{}, E.,
+  \bgroup\fonteauteurs\bgroup Bonanni\egroup\egroup{}, L. et
+  \bgroup\fonteauteurs\bgroup Selker\egroup\egroup{}, T. (2005).
+\newblock Waterbot: Exploring feedback and persuasive techniques at the sink.
+\newblock \emph{In} {\em Proceedings of the SIGCHI Conference on Human Factors
+  in Computing Systems}, CHI '05, pages 631--639, New York, NY, USA. ACM.
+
+\bibitem[Arteaga \emph{et~al.}, 2010]{arteaga2010mobile}
+\bgroup\fonteauteurs\bgroup Arteaga\egroup\egroup{}, S.~M.,
+  \bgroup\fonteauteurs\bgroup Kudeki\egroup\egroup{}, M.,
+  \bgroup\fonteauteurs\bgroup Woodworth\egroup\egroup{}, A. et
+  \bgroup\fonteauteurs\bgroup Kurniawan\egroup\egroup{}, S. (2010).
+\newblock Mobile system to motivate teenagers' physical activity.
+\newblock \emph{In} {\em Proceedings of the 9th International Conference on
+  Interaction Design and Children}, pages 1--10. ACM.
+
+\bibitem[Belley, 2006a]{belley2006coupe}
+\bgroup\fonteauteurs\bgroup Belley\egroup\egroup{}, G. (2006a).
+\newblock Coupe-veille.
+\newblock \url{http://www.gillesbelley.fr/}, visited on 2016-01-03.
+
+\bibitem[Belley, 2006b]{belley2006semaphore}
+\bgroup\fonteauteurs\bgroup Belley\egroup\egroup{}, G. (2006b).
+\newblock Sémaphore.
+\newblock \url{http://www.gillesbelley.fr/}, visited on 2016-01-03.
+
+\bibitem[Bergmans et Shahid, 2013]{bergmans2013reducing}
+\bgroup\fonteauteurs\bgroup Bergmans\egroup\egroup{}, A. et
+  \bgroup\fonteauteurs\bgroup Shahid\egroup\egroup{}, S. (2013).
+\newblock Reducing speeding behavior in young drivers using a persuasive mobile
+  application.
+\newblock \emph{In} \bgroup\fonteauteurs\bgroup Kurosu\egroup\egroup{}, M.,
+  \'editeur :  {\em Human-Computer Interaction. Applications and Services},
+  volume 8005 de {\em Lecture Notes in Computer Science}, pages 541--550.
+  Springer Berlin Heidelberg.
+
+\bibitem[Berkovsky \emph{et~al.}, 2012]{berkovsky2012physical}
+\bgroup\fonteauteurs\bgroup Berkovsky\egroup\egroup{}, S.,
+  \bgroup\fonteauteurs\bgroup Freyne\egroup\egroup{}, J. et
+  \bgroup\fonteauteurs\bgroup Coombe\egroup\egroup{}, M. (2012).
+\newblock Physical activity motivating games: Be active and get your own
+  reward.
+\newblock {\em ACM Trans. Comput.-Hum. Interact.},
+  19(4)\string:\penalty500\relax 32:1--32:41.
+
+\bibitem[Berque \emph{et~al.}, 2011]{berque2011design}
+\bgroup\fonteauteurs\bgroup Berque\egroup\egroup{}, D.,
+  \bgroup\fonteauteurs\bgroup Burgess\egroup\egroup{}, J.,
+  \bgroup\fonteauteurs\bgroup Billingsley\egroup\egroup{}, A.,
+  \bgroup\fonteauteurs\bgroup Johnson\egroup\egroup{}, S.,
+  \bgroup\fonteauteurs\bgroup Bonebright\egroup\egroup{}, T.~L. et
+  \bgroup\fonteauteurs\bgroup Wethington\egroup\egroup{}, B. (2011).
+\newblock Design and evaluation of persuasive technology to encourage healthier
+  typing behaviors.
+\newblock \emph{In} {\em Proceedings of the 6th International Conference on
+  Persuasive Technology: Persuasive Technology and Design: Enhancing
+  Sustainability and Health}, PERSUASIVE '11, pages 9:1--9:10, New York, NY,
+  USA. ACM.
+
+\bibitem[Bhatnagar \emph{et~al.}, 2012]{bhatnagar2012biometric}
+\bgroup\fonteauteurs\bgroup Bhatnagar\egroup\egroup{}, N.,
+  \bgroup\fonteauteurs\bgroup Sinha\egroup\egroup{}, A.,
+  \bgroup\fonteauteurs\bgroup Samdaria\egroup\egroup{}, N.,
+  \bgroup\fonteauteurs\bgroup Gupta\egroup\egroup{}, A.,
+  \bgroup\fonteauteurs\bgroup Batra\egroup\egroup{}, S.,
+  \bgroup\fonteauteurs\bgroup Bhardwaj\egroup\egroup{}, M. et
+  \bgroup\fonteauteurs\bgroup Thies\egroup\egroup{}, W. (2012).
+\newblock Biometric monitoring as a persuasive technology: Ensuring patients
+  visit health centers in india’s slums.
+\newblock \emph{In} \bgroup\fonteauteurs\bgroup Bang\egroup\egroup{}, M. et
+  \bgroup\fonteauteurs\bgroup Ragnemalm\egroup\egroup{}, E., \'editeurs :  {\em
+  Persuasive Technology. Design for Health and Safety}, volume 7284 de {\em
+  Lecture Notes in Computer Science}, pages 169--180. Springer Berlin
+  Heidelberg.
+
+\bibitem[Blevis, 2007]{Blevis2007sustainable}
+\bgroup\fonteauteurs\bgroup Blevis\egroup\egroup{}, E. (2007).
+\newblock Sustainable interaction design: Invention \& disposal, renewal \&
+  reuse.
+\newblock \emph{In} {\em Proceedings of the SIGCHI Conference on Human Factors
+  in Computing Systems}, CHI '07, pages 503--512, New York, NY, USA. ACM.
+
+\bibitem[Broms \emph{et~al.}, 2009]{broms2009persuasive}
+\bgroup\fonteauteurs\bgroup Broms\egroup\egroup{}, L.,
+  \bgroup\fonteauteurs\bgroup B{\ra}ng\egroup\egroup{}, M. et
+  \bgroup\fonteauteurs\bgroup Ilstedt~Hjelm\egroup\egroup{}, S. (2009).
+\newblock Persuasive engagement: Exploiting lifestyle as a driving force to
+  promote energy-aware use patterns and behaviours.
+\newblock \emph{In} {\em Undisciplined! Design Research Society Conference
+  2008}.
+
+\bibitem[Brundtland, 1985]{Hariem1985world}
+\bgroup\fonteauteurs\bgroup Brundtland\egroup\egroup{}, G.~H. (1985).
+\newblock World commission on environment and development.
+\newblock {\em Environmental Policy and Law}, 14(1)\string:\penalty500\relax 26
+  -- 30.
+
+\bibitem[Cano \emph{et~al.}, 2015]{cano2015persuasive}
+\bgroup\fonteauteurs\bgroup Cano\egroup\egroup{}, G.,
+  \bgroup\fonteauteurs\bgroup Laurillau\egroup\egroup{}, Y. et
+  \bgroup\fonteauteurs\bgroup Calvary\egroup\egroup{}, G. (2015).
+\newblock {Persuasive Technology and Energy: critical analysis of the state of
+  the art}.
+\newblock {\em {Journal d'Interaction Personne-Système}}, {Volume 4, Numéro
+  1, Numéro Spécial : PISTIL}.
+
+\bibitem[Centieiro \emph{et~al.}, 2011]{centieiro2011location}
+\bgroup\fonteauteurs\bgroup Centieiro\egroup\egroup{}, P.,
+  \bgroup\fonteauteurs\bgroup Rom\~{a}o\egroup\egroup{}, T. et
+  \bgroup\fonteauteurs\bgroup Dias\egroup\egroup{}, A.~E. (2011).
+\newblock A location-based multiplayer mobile game to encourage
+  pro-environmental behaviours.
+\newblock \emph{In} {\em Proceedings of the 8th International Conference on
+  Advances in Computer Entertainment Technology}, ACE '11, pages 31:1--31:8,
+  New York, NY, USA. ACM.
+
+\bibitem[Centieiro \emph{et~al.}, 2012]{centieiro2012applaud}
+\bgroup\fonteauteurs\bgroup Centieiro\egroup\egroup{}, P.,
+  \bgroup\fonteauteurs\bgroup Romão\egroup\egroup{}, T. et
+  \bgroup\fonteauteurs\bgroup Dias\egroup\egroup{}, A. (2012).
+\newblock Applaud having fun: A mobile game to cheer your favourite sports
+  team.
+\newblock \emph{In} \bgroup\fonteauteurs\bgroup Nijholt\egroup\egroup{}, A.,
+  \bgroup\fonteauteurs\bgroup Romão\egroup\egroup{}, T. et
+  \bgroup\fonteauteurs\bgroup Reidsma\egroup\egroup{}, D., \'editeurs :  {\em
+  Advances in Computer Entertainment}, volume 7624 de {\em Lecture Notes in
+  Computer Science}, pages 1--16. Springer Berlin Heidelberg.
+
+\bibitem[Chang \emph{et~al.}, 2001]{chang2001lumitouch}
+\bgroup\fonteauteurs\bgroup Chang\egroup\egroup{}, A.,
+  \bgroup\fonteauteurs\bgroup Resner\egroup\egroup{}, B.,
+  \bgroup\fonteauteurs\bgroup Koerner\egroup\egroup{}, B.,
+  \bgroup\fonteauteurs\bgroup Wang\egroup\egroup{}, X. et
+  \bgroup\fonteauteurs\bgroup Ishii\egroup\egroup{}, H. (2001).
+\newblock Lumitouch: An emotional communication device.
+\newblock \emph{In} {\em CHI '01 Extended Abstracts on Human Factors in
+  Computing Systems}, CHI EA '01, pages 313--314, New York, NY, USA. ACM.
+
+\bibitem[Chang \emph{et~al.}, 2008]{chang2008playful}
+\bgroup\fonteauteurs\bgroup Chang\egroup\egroup{}, Y.-C.,
+  \bgroup\fonteauteurs\bgroup Lo\egroup\egroup{}, J.-L.,
+  \bgroup\fonteauteurs\bgroup Huang\egroup\egroup{}, C.-J.,
+  \bgroup\fonteauteurs\bgroup Hsu\egroup\egroup{}, N.-Y.,
+  \bgroup\fonteauteurs\bgroup Chu\egroup\egroup{}, H.-H.,
+  \bgroup\fonteauteurs\bgroup Wang\egroup\egroup{}, H.-Y.,
+  \bgroup\fonteauteurs\bgroup Chi\egroup\egroup{}, P.-Y. et
+  \bgroup\fonteauteurs\bgroup Hsieh\egroup\egroup{}, Y.-L. (2008).
+\newblock Playful toothbrush: Ubicomp technology for teaching tooth brushing to
+  kindergarten children.
+\newblock \emph{In} {\em Proceedings of the SIGCHI Conference on Human Factors
+  in Computing Systems}, CHI '08, pages 363--372, New York, NY, USA. ACM.
+
+\bibitem[Chittaro, 2012]{chittaro2012passengers}
+\bgroup\fonteauteurs\bgroup Chittaro\egroup\egroup{}, L. (2012).
+\newblock Passengers’ safety in aircraft evacuations: Employing serious games
+  to educate and persuade.
+\newblock \emph{In} \bgroup\fonteauteurs\bgroup Bang\egroup\egroup{}, M. et
+  \bgroup\fonteauteurs\bgroup Ragnemalm\egroup\egroup{}, E., \'editeurs :  {\em
+  Persuasive Technology. Design for Health and Safety}, volume 7284 de {\em
+  Lecture Notes in Computer Science}, pages 215--226. Springer Berlin
+  Heidelberg.
+
+\bibitem[Chiu \emph{et~al.}, 2009]{chiu2009playful}
+\bgroup\fonteauteurs\bgroup Chiu\egroup\egroup{}, M.-C.,
+  \bgroup\fonteauteurs\bgroup Chang\egroup\egroup{}, S.-P.,
+  \bgroup\fonteauteurs\bgroup Chang\egroup\egroup{}, Y.-C.,
+  \bgroup\fonteauteurs\bgroup Chu\egroup\egroup{}, H.-H.,
+  \bgroup\fonteauteurs\bgroup Chen\egroup\egroup{}, C. C.-H.,
+  \bgroup\fonteauteurs\bgroup Hsiao\egroup\egroup{}, F.-H. et
+  \bgroup\fonteauteurs\bgroup Ko\egroup\egroup{}, J.-C. (2009).
+\newblock Playful bottle: A mobile social persuasion system to motivate healthy
+  water intake.
+\newblock \emph{In} {\em Proceedings of the 11th International Conference on
+  Ubiquitous Computing}, UbiComp '09, pages 185--194, New York, NY, USA. ACM.
+
+\bibitem[Cialdini, 2004]{cialdini2004influence}
+\bgroup\fonteauteurs\bgroup Cialdini\egroup\egroup{}, R. (2004).
+\newblock Influence et manipulation: Comprendre et ma{\^\i}triser les
+  m{\'e}canismes et les techniques de persuasion.
+\newblock {\em First Edition}.
+
+\bibitem[Consolvo \emph{et~al.}, 2008a]{consolvo2008flowers}
+\bgroup\fonteauteurs\bgroup Consolvo\egroup\egroup{}, S.,
+  \bgroup\fonteauteurs\bgroup Klasnja\egroup\egroup{}, P.,
+  \bgroup\fonteauteurs\bgroup McDonald\egroup\egroup{}, D.~W.,
+  \bgroup\fonteauteurs\bgroup Avrahami\egroup\egroup{}, D.,
+  \bgroup\fonteauteurs\bgroup Froehlich\egroup\egroup{}, J.,
+  \bgroup\fonteauteurs\bgroup LeGrand\egroup\egroup{}, L.,
+  \bgroup\fonteauteurs\bgroup Libby\egroup\egroup{}, R.,
+  \bgroup\fonteauteurs\bgroup Mosher\egroup\egroup{}, K. et
+  \bgroup\fonteauteurs\bgroup Landay\egroup\egroup{}, J.~A. (2008a).
+\newblock Flowers or a robot army?: Encouraging awareness \& activity with
+  personal, mobile displays.
+\newblock \emph{In} {\em Proceedings of the 10th International Conference on
+  Ubiquitous Computing}, UbiComp '08, pages 54--63, New York, NY, USA. ACM.
+
+\bibitem[Consolvo \emph{et~al.}, 2008b]{consolvo2008activity}
+\bgroup\fonteauteurs\bgroup Consolvo\egroup\egroup{}, S.,
+  \bgroup\fonteauteurs\bgroup McDonald\egroup\egroup{}, D.~W.,
+  \bgroup\fonteauteurs\bgroup Toscos\egroup\egroup{}, T.,
+  \bgroup\fonteauteurs\bgroup Chen\egroup\egroup{}, M.~Y.,
+  \bgroup\fonteauteurs\bgroup Froehlich\egroup\egroup{}, J.,
+  \bgroup\fonteauteurs\bgroup Harrison\egroup\egroup{}, B.,
+  \bgroup\fonteauteurs\bgroup Klasnja\egroup\egroup{}, P.,
+  \bgroup\fonteauteurs\bgroup LaMarca\egroup\egroup{}, A.,
+  \bgroup\fonteauteurs\bgroup LeGrand\egroup\egroup{}, L.,
+  \bgroup\fonteauteurs\bgroup Libby\egroup\egroup{}, R.,
+  \bgroup\fonteauteurs\bgroup Smith\egroup\egroup{}, I. et
+  \bgroup\fonteauteurs\bgroup Landay\egroup\egroup{}, J.~A. (2008b).
+\newblock Activity sensing in the wild: A field trial of ubifit garden.
+\newblock \emph{In} {\em Proceedings of the SIGCHI Conference on Human Factors
+  in Computing Systems}, CHI '08, pages 1797--1806, New York, NY, USA. ACM.
+
+\bibitem[Costanza \emph{et~al.}, 2012]{costanza2012understanding}
+\bgroup\fonteauteurs\bgroup Costanza\egroup\egroup{}, E.,
+  \bgroup\fonteauteurs\bgroup Ramchurn\egroup\egroup{}, S.~D. et
+  \bgroup\fonteauteurs\bgroup Jennings\egroup\egroup{}, N.~R. (2012).
+\newblock Understanding domestic energy consumption through interactive
+  visualisation: A field study.
+\newblock \emph{In} {\em Proceedings of the 2012 ACM Conference on Ubiquitous
+  Computing}, UbiComp '12, pages 216--225, New York, NY, USA. ACM.
+
+\bibitem[Couture \emph{et~al.}, 2008]{couture2008geotui}
+\bgroup\fonteauteurs\bgroup Couture\egroup\egroup{}, N.,
+  \bgroup\fonteauteurs\bgroup Rivi\`{e}re\egroup\egroup{}, G. et
+  \bgroup\fonteauteurs\bgroup Reuter\egroup\egroup{}, P. (2008).
+\newblock Geotui: A tangible user interface for geoscience.
+\newblock \emph{In} {\em Proceedings of the 2Nd International Conference on
+  Tangible and Embedded Interaction}, TEI '08, pages 89--96, New York, NY, USA.
+  ACM.
+
+\bibitem[Cugelman \emph{et~al.}, 2008]{cugelman2008website}
+\bgroup\fonteauteurs\bgroup Cugelman\egroup\egroup{}, B.,
+  \bgroup\fonteauteurs\bgroup Thelwall\egroup\egroup{}, M. et
+  \bgroup\fonteauteurs\bgroup Dawes\egroup\egroup{}, P. (2008).
+\newblock Website credibility, active trust and behavioural intent.
+\newblock \emph{In} \bgroup\fonteauteurs\bgroup Oinas-Kukkonen\egroup\egroup{},
+  H., \bgroup\fonteauteurs\bgroup Hasle\egroup\egroup{}, P.,
+  \bgroup\fonteauteurs\bgroup Harjumaa\egroup\egroup{}, M.,
+  \bgroup\fonteauteurs\bgroup Segerståhl\egroup\egroup{}, K. et
+  \bgroup\fonteauteurs\bgroup Øhrstrøm\egroup\egroup{}, P., \'editeurs :
+  {\em Persuasive Technology}, volume 5033 de {\em Lecture Notes in Computer
+  Science}, pages 47--57. Springer Berlin Heidelberg.
+
+\bibitem[Davis, 2008]{davis2008towards}
+\bgroup\fonteauteurs\bgroup Davis\egroup\egroup{}, J. (2008).
+\newblock Towards participatory design of ambient persuasive technology.
+
+\bibitem[Deborah J.~Maclnnis, 1989]{maclnnis1989information}
+\bgroup\fonteauteurs\bgroup Deborah J.~Maclnnis\egroup\egroup{}, B. J.~J.
+  (1989).
+\newblock Information processing from advertisements: Toward an integrative
+  framework.
+\newblock {\em Journal of Marketing}, 53(4)\string:\penalty500\relax 1--23.
+
+\bibitem[Deterding \emph{et~al.}, 2011]{deterding2011game}
+\bgroup\fonteauteurs\bgroup Deterding\egroup\egroup{}, S.,
+  \bgroup\fonteauteurs\bgroup Dixon\egroup\egroup{}, D.,
+  \bgroup\fonteauteurs\bgroup Khaled\egroup\egroup{}, R. et
+  \bgroup\fonteauteurs\bgroup Nacke\egroup\egroup{}, L. (2011).
+\newblock From game design elements to gamefulness: Defining "gamification".
+\newblock \emph{In} {\em Proceedings of the 15th International Academic
+  MindTrek Conference: Envisioning Future Media Environments}, MindTrek '11,
+  pages 9--15, New York, NY, USA. ACM.
+
+\bibitem[Dillon et Morris, 1996]{dillon1996user}
+\bgroup\fonteauteurs\bgroup Dillon\egroup\egroup{}, A. et
+  \bgroup\fonteauteurs\bgroup Morris\egroup\egroup{}, M.~G. (1996).
+\newblock User acceptance of new information technology: theories and models",
+  publisher = "medford, n.j.: Information today.
+\newblock {\em Annual Review of Information Science and Technology}, 14(4).
+
+\bibitem[Elsmore \emph{et~al.}, 2010]{elsmore2010neighbourhood}
+\bgroup\fonteauteurs\bgroup Elsmore\egroup\egroup{}, C.,
+  \bgroup\fonteauteurs\bgroup Wilson\egroup\egroup{}, M.~L.,
+  \bgroup\fonteauteurs\bgroup Jones\egroup\egroup{}, M. et
+  \bgroup\fonteauteurs\bgroup Eslambolchilar\egroup\egroup{}, P. (2010).
+\newblock Neighbourhood wattch-community based energy visualisation for the
+  home.
+\newblock \emph{In} {\em Nundge \& Influence Through Mobile Devices workshop
+  (NIMD)}.
+
+\bibitem[Ernevi \emph{et~al.}, 2005a]{ernevi2005energy}
+\bgroup\fonteauteurs\bgroup Ernevi\egroup\egroup{}, A.,
+  \bgroup\fonteauteurs\bgroup Jacobs\egroup\egroup{}, M.,
+  \bgroup\fonteauteurs\bgroup Maz{\'e}\egroup\egroup{}, R.,
+  \bgroup\fonteauteurs\bgroup M{\"u}ller\egroup\egroup{}, C.,
+  \bgroup\fonteauteurs\bgroup Redstr{\"o}m\egroup\egroup{}, J. et
+  \bgroup\fonteauteurs\bgroup Worbin\egroup\egroup{}, L. (2005a).
+\newblock The energy curtain: Energy awareness.
+\newblock {\em IT+ Textiles}, pages 91--96.
+
+\bibitem[Ernevi \emph{et~al.}, 2005b]{ernevi2005interactive}
+\bgroup\fonteauteurs\bgroup Ernevi\egroup\egroup{}, A.,
+  \bgroup\fonteauteurs\bgroup Redstr{\"o}m\egroup\egroup{}, J.,
+  \bgroup\fonteauteurs\bgroup Redstr{\"o}m\egroup\egroup{}, M. et
+  \bgroup\fonteauteurs\bgroup Worbin\egroup\egroup{}, L. (2005b).
+\newblock The interactive pillows.
+\newblock {\em IT+ Textiles}, pages 47--54.
+
+\bibitem[Evans \emph{et~al.}, 2009]{evans2009artful}
+\bgroup\fonteauteurs\bgroup Evans\egroup\egroup{}, H.,
+  \bgroup\fonteauteurs\bgroup Hansen\egroup\egroup{}, H. et
+  \bgroup\fonteauteurs\bgroup Hagedorn\egroup\egroup{}, J. (2009).
+\newblock Artful media: Nuage vert.
+\newblock {\em MultiMedia, IEEE}, 16(3)\string:\penalty500\relax 13--15.
+
+\bibitem[Faber \emph{et~al.}, 2011]{faber2011aulura}
+\bgroup\fonteauteurs\bgroup Faber\egroup\egroup{}, J.,
+  \bgroup\fonteauteurs\bgroup Markopoulos\egroup\egroup{}, P.,
+  \bgroup\fonteauteurs\bgroup Dadlani\egroup\egroup{}, P. et van
+  \bgroup\fonteauteurs\bgroup Halteren\egroup\egroup{}, A. (2011).
+\newblock Aulura: Engaging users with ambient persuasive technology.
+\newblock \emph{In} \bgroup\fonteauteurs\bgroup Keyson\egroup\egroup{}, D.,
+  \bgroup\fonteauteurs\bgroup Maher\egroup\egroup{}, M.,
+  \bgroup\fonteauteurs\bgroup Streitz\egroup\egroup{}, N.,
+  \bgroup\fonteauteurs\bgroup Cheok\egroup\egroup{}, A.,
+  \bgroup\fonteauteurs\bgroup Augusto\egroup\egroup{}, J.,
+  \bgroup\fonteauteurs\bgroup Wichert\egroup\egroup{}, R.,
+  \bgroup\fonteauteurs\bgroup Englebienne\egroup\egroup{}, G.,
+  \bgroup\fonteauteurs\bgroup Aghajan\egroup\egroup{}, H. et
+  \bgroup\fonteauteurs\bgroup Kröse\egroup\egroup{}, B., \'editeurs :  {\em
+  Ambient Intelligence}, volume 7040 de {\em Lecture Notes in Computer
+  Science}, pages 215--221. Springer Berlin Heidelberg.
+
+\bibitem[Fabri \emph{et~al.}, 2013]{fabri2013changing}
+\bgroup\fonteauteurs\bgroup Fabri\egroup\egroup{}, M.,
+  \bgroup\fonteauteurs\bgroup Wall\egroup\egroup{}, A. et
+  \bgroup\fonteauteurs\bgroup Trevorrow\egroup\egroup{}, P. (2013).
+\newblock Changing eating behaviors through a cooking-based website for the
+  whole family.
+\newblock \emph{In} \bgroup\fonteauteurs\bgroup Marcus\egroup\egroup{}, A.,
+  \'editeur :  {\em Design, User Experience, and Usability. User Experience in
+  Novel Technological Environments}, volume 8014 de {\em Lecture Notes in
+  Computer Science}, pages 484--493. Springer Berlin Heidelberg.
+
+\bibitem[Filonik \emph{et~al.}, 2013]{filonik2013customisable}
+\bgroup\fonteauteurs\bgroup Filonik\egroup\egroup{}, D.,
+  \bgroup\fonteauteurs\bgroup Medland\egroup\egroup{}, R.,
+  \bgroup\fonteauteurs\bgroup Foth\egroup\egroup{}, M. et
+  \bgroup\fonteauteurs\bgroup Rittenbruch\egroup\egroup{}, M. (2013).
+\newblock A customisable dashboard display for environmental performance
+  visualisations.
+\newblock \emph{In} \bgroup\fonteauteurs\bgroup Berkovsky\egroup\egroup{}, S.
+  et \bgroup\fonteauteurs\bgroup Freyne\egroup\egroup{}, J., \'editeurs :  {\em
+  Persuasive Technology}, volume 7822 de {\em Lecture Notes in Computer
+  Science}, pages 51--62. Springer Berlin Heidelberg.
+
+\bibitem[Fitzmaurice \emph{et~al.}, 1995]{fitzmaurice1995bricks}
+\bgroup\fonteauteurs\bgroup Fitzmaurice\egroup\egroup{}, G.~W.,
+  \bgroup\fonteauteurs\bgroup Ishii\egroup\egroup{}, H. et
+  \bgroup\fonteauteurs\bgroup Buxton\egroup\egroup{}, W. A.~S. (1995).
+\newblock Bricks: Laying the foundations for graspable user interfaces.
+\newblock \emph{In} {\em Proceedings of the SIGCHI Conference on Human Factors
+  in Computing Systems}, CHI '95, pages 442--449, New York, NY, USA. ACM
+  Press/Addison-Wesley Publishing Co.
+
+\bibitem[Fogg, 1998a]{fogg1998persuasive}
+\bgroup\fonteauteurs\bgroup Fogg\egroup\egroup{}, B. (1998a).
+\newblock Persuasive computers: Perspectives and research directions.
+\newblock \emph{In} {\em Proceedings of the SIGCHI Conference on Human Factors
+  in Computing Systems}, CHI '98, pages 225--232, New York, NY, USA. ACM
+  Press/Addison-Wesley Publishing Co.
+
+\bibitem[Fogg, 1998b]{fogg1998captology}
+\bgroup\fonteauteurs\bgroup Fogg\egroup\egroup{}, B.~J. (1998b).
+\newblock Captology: The study of computers as persuasive technologies.
+\newblock \emph{In} {\em CHI 98 Cconference Summary on Human Factors in
+  Computing Systems}, CHI '98, pages 385--, New York, NY, USA. ACM.
+
+\bibitem[Fogg, 2002]{fogg2002persuasive}
+\bgroup\fonteauteurs\bgroup Fogg\egroup\egroup{}, B.~J. (2002).
+\newblock Persuasive technology: Using computers to change what we think and
+  do.
+\newblock {\em Ubiquity}, 2002(December).
+
+\bibitem[Foster \emph{et~al.}, 2010a]{foster2010wattsup}
+\bgroup\fonteauteurs\bgroup Foster\egroup\egroup{}, D.,
+  \bgroup\fonteauteurs\bgroup Lawson\egroup\egroup{}, S.,
+  \bgroup\fonteauteurs\bgroup Blythe\egroup\egroup{}, M. et
+  \bgroup\fonteauteurs\bgroup Cairns\egroup\egroup{}, P. (2010a).
+\newblock Wattsup?: Motivating reductions in domestic energy consumption using
+  social networks.
+\newblock \emph{In} {\em Proceedings of the 6th Nordic Conference on
+  Human-Computer Interaction: Extending Boundaries}, NordiCHI '10, pages
+  178--187, New York, NY, USA. ACM.
+
+\bibitem[Foster \emph{et~al.}, 2010b]{foster2010motivating}
+\bgroup\fonteauteurs\bgroup Foster\egroup\egroup{}, D.,
+  \bgroup\fonteauteurs\bgroup Linehan\egroup\egroup{}, C.,
+  \bgroup\fonteauteurs\bgroup Kirman\egroup\egroup{}, B.,
+  \bgroup\fonteauteurs\bgroup Lawson\egroup\egroup{}, S. et
+  \bgroup\fonteauteurs\bgroup James\egroup\egroup{}, G. (2010b).
+\newblock Motivating physical activity at work: Using persuasive social media
+  for competitive step counting.
+\newblock \emph{In} {\em Proceedings of the 14th International Academic
+  MindTrek Conference: Envisioning Future Media Environments}, MindTrek '10,
+  pages 111--116, New York, NY, USA. ACM.
+
+\bibitem[Frei \emph{et~al.}, 2000]{frei2000curlybot}
+\bgroup\fonteauteurs\bgroup Frei\egroup\egroup{}, P.,
+  \bgroup\fonteauteurs\bgroup Su\egroup\egroup{}, V.,
+  \bgroup\fonteauteurs\bgroup Mikhak\egroup\egroup{}, B. et
+  \bgroup\fonteauteurs\bgroup Ishii\egroup\egroup{}, H. (2000).
+\newblock Curlybot: Designing a new class of computational toys.
+\newblock \emph{In} {\em Proceedings of the SIGCHI Conference on Human Factors
+  in Computing Systems}, CHI '00, pages 129--136, New York, NY, USA. ACM.
+
+\bibitem[Frey \emph{et~al.}, 2014]{frey2014teegi}
+\bgroup\fonteauteurs\bgroup Frey\egroup\egroup{}, J.,
+  \bgroup\fonteauteurs\bgroup Gervais\egroup\egroup{}, R.,
+  \bgroup\fonteauteurs\bgroup Fleck\egroup\egroup{}, S.,
+  \bgroup\fonteauteurs\bgroup Lotte\egroup\egroup{}, F. et
+  \bgroup\fonteauteurs\bgroup Hachet\egroup\egroup{}, M. (2014).
+\newblock Teegi: Tangible eeg interface.
+\newblock \emph{In} {\em Proceedings of the 27th Annual ACM Symposium on User
+  Interface Software and Technology}, UIST '14, pages 301--308, New York, NY,
+  USA. ACM.
+
+\bibitem[Gamberini \emph{et~al.}, 2012]{gamberini2012tailoring}
+\bgroup\fonteauteurs\bgroup Gamberini\egroup\egroup{}, L.,
+  \bgroup\fonteauteurs\bgroup Spagnolli\egroup\egroup{}, A.,
+  \bgroup\fonteauteurs\bgroup Corradi\egroup\egroup{}, N.,
+  \bgroup\fonteauteurs\bgroup Jacucci\egroup\egroup{}, G.,
+  \bgroup\fonteauteurs\bgroup Tusa\egroup\egroup{}, G.,
+  \bgroup\fonteauteurs\bgroup Mikkola\egroup\egroup{}, T.,
+  \bgroup\fonteauteurs\bgroup Zamboni\egroup\egroup{}, L. et
+  \bgroup\fonteauteurs\bgroup Hoggan\egroup\egroup{}, E. (2012).
+\newblock Tailoring feedback to users’ actions in a persuasive game for
+  household electricity conservation.
+\newblock \emph{In} \bgroup\fonteauteurs\bgroup Bang\egroup\egroup{}, M. et
+  \bgroup\fonteauteurs\bgroup Ragnemalm\egroup\egroup{}, E., \'editeurs :  {\em
+  Persuasive Technology. Design for Health and Safety}, volume 7284 de {\em
+  Lecture Notes in Computer Science}, pages 100--111. Springer Berlin
+  Heidelberg.
+
+\bibitem[Gasca \emph{et~al.}, 2008]{gasca2008persuasive}
+\bgroup\fonteauteurs\bgroup Gasca\egroup\egroup{}, E.,
+  \bgroup\fonteauteurs\bgroup Favela\egroup\egroup{}, J. et
+  \bgroup\fonteauteurs\bgroup Tentori\egroup\egroup{}, M. (2008).
+\newblock Persuasive virtual communities to promote a healthy lifestyle among
+  patients with chronic diseases.
+\newblock \emph{In} \bgroup\fonteauteurs\bgroup Briggs\egroup\egroup{}, R.,
+  \bgroup\fonteauteurs\bgroup Antunes\egroup\egroup{}, P.,
+  de~\bgroup\fonteauteurs\bgroup Vreede\egroup\egroup{}, G.-J. et
+  \bgroup\fonteauteurs\bgroup Read\egroup\egroup{}, A., \'editeurs :  {\em
+  Groupware: Design, Implementation, and Use}, volume 5411 de {\em Lecture
+  Notes in Computer Science}, pages 74--82. Springer Berlin Heidelberg.
+
+\bibitem[Gervais \emph{et~al.}, 2015]{gervais2015tobe}
+\bgroup\fonteauteurs\bgroup Gervais\egroup\egroup{}, R.,
+  \bgroup\fonteauteurs\bgroup Frey\egroup\egroup{}, J.,
+  \bgroup\fonteauteurs\bgroup Gay\egroup\egroup{}, A.,
+  \bgroup\fonteauteurs\bgroup Lotte\egroup\egroup{}, F.,
+  \bgroup\fonteauteurs\bgroup Hachet\egroup\egroup{}, M. \emph{et~al.} (2015).
+\newblock {TOBE:} tangible out-of-body experience.
+\newblock {\em CoRR}, abs/1511.06510.
+
+\bibitem[Goh \emph{et~al.}, 2012]{goh2012impact}
+\bgroup\fonteauteurs\bgroup Goh\egroup\egroup{}, T.-T.,
+  \bgroup\fonteauteurs\bgroup Seet\egroup\egroup{}, B.-C. et
+  \bgroup\fonteauteurs\bgroup Chen\egroup\egroup{}, N.-S. (2012).
+\newblock The impact of persuasive sms on students' self-regulated learning.
+\newblock {\em British Journal of Educational Technology},
+  43(4)\string:\penalty500\relax 624--640.
+
+\bibitem[Gustafsson et Gyllensw\"{a}rd, 2005]{gustafsson2005power}
+\bgroup\fonteauteurs\bgroup Gustafsson\egroup\egroup{}, A. et
+  \bgroup\fonteauteurs\bgroup Gyllensw\"{a}rd\egroup\egroup{}, M. (2005).
+\newblock The power-aware cord: Energy awareness through ambient information
+  display.
+\newblock \emph{In} {\em CHI '05 Extended Abstracts on Human Factors in
+  Computing Systems}, CHI EA '05, pages 1423--1426, New York, NY, USA. ACM.
+
+\bibitem[Gyllensward \emph{et~al.}, 2006]{gyllensward2006visualizing}
+\bgroup\fonteauteurs\bgroup Gyllensward\egroup\egroup{}, M.,
+  \bgroup\fonteauteurs\bgroup Gustafsson\egroup\egroup{}, A. et
+  \bgroup\fonteauteurs\bgroup Bang\egroup\egroup{}, M. (2006).
+\newblock Visualizing energy consumption of radiators.
+\newblock \emph{In} \bgroup\fonteauteurs\bgroup IJsselsteijn\egroup\egroup{},
+  W., de~\bgroup\fonteauteurs\bgroup Kort\egroup\egroup{}, Y.,
+  \bgroup\fonteauteurs\bgroup Midden\egroup\egroup{}, C.,
+  \bgroup\fonteauteurs\bgroup Eggen\egroup\egroup{}, B. et van~den
+  \bgroup\fonteauteurs\bgroup Hoven\egroup\egroup{}, E., \'editeurs :  {\em
+  Persuasive Technology}, volume 3962 de {\em Lecture Notes in Computer
+  Science}, pages 167--170. Springer Berlin Heidelberg.
+
+\bibitem[Halan \emph{et~al.}, 2010]{halan2010high}
+\bgroup\fonteauteurs\bgroup Halan\egroup\egroup{}, S.,
+  \bgroup\fonteauteurs\bgroup Rossen\egroup\egroup{}, B.,
+  \bgroup\fonteauteurs\bgroup Cendan\egroup\egroup{}, J. et
+  \bgroup\fonteauteurs\bgroup Lok\egroup\egroup{}, B. (2010).
+\newblock High score! - motivation strategies for user participation in virtual
+  human development.
+\newblock \emph{In} \bgroup\fonteauteurs\bgroup Allbeck\egroup\egroup{}, J.,
+  \bgroup\fonteauteurs\bgroup Badler\egroup\egroup{}, N.,
+  \bgroup\fonteauteurs\bgroup Bickmore\egroup\egroup{}, T.,
+  \bgroup\fonteauteurs\bgroup Pelachaud\egroup\egroup{}, C. et
+  \bgroup\fonteauteurs\bgroup Safonova\egroup\egroup{}, A., \'editeurs :  {\em
+  Intelligent Virtual Agents}, volume 6356 de {\em Lecture Notes in Computer
+  Science}, pages 482--488. Springer Berlin Heidelberg.
+
+\bibitem[Ham et Midden, 2010]{ham2010ambient}
+\bgroup\fonteauteurs\bgroup Ham\egroup\egroup{}, J. et
+  \bgroup\fonteauteurs\bgroup Midden\egroup\egroup{}, C. (2010).
+\newblock Ambient persuasive technology needs little cognitive effort: The
+  differential effects of cognitive load on lighting feedback versus factual
+  feedback.
+\newblock \emph{In} {\em Proceedings of the 5th International Conference on
+  Persuasive Technology}, PERSUASIVE'10, pages 132--142, Berlin, Heidelberg.
+  Springer-Verlag.
+
+\bibitem[Ham \emph{et~al.}, 2009]{ham2009can}
+\bgroup\fonteauteurs\bgroup Ham\egroup\egroup{}, J.,
+  \bgroup\fonteauteurs\bgroup Midden\egroup\egroup{}, C. et
+  \bgroup\fonteauteurs\bgroup Beute\egroup\egroup{}, F. (2009).
+\newblock Can ambient persuasive technology persuade unconsciously?: Using
+  subliminal feedback to influence energy consumption ratings of household
+  appliances.
+\newblock \emph{In} {\em Proceedings of the 4th International Conference on
+  Persuasive Technology}, Persuasive '09, pages 29:1--29:6, New York, NY, USA.
+  ACM.
+
+\bibitem[Hartwig et Windel, 2013]{hartwig2013safety}
+\bgroup\fonteauteurs\bgroup Hartwig\egroup\egroup{}, M. et
+  \bgroup\fonteauteurs\bgroup Windel\egroup\egroup{}, A. (2013).
+\newblock Safety and health at work through persuasive assistance systems.
+\newblock \emph{In} \bgroup\fonteauteurs\bgroup Duffy\egroup\egroup{}, V.,
+  \'editeur :  {\em Digital Human Modeling and Applications in Health, Safety,
+  Ergonomics, and Risk Management. Human Body Modeling and Ergonomics}, volume
+  8026 de {\em Lecture Notes in Computer Science}, pages 40--49. Springer
+  Berlin Heidelberg.
+
+\bibitem[Hinckley \emph{et~al.}, 1994]{hinckley1994passive}
+\bgroup\fonteauteurs\bgroup Hinckley\egroup\egroup{}, K.,
+  \bgroup\fonteauteurs\bgroup Pausch\egroup\egroup{}, R.,
+  \bgroup\fonteauteurs\bgroup Goble\egroup\egroup{}, J.~C. et
+  \bgroup\fonteauteurs\bgroup Kassell\egroup\egroup{}, N.~F. (1994).
+\newblock Passive real-world interface props for neurosurgical visualization.
+\newblock \emph{In} {\em Proceedings of the SIGCHI Conference on Human Factors
+  in Computing Systems}, CHI '94, pages 452--458, New York, NY, USA. ACM.
+
+\bibitem[Horn \emph{et~al.}, 2008]{horn2008tangible}
+\bgroup\fonteauteurs\bgroup Horn\egroup\egroup{}, M.~S.,
+  \bgroup\fonteauteurs\bgroup Solovey\egroup\egroup{}, E.~T. et
+  \bgroup\fonteauteurs\bgroup Jacob\egroup\egroup{}, R. J.~K. (2008).
+\newblock Tangible programming and informal science learning: Making tuis work
+  for museums.
+\newblock \emph{In} {\em Proceedings of the 7th International Conference on
+  Interaction Design and Children}, IDC '08, pages 194--201, New York, NY, USA.
+  ACM.
+
+\bibitem[IEA, 2015]{iea2015key}
+\bgroup\fonteauteurs\bgroup IEA\egroup\egroup{} (2015).
+\newblock {Key World Energy Statistics 2015}.
+\newblock {\em {International Energy Agency}}.
+
+\bibitem[Intille, 2004]{intille2004ubiquitous}
+\bgroup\fonteauteurs\bgroup Intille\egroup\egroup{}, S.~S. (2004).
+\newblock Ubiquitous computing technology for just-in-time motivation of
+  behavior change.
+\newblock {\em Stud Health Technol Inform}, 107(Pt 2)\string:\penalty500\relax
+  1434--7.
+
+\bibitem[Ishii, 2008]{ishii2008tangible}
+\bgroup\fonteauteurs\bgroup Ishii\egroup\egroup{}, H. (2008).
+\newblock The tangible user interface and its evolution.
+\newblock {\em Commun. ACM}, 51(6)\string:\penalty500\relax 32--36.
+
+\bibitem[Ishii et Ullmer, 1997]{ishii1997tangible}
+\bgroup\fonteauteurs\bgroup Ishii\egroup\egroup{}, H. et
+  \bgroup\fonteauteurs\bgroup Ullmer\egroup\egroup{}, B. (1997).
+\newblock Tangible bits: Towards seamless interfaces between people, bits and
+  atoms.
+\newblock \emph{In} {\em Proceedings of the ACM SIGCHI Conference on Human
+  Factors in Computing Systems}, CHI '97, pages 234--241, New York, NY, USA.
+  ACM.
+
+\bibitem[Jacob \emph{et~al.}, 2002]{jacob2002tangible}
+\bgroup\fonteauteurs\bgroup Jacob\egroup\egroup{}, R. J.~K.,
+  \bgroup\fonteauteurs\bgroup Ishii\egroup\egroup{}, H.,
+  \bgroup\fonteauteurs\bgroup Pangaro\egroup\egroup{}, G. et
+  \bgroup\fonteauteurs\bgroup Patten\egroup\egroup{}, J. (2002).
+\newblock A tangible interface for organizing information using a grid.
+\newblock \emph{In} {\em Proceedings of the SIGCHI Conference on Human Factors
+  in Computing Systems}, CHI '02, pages 339--346, New York, NY, USA. ACM.
+
+\bibitem[J\"{o}nsson \emph{et~al.}, 2010]{jonsson2010watt}
+\bgroup\fonteauteurs\bgroup J\"{o}nsson\egroup\egroup{}, L.,
+  \bgroup\fonteauteurs\bgroup Broms\egroup\egroup{}, L. et
+  \bgroup\fonteauteurs\bgroup Katzeff\egroup\egroup{}, C. (2010).
+\newblock Watt-lite: Energy statistics made tangible.
+\newblock \emph{In} {\em Proceedings of the 8th ACM Conference on Designing
+  Interactive Systems}, DIS '10, pages 240--243, New York, NY, USA. ACM.
+
+\bibitem[Jord\`{a} \emph{et~al.}, 2007]{jorda2007reactable}
+\bgroup\fonteauteurs\bgroup Jord\`{a}\egroup\egroup{}, S.,
+  \bgroup\fonteauteurs\bgroup Geiger\egroup\egroup{}, G.,
+  \bgroup\fonteauteurs\bgroup Alonso\egroup\egroup{}, M. et
+  \bgroup\fonteauteurs\bgroup Kaltenbrunner\egroup\egroup{}, M. (2007).
+\newblock The reactable: Exploring the synergy between live music performance
+  and tabletop tangible interfaces.
+\newblock \emph{In} {\em Proceedings of the 1st International Conference on
+  Tangible and Embedded Interaction}, TEI '07, pages 139--146, New York, NY,
+  USA. ACM.
+
+\bibitem[Kalnikaite \emph{et~al.}, 2011]{kalnikaite2011nudge}
+\bgroup\fonteauteurs\bgroup Kalnikaite\egroup\egroup{}, V.,
+  \bgroup\fonteauteurs\bgroup Rogers\egroup\egroup{}, Y.,
+  \bgroup\fonteauteurs\bgroup Bird\egroup\egroup{}, J.,
+  \bgroup\fonteauteurs\bgroup Villar\egroup\egroup{}, N.,
+  \bgroup\fonteauteurs\bgroup Bachour\egroup\egroup{}, K.,
+  \bgroup\fonteauteurs\bgroup Payne\egroup\egroup{}, S.,
+  \bgroup\fonteauteurs\bgroup Todd\egroup\egroup{}, P.~M.,
+  \bgroup\fonteauteurs\bgroup Sch\"{o}ning\egroup\egroup{}, J.,
+  \bgroup\fonteauteurs\bgroup Kr\"{u}ger\egroup\egroup{}, A. et
+  \bgroup\fonteauteurs\bgroup Kreitmayer\egroup\egroup{}, S. (2011).
+\newblock How to nudge in situ: Designing lambent devices to deliver salient
+  information in supermarkets.
+\newblock \emph{In} {\em Proceedings of the 13th International Conference on
+  Ubiquitous Computing}, UbiComp '11, pages 11--20, New York, NY, USA. ACM.
+
+\bibitem[Kaptein \emph{et~al.}, 2010]{kaptein2010persuasion}
+\bgroup\fonteauteurs\bgroup Kaptein\egroup\egroup{}, M.,
+  \bgroup\fonteauteurs\bgroup Markopoulos\egroup\egroup{}, P.,
+  de~\bgroup\fonteauteurs\bgroup Ruyter\egroup\egroup{}, B. et
+  \bgroup\fonteauteurs\bgroup Aarts\egroup\egroup{}, E. (2010).
+\newblock Persuasion in ambient intelligence.
+\newblock {\em Journal of Ambient Intelligence and Humanized Computing},
+  1(1)\string:\penalty500\relax 43--56.
+
+\bibitem[Kawsar \emph{et~al.}, 2005]{kawsar2005prottoy}
+\bgroup\fonteauteurs\bgroup Kawsar\egroup\egroup{}, F.,
+  \bgroup\fonteauteurs\bgroup Fujinami\egroup\egroup{}, K. et
+  \bgroup\fonteauteurs\bgroup Nakajima\egroup\egroup{}, T. (2005).
+\newblock Prottoy: A middleware for sentient environment.
+\newblock \emph{In} \bgroup\fonteauteurs\bgroup Yang\egroup\egroup{}, L.,
+  \bgroup\fonteauteurs\bgroup Amamiya\egroup\egroup{}, M.,
+  \bgroup\fonteauteurs\bgroup Liu\egroup\egroup{}, Z.,
+  \bgroup\fonteauteurs\bgroup Guo\egroup\egroup{}, M. et
+  \bgroup\fonteauteurs\bgroup Rammig\egroup\egroup{}, F., \'editeurs :  {\em
+  Embedded and Ubiquitous Computing â€“ EUC 2005}, volume 3824 de {\em
+  Lecture Notes in Computer Science}, pages 1165--1176. Springer Berlin
+  Heidelberg.
+
+\bibitem[Kehr \emph{et~al.}, 2012]{kehr2012transformational}
+\bgroup\fonteauteurs\bgroup Kehr\egroup\egroup{}, F.,
+  \bgroup\fonteauteurs\bgroup Hassenzahl\egroup\egroup{}, M.,
+  \bgroup\fonteauteurs\bgroup Laschke\egroup\egroup{}, M. et
+  \bgroup\fonteauteurs\bgroup Diefenbach\egroup\egroup{}, S. (2012).
+\newblock A transformational product to improve self-control strength: The
+  chocolate machine.
+\newblock \emph{In} {\em Proceedings of the SIGCHI Conference on Human Factors
+  in Computing Systems}, CHI '12, pages 689--694, New York, NY, USA. ACM.
+
+\bibitem[Kim et Paulos, 2010]{kim2010inair}
+\bgroup\fonteauteurs\bgroup Kim\egroup\egroup{}, S. et
+  \bgroup\fonteauteurs\bgroup Paulos\egroup\egroup{}, E. (2010).
+\newblock Inair: Sharing indoor air quality measurements and visualizations.
+\newblock \emph{In} {\em Proceedings of the SIGCHI Conference on Human Factors
+  in Computing Systems}, CHI '10, pages 1861--1870, New York, NY, USA. ACM.
+
+\bibitem[Kim \emph{et~al.}, 2010]{kim2010design}
+\bgroup\fonteauteurs\bgroup Kim\egroup\egroup{}, T.,
+  \bgroup\fonteauteurs\bgroup Hong\egroup\egroup{}, H. et
+  \bgroup\fonteauteurs\bgroup Magerko\egroup\egroup{}, B. (2010).
+\newblock Design requirements for ambient display that supports sustainable
+  lifestyle.
+\newblock \emph{In} {\em Proceedings of the 8th ACM Conference on Designing
+  Interactive Systems}, DIS '10, pages 103--112, New York, NY, USA. ACM.
+
+\bibitem[Kimura \emph{et~al.}, 2006]{kimura2006cookieflavors}
+\bgroup\fonteauteurs\bgroup Kimura\egroup\egroup{}, H.,
+  \bgroup\fonteauteurs\bgroup Tokunaga\egroup\egroup{}, E.,
+  \bgroup\fonteauteurs\bgroup Okuda\egroup\egroup{}, Y. et
+  \bgroup\fonteauteurs\bgroup Nakajima\egroup\egroup{}, T. (2006).
+\newblock Cookieflavors: Easy building blocks for wireless tangible input.
+\newblock \emph{In} {\em CHI '06 Extended Abstracts on Human Factors in
+  Computing Systems}, CHI EA '06, pages 965--970, New York, NY, USA. ACM.
+
+\bibitem[Kjeldskov \emph{et~al.}, 2012]{kjeldskov2012using}
+\bgroup\fonteauteurs\bgroup Kjeldskov\egroup\egroup{}, J.,
+  \bgroup\fonteauteurs\bgroup Skov\egroup\egroup{}, M.~B.,
+  \bgroup\fonteauteurs\bgroup Paay\egroup\egroup{}, J. et
+  \bgroup\fonteauteurs\bgroup Pathmanathan\egroup\egroup{}, R. (2012).
+\newblock Using mobile phones to support sustainability: A field study of
+  residential electricity consumption.
+\newblock \emph{In} {\em Proceedings of the SIGCHI Conference on Human Factors
+  in Computing Systems}, CHI '12, pages 2347--2356, New York, NY, USA. ACM.
+
+\bibitem[Kroes et Shahid, 2013]{kroes2013empowering}
+\bgroup\fonteauteurs\bgroup Kroes\egroup\egroup{}, L. et
+  \bgroup\fonteauteurs\bgroup Shahid\egroup\egroup{}, S. (2013).
+\newblock Empowering young adolescents to choose the healthy lifestyle: A
+  persuasive intervention using mobile phones.
+\newblock \emph{In} \bgroup\fonteauteurs\bgroup Kurosu\egroup\egroup{}, M.,
+  \'editeur :  {\em Human-Computer Interaction. Applications and Services},
+  volume 8005 de {\em Lecture Notes in Computer Science}, pages 117--126.
+  Springer Berlin Heidelberg.
+
+\bibitem[Kuznetsov et Paulos, 2010]{kuznetsov2010upstream}
+\bgroup\fonteauteurs\bgroup Kuznetsov\egroup\egroup{}, S. et
+  \bgroup\fonteauteurs\bgroup Paulos\egroup\egroup{}, E. (2010).
+\newblock Upstream: Motivating water conservation with low-cost water flow
+  sensing and persuasive displays.
+\newblock \emph{In} {\em Proceedings of the SIGCHI Conference on Human Factors
+  in Computing Systems}, CHI '10, pages 1851--1860, New York, NY, USA. ACM.
+
+\bibitem[Kyoto, 2005]{kyoto2005wattson}
+\bgroup\fonteauteurs\bgroup Kyoto\egroup\egroup{}, D. (2005).
+\newblock Wattson.
+
+\bibitem[Lacroix \emph{et~al.}, 2009]{lacroix2009understanding}
+\bgroup\fonteauteurs\bgroup Lacroix\egroup\egroup{}, J.,
+  \bgroup\fonteauteurs\bgroup Saini\egroup\egroup{}, P. et
+  \bgroup\fonteauteurs\bgroup Goris\egroup\egroup{}, A. (2009).
+\newblock Understanding user cognitions to guide the tailoring of persuasive
+  technology-based physical activity interventions.
+\newblock \emph{In} {\em Proceedings of the 4th International Conference on
+  Persuasive Technology}, Persuasive '09, pages 9:1--9:8, New York, NY, USA.
+  ACM.
+
+\bibitem[Lagerkvist \emph{et~al.}, 2016a]{lagerkvist2016disappearing}
+\bgroup\fonteauteurs\bgroup Lagerkvist\egroup\egroup{}, S., Von~der
+  \bgroup\fonteauteurs\bgroup Lancken\egroup\egroup{}, C.,
+  \bgroup\fonteauteurs\bgroup Lindgren\egroup\egroup{}, A. et
+  \bgroup\fonteauteurs\bgroup Sävström\egroup\egroup{}, K. (2016a).
+\newblock Disappearing-pattern tiles.
+\newblock \url{http://dru.tii.se/static/disappearing.htm}, visited on
+  2016-01-03.
+
+\bibitem[Lagerkvist \emph{et~al.}, 2016b]{lagerkvist2016flower}
+\bgroup\fonteauteurs\bgroup Lagerkvist\egroup\egroup{}, S., Von~der
+  \bgroup\fonteauteurs\bgroup Lancken\egroup\egroup{}, C.,
+  \bgroup\fonteauteurs\bgroup Lindgren\egroup\egroup{}, A.,
+  \bgroup\fonteauteurs\bgroup Sävström\egroup\egroup{}, K. et
+  \bgroup\fonteauteurs\bgroup Nordahl\egroup\egroup{}, G. (2016b).
+\newblock Flower lamp.
+\newblock \url{http://dru.tii.se/static/flower.htm}, visited on 2016-01-03.
+
+\bibitem[Lee \emph{et~al.}, 2011]{lee2011mining}
+\bgroup\fonteauteurs\bgroup Lee\egroup\egroup{}, M.~K.,
+  \bgroup\fonteauteurs\bgroup Kiesler\egroup\egroup{}, S. et
+  \bgroup\fonteauteurs\bgroup Forlizzi\egroup\egroup{}, J. (2011).
+\newblock Mining behavioral economics to design persuasive technology for
+  healthy choices.
+\newblock \emph{In} {\em Proceedings of the SIGCHI Conference on Human Factors
+  in Computing Systems}, CHI '11, pages 325--334, New York, NY, USA. ACM.
+
+\bibitem[Lejeune et Pennaneach, 2015]{lejeune2015energymood}
+\bgroup\fonteauteurs\bgroup Lejeune\egroup\egroup{}, A. et
+  \bgroup\fonteauteurs\bgroup Pennaneach\egroup\egroup{}, L.-A. (2015).
+\newblock Energymood.
+\newblock
+  \url{http://www.sharingenergyinthecity.com/wp-content/uploads/2014/02/DP_Biennale-design.pdf},
+  visited on 2016-01-03.
+
+\bibitem[Lim \emph{et~al.}, 2011]{lim2010pediluma}
+\bgroup\fonteauteurs\bgroup Lim\egroup\egroup{}, B.~Y.,
+  \bgroup\fonteauteurs\bgroup Shick\egroup\egroup{}, A.,
+  \bgroup\fonteauteurs\bgroup Harrison\egroup\egroup{}, C. et
+  \bgroup\fonteauteurs\bgroup Hudson\egroup\egroup{}, S.~E. (2011).
+\newblock Pediluma: Motivating physical activity through contextual information
+  and social influence.
+\newblock \emph{In} {\em Proceedings of the Fifth International Conference on
+  Tangible, Embedded, and Embodied Interaction}, TEI '11, pages 173--180, New
+  York, NY, USA. ACM.
+
+\bibitem[Looije \emph{et~al.}, 2006]{looije2006incorporating}
+\bgroup\fonteauteurs\bgroup Looije\egroup\egroup{}, R.,
+  \bgroup\fonteauteurs\bgroup Cnossen\egroup\egroup{}, F. et
+  \bgroup\fonteauteurs\bgroup Neerincx\egroup\egroup{}, M. (2006).
+\newblock Incorporating guidelines for health assistance into a socially
+  intelligent robot.
+\newblock \emph{In} {\em Robot and Human Interactive Communication, 2006. ROMAN
+  2006. The 15th IEEE International Symposium on}, pages 515--520.
+
+\bibitem[Lucero \emph{et~al.}, 2006]{lucero2006persuasive}
+\bgroup\fonteauteurs\bgroup Lucero\egroup\egroup{}, A.,
+  \bgroup\fonteauteurs\bgroup Zuloaga\egroup\egroup{}, R.,
+  \bgroup\fonteauteurs\bgroup Mota\egroup\egroup{}, S. et
+  \bgroup\fonteauteurs\bgroup Muñoz\egroup\egroup{}, F. (2006).
+\newblock Persuasive technologies in education: Improving motivation to read
+  and write for children.
+\newblock \emph{In} \bgroup\fonteauteurs\bgroup IJsselsteijn\egroup\egroup{},
+  W., de~\bgroup\fonteauteurs\bgroup Kort\egroup\egroup{}, Y.,
+  \bgroup\fonteauteurs\bgroup Midden\egroup\egroup{}, C.,
+  \bgroup\fonteauteurs\bgroup Eggen\egroup\egroup{}, B. et van~den
+  \bgroup\fonteauteurs\bgroup Hoven\egroup\egroup{}, E., \'editeurs :  {\em
+  Persuasive Technology}, volume 3962 de {\em Lecture Notes in Computer
+  Science}, pages 142--153. Springer Berlin Heidelberg.
+
+\bibitem[Mankoff \emph{et~al.}, 2007]{mankoff2007environmental}
+\bgroup\fonteauteurs\bgroup Mankoff\egroup\egroup{}, J.~C.,
+  \bgroup\fonteauteurs\bgroup Blevis\egroup\egroup{}, E.,
+  \bgroup\fonteauteurs\bgroup Borning\egroup\egroup{}, A.,
+  \bgroup\fonteauteurs\bgroup Friedman\egroup\egroup{}, B.,
+  \bgroup\fonteauteurs\bgroup Fussell\egroup\egroup{}, S.~R.,
+  \bgroup\fonteauteurs\bgroup Hasbrouck\egroup\egroup{}, J.,
+  \bgroup\fonteauteurs\bgroup Woodruff\egroup\egroup{}, A. et
+  \bgroup\fonteauteurs\bgroup Sengers\egroup\egroup{}, P. (2007).
+\newblock Environmental sustainability and interaction.
+\newblock \emph{In} {\em CHI '07 Extended Abstracts on Human Factors in
+  Computing Systems}, CHI EA '07, pages 2121--2124, New York, NY, USA. ACM.
+
+\bibitem[Mathew, 2005]{mathew2005using}
+\bgroup\fonteauteurs\bgroup Mathew\egroup\egroup{}, A.~P. (2005).
+\newblock Using the environment as an interactive interface to motivate
+  positive behavior change in a subway station.
+\newblock \emph{In} {\em CHI '05 Extended Abstracts on Human Factors in
+  Computing Systems}, CHI EA '05, pages 1637--1640, New York, NY, USA. ACM.
+
+\bibitem[Medland, 2010]{medland2010curbing}
+\bgroup\fonteauteurs\bgroup Medland\egroup\egroup{}, R. (2010).
+\newblock Curbing paper wastage using flavoured feedback.
+\newblock \emph{In} {\em Proceedings of the 22Nd Conference of the
+  Computer-Human Interaction Special Interest Group of Australia on
+  Computer-Human Interaction}, OZCHI '10, pages 224--227, New York, NY, USA.
+  ACM.
+
+\bibitem[Miranda \emph{et~al.}, 2013]{miranda2013examining}
+\bgroup\fonteauteurs\bgroup Miranda\egroup\egroup{}, B.,
+  \bgroup\fonteauteurs\bgroup Jere\egroup\egroup{}, C.,
+  \bgroup\fonteauteurs\bgroup Alharbi\egroup\egroup{}, O.,
+  \bgroup\fonteauteurs\bgroup Lakshmi\egroup\egroup{}, S.,
+  \bgroup\fonteauteurs\bgroup Khouja\egroup\egroup{}, Y. et
+  \bgroup\fonteauteurs\bgroup Chatterjee\egroup\egroup{}, S. (2013).
+\newblock Examining the efficacy of a persuasive technology package in reducing
+  texting and driving behavior.
+\newblock \emph{In} \bgroup\fonteauteurs\bgroup Berkovsky\egroup\egroup{}, S.
+  et \bgroup\fonteauteurs\bgroup Freyne\egroup\egroup{}, J., \'editeurs :  {\em
+  Persuasive Technology}, volume 7822 de {\em Lecture Notes in Computer
+  Science}, pages 137--148. Springer Berlin Heidelberg.
+
+\bibitem[Mutsuddi et Connelly, 2012]{mutsuddi2012text}
+\bgroup\fonteauteurs\bgroup Mutsuddi\egroup\egroup{}, A. et
+  \bgroup\fonteauteurs\bgroup Connelly\egroup\egroup{}, K. (2012).
+\newblock Text messages for encouraging physical activity are they effective
+  after the novelty effect wears off?
+\newblock \emph{In} {\em Pervasive Computing Technologies for Healthcare
+  (PervasiveHealth), 2012 6th International Conference on}, pages 33--40.
+
+\bibitem[Nakajima et Lehdonvirta, 2013]{nakajima2013designing}
+\bgroup\fonteauteurs\bgroup Nakajima\egroup\egroup{}, T. et
+  \bgroup\fonteauteurs\bgroup Lehdonvirta\egroup\egroup{}, V. (2013).
+\newblock Designing motivation using persuasive ambient mirrors.
+\newblock {\em Personal and ubiquitous computing},
+  17(1)\string:\penalty500\relax 107--126.
+
+\bibitem[Nakajima \emph{et~al.}, 2008]{nakajima2008reflecting}
+\bgroup\fonteauteurs\bgroup Nakajima\egroup\egroup{}, T.,
+  \bgroup\fonteauteurs\bgroup Lehdonvirta\egroup\egroup{}, V.,
+  \bgroup\fonteauteurs\bgroup Tokunaga\egroup\egroup{}, E. et
+  \bgroup\fonteauteurs\bgroup Kimura\egroup\egroup{}, H. (2008).
+\newblock Reflecting human behavior to motivate desirable lifestyle.
+\newblock \emph{In} {\em Proceedings of the 7th ACM Conference on Designing
+  Interactive Systems}, DIS '08, pages 405--414, New York, NY, USA. ACM.
+
+\bibitem[Negri et Senach, 2015]{negri2015ludo}
+\bgroup\fonteauteurs\bgroup Negri\egroup\egroup{}, A.-L. et
+  \bgroup\fonteauteurs\bgroup Senach\egroup\egroup{}, B. (2015).
+\newblock {Ludo-persuasive systems for sustainable consumption.}
+\newblock {\em {Journal d'Interaction Personne-Système}}, {Volume 4, Numéro
+  1, Numéro Spécial : PISTIL}.
+
+\bibitem[Nemery, 2012]{nemery2012development}
+\bgroup\fonteauteurs\bgroup Nemery\egroup\egroup{}, A. (2012).
+\newblock {\em {Development, validation and application of the criteria grid
+  for interactive persuasion}}.
+\newblock Theses, {Universit{\'e} de Metz}.
+
+\bibitem[Newton-Dunn \emph{et~al.}, 2003]{newton2003block}
+\bgroup\fonteauteurs\bgroup Newton-Dunn\egroup\egroup{}, H.,
+  \bgroup\fonteauteurs\bgroup Nakano\egroup\egroup{}, H. et
+  \bgroup\fonteauteurs\bgroup Gibson\egroup\egroup{}, J. (2003).
+\newblock Block jam: A tangible interface for interactive music.
+\newblock \emph{In} {\em Proceedings of the 2003 Conference on New Interfaces
+  for Musical Expression}, NIME '03, pages 170--177, Singapore, Singapore.
+  National University of Singapore.
+
+\bibitem[Oinas-Kukkonen et Harjumaa, 2009]{oinas2009persuasive}
+\bgroup\fonteauteurs\bgroup Oinas-Kukkonen\egroup\egroup{}, H. et
+  \bgroup\fonteauteurs\bgroup Harjumaa\egroup\egroup{}, M. (2009).
+\newblock Persuasive systems design: Key issues, process model, and system
+  features.
+\newblock {\em Communications of the Association for Information Systems},
+  24(1)\string:\penalty500\relax 28.
+
+\bibitem[Paay \emph{et~al.}, 2014]{paay2014design}
+\bgroup\fonteauteurs\bgroup Paay\egroup\egroup{}, J.,
+  \bgroup\fonteauteurs\bgroup Kjeldskov\egroup\egroup{}, J.,
+  \bgroup\fonteauteurs\bgroup Skov\egroup\egroup{}, M.~B.,
+  \bgroup\fonteauteurs\bgroup Lund\egroup\egroup{}, D.,
+  \bgroup\fonteauteurs\bgroup Madsen\egroup\egroup{}, T. et
+  \bgroup\fonteauteurs\bgroup Nielsen\egroup\egroup{}, M. (2014).
+\newblock Design of an appliance level eco-feedback display for domestic
+  electricity consumption.
+\newblock \emph{In} {\em Proceedings of the 26th Australian Computer-Human
+  Interaction Conference on Designing Futures: The Future of Design}, OzCHI
+  '14, pages 332--341, New York, NY, USA. ACM.
+
+\bibitem[Parmar \emph{et~al.}, 2008]{parmar2008persuasive}
+\bgroup\fonteauteurs\bgroup Parmar\egroup\egroup{}, V.,
+  \bgroup\fonteauteurs\bgroup Keyson\egroup\egroup{}, D. et
+  \bgroup\fonteauteurs\bgroup deBont\egroup\egroup{}, C. (2008).
+\newblock Persuasive technology for shaping social beliefs of rural women in
+  india: An approach based on the theory of planned behaviour.
+\newblock \emph{In} \bgroup\fonteauteurs\bgroup Oinas-Kukkonen\egroup\egroup{},
+  H., \bgroup\fonteauteurs\bgroup Hasle\egroup\egroup{}, P.,
+  \bgroup\fonteauteurs\bgroup Harjumaa\egroup\egroup{}, M.,
+  \bgroup\fonteauteurs\bgroup Segerståhl\egroup\egroup{}, K. et
+  \bgroup\fonteauteurs\bgroup Øhrstrøm\egroup\egroup{}, P., \'editeurs :
+  {\em Persuasive Technology}, volume 5033 de {\em Lecture Notes in Computer
+  Science}, pages 104--115. Springer Berlin Heidelberg.
+
+\bibitem[Patten et Ishii, 2007]{patten2007mechanical}
+\bgroup\fonteauteurs\bgroup Patten\egroup\egroup{}, J. et
+  \bgroup\fonteauteurs\bgroup Ishii\egroup\egroup{}, H. (2007).
+\newblock Mechanical constraints as computational constraints in tabletop
+  tangible interfaces.
+\newblock \emph{In} {\em Proceedings of the SIGCHI Conference on Human Factors
+  in Computing Systems}, CHI '07, pages 809--818, New York, NY, USA. ACM.
+
+\bibitem[Patten \emph{et~al.}, 2002]{patten2002audiopad}
+\bgroup\fonteauteurs\bgroup Patten\egroup\egroup{}, J.,
+  \bgroup\fonteauteurs\bgroup Recht\egroup\egroup{}, B. et
+  \bgroup\fonteauteurs\bgroup Ishii\egroup\egroup{}, H. (2002).
+\newblock Audiopad: A tag-based interface for musical performance.
+\newblock \emph{In} {\em Proceedings of the 2002 Conference on New Interfaces
+  for Musical Expression}, NIME '02, pages 1--6, Singapore, Singapore. National
+  University of Singapore.
+
+\bibitem[Patterson et Romano, 1987]{patterson1987rabbit}
+\bgroup\fonteauteurs\bgroup Patterson\egroup\egroup{}, M.~M. et
+  \bgroup\fonteauteurs\bgroup Romano\egroup\egroup{}, A.~G. (1987).
+\newblock The rabbit in pavlovian conditioning.
+\newblock {\em Classical conditioning}, 3\string:\penalty500\relax 1--36.
+
+\bibitem[Pereira \emph{et~al.}, 2013]{pereira2013understanding}
+\bgroup\fonteauteurs\bgroup Pereira\egroup\egroup{}, L.,
+  \bgroup\fonteauteurs\bgroup Quintal\egroup\egroup{}, F.,
+  \bgroup\fonteauteurs\bgroup Barreto\egroup\egroup{}, M. et
+  \bgroup\fonteauteurs\bgroup Nunes\egroup\egroup{}, N. (2013).
+\newblock Understanding the limitations of eco-feedback: A one-year long-term
+  study.
+\newblock \emph{In} \bgroup\fonteauteurs\bgroup Holzinger\egroup\egroup{}, A.
+  et \bgroup\fonteauteurs\bgroup Pasi\egroup\egroup{}, G., \'editeurs :  {\em
+  Human-Computer Interaction and Knowledge Discovery in Complex, Unstructured,
+  Big Data}, volume 7947 de {\em Lecture Notes in Computer Science}, pages
+  237--255. Springer Berlin Heidelberg.
+
+\bibitem[Petkov \emph{et~al.}, 2012]{petkov2012personalised}
+\bgroup\fonteauteurs\bgroup Petkov\egroup\egroup{}, P.,
+  \bgroup\fonteauteurs\bgroup Goswami\egroup\egroup{}, S.,
+  \bgroup\fonteauteurs\bgroup K\"{o}bler\egroup\egroup{}, F. et
+  \bgroup\fonteauteurs\bgroup Krcmar\egroup\egroup{}, H. (2012).
+\newblock Personalised eco-feedback as a design technique for motivating energy
+  saving behaviour at home.
+\newblock \emph{In} {\em Proceedings of the 7th Nordic Conference on
+  Human-Computer Interaction: Making Sense Through Design}, NordiCHI '12, pages
+  587--596, New York, NY, USA. ACM.
+
+\bibitem[Petty et Cacioppo, 1986]{petty1986elaboration}
+\bgroup\fonteauteurs\bgroup Petty\egroup\egroup{}, R. et
+  \bgroup\fonteauteurs\bgroup Cacioppo\egroup\egroup{}, J. (1986).
+\newblock The elaboration likelihood model of persuasion.
+\newblock \emph{In} {\em Communication and Persuasion}, Springer Series in
+  Social Psychology, pages 1--24. Springer New York.
+
+\bibitem[Ploderer \emph{et~al.}, 2008]{ploderer2008hey}
+\bgroup\fonteauteurs\bgroup Ploderer\egroup\egroup{}, B.,
+  \bgroup\fonteauteurs\bgroup Howard\egroup\egroup{}, S.,
+  \bgroup\fonteauteurs\bgroup Thomas\egroup\egroup{}, P. et
+  \bgroup\fonteauteurs\bgroup Reitberger\egroup\egroup{}, W. (2008).
+\newblock “hey world, take a look at me!”: Appreciating the human body on
+  social network sites.
+\newblock \emph{In} \bgroup\fonteauteurs\bgroup Oinas-Kukkonen\egroup\egroup{},
+  H., \bgroup\fonteauteurs\bgroup Hasle\egroup\egroup{}, P.,
+  \bgroup\fonteauteurs\bgroup Harjumaa\egroup\egroup{}, M.,
+  \bgroup\fonteauteurs\bgroup Segerståhl\egroup\egroup{}, K. et
+  \bgroup\fonteauteurs\bgroup Øhrstrøm\egroup\egroup{}, P., \'editeurs :
+  {\em Persuasive Technology}, volume 5033 de {\em Lecture Notes in Computer
+  Science}, pages 245--248. Springer Berlin Heidelberg.
+
+\bibitem[Prochaska et DiClemente, 2005]{prochaska2005transtheoretical}
+\bgroup\fonteauteurs\bgroup Prochaska\egroup\egroup{}, J.~O. et
+  \bgroup\fonteauteurs\bgroup DiClemente\egroup\egroup{}, C.~C. (2005).
+\newblock The transtheoretical approach.
+\newblock {\em Handbook of psychotherapy integration},
+  2\string:\penalty500\relax 147--171.
+
+\bibitem[Raffle \emph{et~al.}, 2004]{raffle2004topobo}
+\bgroup\fonteauteurs\bgroup Raffle\egroup\egroup{}, H.~S.,
+  \bgroup\fonteauteurs\bgroup Parkes\egroup\egroup{}, A.~J. et
+  \bgroup\fonteauteurs\bgroup Ishii\egroup\egroup{}, H. (2004).
+\newblock Topobo: A constructive assembly system with kinetic memory.
+\newblock \emph{In} {\em Proceedings of the SIGCHI Conference on Human Factors
+  in Computing Systems}, CHI '04, pages 647--654, New York, NY, USA. ACM.
+
+\bibitem[Reis et Correia, 2011]{reis2011perception}
+\bgroup\fonteauteurs\bgroup Reis\egroup\egroup{}, S. et
+  \bgroup\fonteauteurs\bgroup Correia\egroup\egroup{}, N. (2011).
+\newblock The perception of sound and its influence in the classroom.
+\newblock \emph{In} \bgroup\fonteauteurs\bgroup Campos\egroup\egroup{}, P.,
+  \bgroup\fonteauteurs\bgroup Graham\egroup\egroup{}, N.,
+  \bgroup\fonteauteurs\bgroup Jorge\egroup\egroup{}, J.,
+  \bgroup\fonteauteurs\bgroup Nunes\egroup\egroup{}, N.,
+  \bgroup\fonteauteurs\bgroup Palanque\egroup\egroup{}, P. et
+  \bgroup\fonteauteurs\bgroup Winckler\egroup\egroup{}, M., \'editeurs :  {\em
+  Human-Computer Interaction – INTERACT 2011}, volume 6946 de {\em Lecture
+  Notes in Computer Science}, pages 609--626. Springer Berlin Heidelberg.
+
+\bibitem[Reitberger \emph{et~al.}, 2012]{reitberger2012persuasive}
+\bgroup\fonteauteurs\bgroup Reitberger\egroup\egroup{}, W.,
+  \bgroup\fonteauteurs\bgroup Güldenpfennig\egroup\egroup{}, F. et
+  \bgroup\fonteauteurs\bgroup Fitzpatrick\egroup\egroup{}, G. (2012).
+\newblock Persuasive technology considered harmful? an exploration of design
+  concerns through the tv companion.
+\newblock \emph{In} \bgroup\fonteauteurs\bgroup Bang\egroup\egroup{}, M. et
+  \bgroup\fonteauteurs\bgroup Ragnemalm\egroup\egroup{}, E., \'editeurs :  {\em
+  Persuasive Technology. Design for Health and Safety}, volume 7284 de {\em
+  Lecture Notes in Computer Science}, pages 239--250. Springer Berlin
+  Heidelberg.
+
+\bibitem[Reitberger \emph{et~al.}, 2008]{Reitberger2008surrounded}
+\bgroup\fonteauteurs\bgroup Reitberger\egroup\egroup{}, W.,
+  \bgroup\fonteauteurs\bgroup Tscheligi\egroup\egroup{}, M.,
+  de~\bgroup\fonteauteurs\bgroup Ruyter\egroup\egroup{}, B. et
+  \bgroup\fonteauteurs\bgroup Markopoulos\egroup\egroup{}, P. (2008).
+\newblock Surrounded by ambient persuasion.
+\newblock \emph{In} {\em CHI '08 Extended Abstracts on Human Factors in
+  Computing Systems}, CHI EA '08, pages 3989--3992, New York, NY, USA. ACM.
+
+\bibitem[Ritterfeld \emph{et~al.}, 2009]{ritterfeld2009serious}
+\bgroup\fonteauteurs\bgroup Ritterfeld\egroup\egroup{}, U.,
+  \bgroup\fonteauteurs\bgroup Cody\egroup\egroup{}, M. et
+  \bgroup\fonteauteurs\bgroup Vorderer\egroup\egroup{}, P. (2009).
+\newblock {\em Serious games: Mechanisms and effects}.
+\newblock Routledge.
+
+\bibitem[Rodgers et Bartram, 2011]{rodgers2011exploring}
+\bgroup\fonteauteurs\bgroup Rodgers\egroup\egroup{}, J. et
+  \bgroup\fonteauteurs\bgroup Bartram\egroup\egroup{}, L. (2011).
+\newblock Exploring ambient and artistic visualization for residential energy
+  use feedback.
+\newblock {\em Visualization and Computer Graphics, IEEE Transactions on},
+  17(12)\string:\penalty500\relax 2489--2497.
+
+\bibitem[Rogers \emph{et~al.}, 2010]{rogers2010ambient}
+\bgroup\fonteauteurs\bgroup Rogers\egroup\egroup{}, Y.,
+  \bgroup\fonteauteurs\bgroup Hazlewood\egroup\egroup{}, W.~R.,
+  \bgroup\fonteauteurs\bgroup Marshall\egroup\egroup{}, P.,
+  \bgroup\fonteauteurs\bgroup Dalton\egroup\egroup{}, N. et
+  \bgroup\fonteauteurs\bgroup Hertrich\egroup\egroup{}, S. (2010).
+\newblock Ambient influence: Can twinkly lights lure and abstract
+  representations trigger behavioral change?
+\newblock \emph{In} {\em Proceedings of the 12th ACM International Conference
+  on Ubiquitous Computing}, UbiComp '10, pages 261--270, New York, NY, USA.
+  ACM.
+
+\bibitem[Roubroeks \emph{et~al.}, 2010]{roubroeks2010dominant}
+\bgroup\fonteauteurs\bgroup Roubroeks\egroup\egroup{}, M.,
+  \bgroup\fonteauteurs\bgroup Ham\egroup\egroup{}, J. et
+  \bgroup\fonteauteurs\bgroup Midden\egroup\egroup{}, C. (2010).
+\newblock The dominant robot: Threatening robots cause psychological reactance,
+  especially when they have incongruent goals.
+\newblock \emph{In} \bgroup\fonteauteurs\bgroup Ploug\egroup\egroup{}, T.,
+  \bgroup\fonteauteurs\bgroup Hasle\egroup\egroup{}, P. et
+  \bgroup\fonteauteurs\bgroup Oinas-Kukkonen\egroup\egroup{}, H., \'editeurs :
+  {\em Persuasive Technology}, volume 6137 de {\em Lecture Notes in Computer
+  Science}, pages 174--184. Springer Berlin Heidelberg.
+
+\bibitem[Ruijten \emph{et~al.}, 2012]{ruijten2012bridging}
+\bgroup\fonteauteurs\bgroup Ruijten\egroup\egroup{}, P.,
+  de~\bgroup\fonteauteurs\bgroup Kort\egroup\egroup{}, Y. et
+  \bgroup\fonteauteurs\bgroup Kosnar\egroup\egroup{}, P. (2012).
+\newblock Bridging the gap between the home and the lab: A qualitative study of
+  acceptance of an avatar feedback system.
+\newblock \emph{In} \bgroup\fonteauteurs\bgroup Bang\egroup\egroup{}, M. et
+  \bgroup\fonteauteurs\bgroup Ragnemalm\egroup\egroup{}, E., \'editeurs :  {\em
+  Persuasive Technology. Design for Health and Safety}, volume 7284 de {\em
+  Lecture Notes in Computer Science}, pages 251--255. Springer Berlin
+  Heidelberg.
+
+\bibitem[Ruijten \emph{et~al.}, 2011]{ruijten2011unconscious}
+\bgroup\fonteauteurs\bgroup Ruijten\egroup\egroup{}, P. A.~M.,
+  \bgroup\fonteauteurs\bgroup Midden\egroup\egroup{}, C. J.~H. et
+  \bgroup\fonteauteurs\bgroup Ham\egroup\egroup{}, J. (2011).
+\newblock Unconscious persuasion needs goal-striving: The effect of goal
+  activation on the persuasive power of subliminal feedback.
+\newblock \emph{In} {\em Proceedings of the 6th International Conference on
+  Persuasive Technology: Persuasive Technology and Design: Enhancing
+  Sustainability and Health}, PERSUASIVE '11, pages 4:1--4:6, New York, NY,
+  USA. ACM.
+
+\bibitem[Russell, 2008]{russell2008benevolence}
+\bgroup\fonteauteurs\bgroup Russell\egroup\egroup{}, M. (2008).
+\newblock Benevolence and effectiveness: Persuasive technology’s spillover
+  effects in retail settings.
+\newblock \emph{In} \bgroup\fonteauteurs\bgroup Oinas-Kukkonen\egroup\egroup{},
+  H., \bgroup\fonteauteurs\bgroup Hasle\egroup\egroup{}, P.,
+  \bgroup\fonteauteurs\bgroup Harjumaa\egroup\egroup{}, M.,
+  \bgroup\fonteauteurs\bgroup Segerståhl\egroup\egroup{}, K. et
+  \bgroup\fonteauteurs\bgroup Øhrstrøm\egroup\egroup{}, P., \'editeurs :
+  {\em Persuasive Technology}, volume 5033 de {\em Lecture Notes in Computer
+  Science}, pages 94--103. Springer Berlin Heidelberg.
+
+\bibitem[Ryokai \emph{et~al.}, 2004]{ryokai2004iobrush}
+\bgroup\fonteauteurs\bgroup Ryokai\egroup\egroup{}, K.,
+  \bgroup\fonteauteurs\bgroup Marti\egroup\egroup{}, S. et
+  \bgroup\fonteauteurs\bgroup Ishii\egroup\egroup{}, H. (2004).
+\newblock I/o brush: Drawing with everyday objects as ink.
+\newblock \emph{In} {\em Proceedings of the SIGCHI Conference on Human Factors
+  in Computing Systems}, CHI '04, pages 303--310, New York, NY, USA. ACM.
+
+\bibitem[Salam \emph{et~al.}, 2010]{salam2010using}
+\bgroup\fonteauteurs\bgroup Salam\egroup\egroup{}, S.-A.,
+  \bgroup\fonteauteurs\bgroup Yahaya\egroup\egroup{}, W.-W. et
+  \bgroup\fonteauteurs\bgroup Ali\egroup\egroup{}, A.-M. (2010).
+\newblock Using persuasive design principles in motivational feeling towards
+  children dental anxiety (cda).
+\newblock \emph{In} \bgroup\fonteauteurs\bgroup Ploug\egroup\egroup{}, T.,
+  \bgroup\fonteauteurs\bgroup Hasle\egroup\egroup{}, P. et
+  \bgroup\fonteauteurs\bgroup Oinas-Kukkonen\egroup\egroup{}, H., \'editeurs :
+  {\em Persuasive Technology}, volume 6137 de {\em Lecture Notes in Computer
+  Science}, pages 223--237. Springer Berlin Heidelberg.
+
+\bibitem[Schiettecatte et Vanderdonckt, 2008]{schiettecatte2008audiocubes}
+\bgroup\fonteauteurs\bgroup Schiettecatte\egroup\egroup{}, B. et
+  \bgroup\fonteauteurs\bgroup Vanderdonckt\egroup\egroup{}, J. (2008).
+\newblock Audiocubes: A distributed cube tangible interface based on
+  interaction range for sound design.
+\newblock \emph{In} {\em Proceedings of the 2Nd International Conference on
+  Tangible and Embedded Interaction}, TEI '08, pages 3--10, New York, NY, USA.
+  ACM.
+
+\bibitem[Senach et Negri, 2015]{senach2015systemes}
+\bgroup\fonteauteurs\bgroup Senach\egroup\egroup{}, B. et
+  \bgroup\fonteauteurs\bgroup Negri\egroup\egroup{}, A.-L. (2015).
+\newblock {Systèmes ludo-persuasifs pour la consommation durable. 1 -Points de
+  repères et défis à relever}.
+\newblock {\em {Journal d'Interaction Personne-Système}}, {Volume 4, Numéro
+  1, Numéro Spécial : PISTIL}.
+
+\bibitem[Shaer et Hornecker, 2010]{shaer2010tangible}
+\bgroup\fonteauteurs\bgroup Shaer\egroup\egroup{}, O. et
+  \bgroup\fonteauteurs\bgroup Hornecker\egroup\egroup{}, E. (2010).
+\newblock Tangible user interfaces: Past, present, and future directions.
+\newblock {\em Found. Trends Hum.-Comput. Interact.},
+  3(1\&\#8211;2)\string:\penalty500\relax 1--137.
+
+\bibitem[Skinner, 1976]{skinner1976behaviorism}
+\bgroup\fonteauteurs\bgroup Skinner\egroup\egroup{}, B.~F. (1976).
+\newblock {\em About behaviorism}.
+\newblock Vintage Books, New York.
+
+\bibitem[Strauss \emph{et~al.}, 1990]{strauss1990basics}
+\bgroup\fonteauteurs\bgroup Strauss\egroup\egroup{}, A.~L.,
+  \bgroup\fonteauteurs\bgroup Corbin\egroup\egroup{}, J.~M. \emph{et~al.}
+  (1990).
+\newblock {\em Basics of qualitative research}, volume~15.
+\newblock Sage Newbury Park, CA.
+
+\bibitem[Suzuki et Kato, 1995]{suzuki1995interaction}
+\bgroup\fonteauteurs\bgroup Suzuki\egroup\egroup{}, H. et
+  \bgroup\fonteauteurs\bgroup Kato\egroup\egroup{}, H. (1995).
+\newblock Interaction-level support for collaborative learning:
+  Algoblock\&mdash;an open programming language.
+\newblock \emph{In} {\em The First International Conference on Computer Support
+  for Collaborative Learning}, CSCL '95, pages 349--355, Hillsdale, NJ, USA. L.
+  Erlbaum Associates Inc.
+
+\bibitem[Tscheligi et Reitberger, 2007]{Tscheligi2007persuasion}
+\bgroup\fonteauteurs\bgroup Tscheligi\egroup\egroup{}, M. et
+  \bgroup\fonteauteurs\bgroup Reitberger\egroup\egroup{}, W. (2007).
+\newblock Persuasion as an ingredient of societal interfaces.
+\newblock {\em interactions}, 14(5)\string:\penalty500\relax 41--43.
+
+\bibitem[Ullmer et Ishii, 2000]{ullmer2000emerging}
+\bgroup\fonteauteurs\bgroup Ullmer\egroup\egroup{}, B. et
+  \bgroup\fonteauteurs\bgroup Ishii\egroup\egroup{}, H. (2000).
+\newblock Emerging frameworks for tangible user interfaces.
+\newblock {\em IBM Systems Journal}, 39(3.4)\string:\penalty500\relax 915--931.
+
+\bibitem[Underkoffler et Ishii, 1998]{underkoffler1998illuminatinglight}
+\bgroup\fonteauteurs\bgroup Underkoffler\egroup\egroup{}, J. et
+  \bgroup\fonteauteurs\bgroup Ishii\egroup\egroup{}, H. (1998).
+\newblock Illuminating light: An optical design tool with a luminous-tangible
+  interface.
+\newblock \emph{In} {\em Proceedings of the SIGCHI Conference on Human Factors
+  in Computing Systems}, CHI '98, pages 542--549, New York, NY, USA. ACM
+  Press/Addison-Wesley Publishing Co.
+
+\bibitem[Underkoffler et Ishii, 1999]{underkoffler1999urp}
+\bgroup\fonteauteurs\bgroup Underkoffler\egroup\egroup{}, J. et
+  \bgroup\fonteauteurs\bgroup Ishii\egroup\egroup{}, H. (1999).
+\newblock Urp: A luminous-tangible workbench for urban planning and design.
+\newblock \emph{In} {\em Proceedings of the SIGCHI Conference on Human Factors
+  in Computing Systems}, CHI '99, pages 386--393, New York, NY, USA. ACM.
+
+\bibitem[Valkanova \emph{et~al.}, 2013]{valkanova2013reveal}
+\bgroup\fonteauteurs\bgroup Valkanova\egroup\egroup{}, N.,
+  \bgroup\fonteauteurs\bgroup Jorda\egroup\egroup{}, S.,
+  \bgroup\fonteauteurs\bgroup Tomitsch\egroup\egroup{}, M. et
+  \bgroup\fonteauteurs\bgroup Vande~Moere\egroup\egroup{}, A. (2013).
+\newblock Reveal-it!: The impact of a social visualization projection on public
+  awareness and discourse.
+\newblock \emph{In} {\em Proceedings of the SIGCHI Conference on Human Factors
+  in Computing Systems}, CHI '13, pages 3461--3470, New York, NY, USA. ACM.
+
+\bibitem[van Leer et Connor, 2012]{vanleer2012use}
+van \bgroup\fonteauteurs\bgroup Leer\egroup\egroup{}, E. et
+  \bgroup\fonteauteurs\bgroup Connor\egroup\egroup{}, N.~P. (2012).
+\newblock Use of portable digital media players increases patient motivation
+  and practice in voice therapy.
+\newblock {\em Journal of Voice}, 26(4)\string:\penalty500\relax 447 -- 453.
+
+\bibitem[Weiss \emph{et~al.}, 2009]{weiss2009handy}
+\bgroup\fonteauteurs\bgroup Weiss\egroup\egroup{}, M.,
+  \bgroup\fonteauteurs\bgroup Mattern\egroup\egroup{}, F.,
+  \bgroup\fonteauteurs\bgroup Graml\egroup\egroup{}, T.,
+  \bgroup\fonteauteurs\bgroup Staake\egroup\egroup{}, T. et
+  \bgroup\fonteauteurs\bgroup Fleisch\egroup\egroup{}, E. (2009).
+\newblock Handy feedback: Connecting smart meters with mobile phones.
+\newblock \emph{In} {\em Proceedings of the 8th International Conference on
+  Mobile and Ubiquitous Multimedia}, MUM '09, pages 15:1--15:4, New York, NY,
+  USA. ACM.
+
+\bibitem[Wellner \emph{et~al.}, 1993]{wellner1993back}
+\bgroup\fonteauteurs\bgroup Wellner\egroup\egroup{}, P.,
+  \bgroup\fonteauteurs\bgroup Mackay\egroup\egroup{}, W. et
+  \bgroup\fonteauteurs\bgroup Gold\egroup\egroup{}, R. (1993).
+\newblock Back to the real world.
+\newblock {\em Commun. ACM}, 36(7)\string:\penalty500\relax 24--26.
+
+\bibitem[Werner \emph{et~al.}, 2008]{werner2008unitedpulse}
+\bgroup\fonteauteurs\bgroup Werner\egroup\egroup{}, J.,
+  \bgroup\fonteauteurs\bgroup Wettach\egroup\egroup{}, R. et
+  \bgroup\fonteauteurs\bgroup Hornecker\egroup\egroup{}, E. (2008).
+\newblock {\em United-pulse: feeling your partner's pulse}, pages 535--538.
+
+\bibitem[Wisneski \emph{et~al.}, 1998]{wisneski1998ambient}
+\bgroup\fonteauteurs\bgroup Wisneski\egroup\egroup{}, C.,
+  \bgroup\fonteauteurs\bgroup Ishii\egroup\egroup{}, H.,
+  \bgroup\fonteauteurs\bgroup Dahley\egroup\egroup{}, A.,
+  \bgroup\fonteauteurs\bgroup Gorbet\egroup\egroup{}, M.~G.,
+  \bgroup\fonteauteurs\bgroup Brave\egroup\egroup{}, S.,
+  \bgroup\fonteauteurs\bgroup Ullmer\egroup\egroup{}, B. et
+  \bgroup\fonteauteurs\bgroup Yarin\egroup\egroup{}, P. (1998).
+\newblock Ambient displays: Turning architectural space into an interface
+  between people and digital information.
+\newblock \emph{In} {\em Proceedings of the First International Workshop on
+  Cooperative Buildings, Integrating Information, Organization, and
+  Architecture}, CoBuild '98, pages 22--32. Springer-Verlag, London, UK, UK.
+
+\bibitem[Wyer, 1997]{wyer1997automaticity}
+\bgroup\fonteauteurs\bgroup Wyer\egroup\egroup{}, R.~S. (1997).
+\newblock {\em The Automaticity of everyday life}.
+\newblock Advances in social cognition vol. 10. Lawrence Erlbaum Associates,
+  Mahwah,N.J.
+
+\bibitem[Young, 2010]{young2010twitter}
+\bgroup\fonteauteurs\bgroup Young\egroup\egroup{}, M. (2010).
+\newblock Twitter me: Using micro-blogging to motivate teenagers to exercise.
+\newblock \emph{In} \bgroup\fonteauteurs\bgroup Winter\egroup\egroup{}, R.,
+  \bgroup\fonteauteurs\bgroup Zhao\egroup\egroup{}, J. et
+  \bgroup\fonteauteurs\bgroup Aier\egroup\egroup{}, S., \'editeurs :  {\em
+  Global Perspectives on Design Science Research}, volume 6105 de {\em Lecture
+  Notes in Computer Science}, pages 439--448. Springer Berlin Heidelberg.
+
+\bibitem[Zichermann et Cunningham, 2011]{zichermann2011gamification}
+\bgroup\fonteauteurs\bgroup Zichermann\egroup\egroup{}, G. et
+  \bgroup\fonteauteurs\bgroup Cunningham\egroup\egroup{}, C. (2011).
+\newblock {\em Gamification by design: Implementing game mechanics in web and
+  mobile apps}.
+\newblock " O'Reilly Media, Inc.".
+
+\bibitem[Zigelbaum \emph{et~al.}, 2007]{zigelbaum2007tangible}
+\bgroup\fonteauteurs\bgroup Zigelbaum\egroup\egroup{}, J.,
+  \bgroup\fonteauteurs\bgroup Horn\egroup\egroup{}, M.~S.,
+  \bgroup\fonteauteurs\bgroup Shaer\egroup\egroup{}, O. et
+  \bgroup\fonteauteurs\bgroup Jacob\egroup\egroup{}, R. J.~K. (2007).
+\newblock The tangible video editor: Collaborative video editing with active
+  tokens.
+\newblock \emph{In} {\em Proceedings of the 1st International Conference on
+  Tangible and Embedded Interaction}, TEI '07, pages 43--46, New York, NY, USA.
+  ACM.
+
+\bibitem[Zufferey \emph{et~al.}, 2009]{zufferey2009tinkerSheets}
+\bgroup\fonteauteurs\bgroup Zufferey\egroup\egroup{}, G.,
+  \bgroup\fonteauteurs\bgroup Jermann\egroup\egroup{}, P.,
+  \bgroup\fonteauteurs\bgroup Lucchi\egroup\egroup{}, A. et
+  \bgroup\fonteauteurs\bgroup Dillenbourg\egroup\egroup{}, P. (2009).
+\newblock Tinkersheets: Using paper forms to control and visualize tangible
+  simulations.
+\newblock \emph{In} {\em Proceedings of the 3rd International Conference on
+  Tangible and Embedded Interaction}, TEI '09, pages 377--384, New York, NY,
+  USA. ACM.
+
+\end{thebibliography}

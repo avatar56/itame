@@ -1,0 +1,78 @@
+\select@language {french}
+\contentsline {subsection}{\numberline {0.1}Le d\IeC {\'e}veloppement durable}{3}{subsection.0.1}
+\contentsline {subsection}{\numberline {0.2}L'\IeC {\'e}nergie}{3}{subsection.0.2}
+\contentsline {subsection}{\numberline {0.3}L'interaction homme-machine}{4}{subsection.0.3}
+\contentsline {section}{\numberline {1}Probl\IeC {\'e}matique}{4}{section.1}
+\contentsline {section}{\numberline {2}\IeC {\'E}tat de l'art}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Technologie persuasive}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Interface utilisateur tangible}{5}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Technologie persuasive ambiante}{6}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Origines}{6}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}\emph {Virtual Aquarium} de \citet {nakajima2008reflecting}}{7}{subsubsection.2.3.2}
+\contentsline {paragraph}{Description}{7}{paragraph*.1}
+\contentsline {paragraph}{Conception}{7}{paragraph*.2}
+\contentsline {paragraph}{\IeC {\'E}tude}{9}{paragraph*.3}
+\contentsline {paragraph}{Recueil des donn\IeC {\'e}es}{10}{paragraph*.4}
+\contentsline {paragraph}{R\IeC {\'e}sultats (voir Figure~\ref {fig:virtualaquarium5})}{10}{paragraph*.5}
+\contentsline {paragraph}{Analyse des r\IeC {\'e}sultats}{10}{paragraph*.6}
+\contentsline {subsubsection}{\numberline {2.3.3}\emph {Mona Lisa Bookshelf} de \citet {nakajima2008reflecting}}{10}{subsubsection.2.3.3}
+\contentsline {paragraph}{Description}{10}{paragraph*.7}
+\contentsline {paragraph}{Conception}{11}{paragraph*.8}
+\contentsline {paragraph}{\IeC {\'E}tude}{13}{paragraph*.9}
+\contentsline {subsubsection}{\numberline {2.3.4}\emph {InAir} de \citet {kim2010inair}}{14}{subsubsection.2.3.4}
+\contentsline {paragraph}{Description}{14}{paragraph*.10}
+\contentsline {paragraph}{Conception}{14}{paragraph*.11}
+\contentsline {paragraph}{\IeC {\'E}tude}{14}{paragraph*.12}
+\contentsline {paragraph}{Recueil des donn\IeC {\'e}es}{14}{paragraph*.13}
+\contentsline {paragraph}{Analyse des donn\IeC {\'e}es}{14}{paragraph*.14}
+\contentsline {paragraph}{R\IeC {\'e}sultats de l'analyse}{15}{paragraph*.15}
+\contentsline {subsubsection}{\numberline {2.3.5}\emph {Aulura} de \citet {faber2011aulura}}{15}{subsubsection.2.3.5}
+\contentsline {paragraph}{Description}{15}{paragraph*.16}
+\contentsline {paragraph}{Conception}{15}{paragraph*.17}
+\contentsline {paragraph}{\IeC {\'E}tude}{19}{paragraph*.18}
+\contentsline {paragraph}{Recueil des donn\IeC {\'e}es}{20}{paragraph*.19}
+\contentsline {paragraph}{Analyse des donn\IeC {\'e}es}{20}{paragraph*.20}
+\contentsline {paragraph}{R\IeC {\'e}sultats de l'analyse}{20}{paragraph*.21}
+\contentsline {subsubsection}{\numberline {2.3.6}\emph {Shopping Lambent Device} de \citet {kalnikaite2011nudge}}{20}{subsubsection.2.3.6}
+\contentsline {paragraph}{Description}{20}{paragraph*.22}
+\contentsline {paragraph}{Conception}{20}{paragraph*.23}
+\contentsline {paragraph}{\IeC {\'E}tude}{24}{paragraph*.24}
+\contentsline {paragraph}{Recueil des donn\IeC {\'e}es}{24}{paragraph*.25}
+\contentsline {paragraph}{Analyse des donn\IeC {\'e}es}{24}{paragraph*.26}
+\contentsline {paragraph}{R\IeC {\'e}sultats de l'analyse}{24}{paragraph*.27}
+\contentsline {subsubsection}{\numberline {2.3.7}\emph {Classroom Sound Game} de \citet {reis2011perception}}{24}{subsubsection.2.3.7}
+\contentsline {paragraph}{Description}{24}{paragraph*.28}
+\contentsline {paragraph}{Conception}{24}{paragraph*.29}
+\contentsline {paragraph}{\IeC {\'E}tude}{24}{paragraph*.30}
+\contentsline {paragraph}{Recueil des donn\IeC {\'e}es}{25}{paragraph*.31}
+\contentsline {paragraph}{Analyse des donn\IeC {\'e}es}{25}{paragraph*.32}
+\contentsline {paragraph}{R\IeC {\'e}sultats de l'analyse}{25}{paragraph*.33}
+\contentsline {subsubsection}{\numberline {2.3.8}\emph {S\IeC {\'e}maphore} de \citet {belley2006semaphore}}{25}{subsubsection.2.3.8}
+\contentsline {subsubsection}{\numberline {2.3.9}\emph {Coupe-veille} de \citet {belley2006coupe}}{25}{subsubsection.2.3.9}
+\contentsline {subsubsection}{\numberline {2.3.10}\emph {Energymood} de \citet {lejeune2015energymood}}{30}{subsubsection.2.3.10}
+\contentsline {subsubsection}{\numberline {2.3.11}\emph {Nuage Vert} de \citet {evans2009artful}}{30}{subsubsection.2.3.11}
+\contentsline {paragraph}{Description \& Conception}{30}{paragraph*.34}
+\contentsline {paragraph}{Exp\IeC {\'e}rience}{31}{paragraph*.35}
+\contentsline {paragraph}{Recueil des donn\IeC {\'e}es}{31}{paragraph*.36}
+\contentsline {paragraph}{R\IeC {\'e}sultats}{31}{paragraph*.37}
+\contentsline {subsubsection}{\numberline {2.3.12}\emph {Power-Aware Cord} de \citet {gustafsson2005power}}{31}{subsubsection.2.3.12}
+\contentsline {paragraph}{Description}{31}{paragraph*.38}
+\contentsline {paragraph}{Conception}{31}{paragraph*.39}
+\contentsline {paragraph}{Exp\IeC {\'e}rience}{31}{paragraph*.40}
+\contentsline {paragraph}{Recueil des donn\IeC {\'e}es}{31}{paragraph*.41}
+\contentsline {paragraph}{R\IeC {\'e}sultats}{31}{paragraph*.42}
+\contentsline {subsubsection}{\numberline {2.3.13}\emph {Flower lamp} de \citet {lagerkvist2016flower}}{35}{subsubsection.2.3.13}
+\contentsline {paragraph}{Description}{35}{paragraph*.43}
+\contentsline {subsubsection}{\numberline {2.3.14}\emph {Element} de \citet {gyllensward2006visualizing}}{35}{subsubsection.2.3.14}
+\contentsline {paragraph}{Description}{35}{paragraph*.44}
+\contentsline {paragraph}{Conception}{36}{paragraph*.45}
+\contentsline {paragraph}{\IeC {\'E}tude}{36}{paragraph*.46}
+\contentsline {paragraph}{Recueil des donn\IeC {\'e}es}{36}{paragraph*.47}
+\contentsline {paragraph}{R\IeC {\'e}sultats de l'\IeC {\'e}tude}{36}{paragraph*.48}
+\contentsline {subsubsection}{\numberline {2.3.15}\emph {Energy plant} de \citet {broms2009persuasive}}{37}{subsubsection.2.3.15}
+\contentsline {paragraph}{Description}{37}{paragraph*.49}
+\contentsline {subsubsection}{\numberline {2.3.16}\emph {Watt-lite} de \citet {jonsson2010watt}}{39}{subsubsection.2.3.16}
+\contentsline {paragraph}{Description}{39}{paragraph*.50}
+\contentsline {paragraph}{Conception}{39}{paragraph*.51}
+\contentsline {subsubsection}{\numberline {2.3.17}\emph {Waterbot} de \citet {arroyo2005waterbot}}{40}{subsubsection.2.3.17}
+\contentsline {paragraph}{Description}{40}{paragraph*.52}
